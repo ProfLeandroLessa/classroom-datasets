@@ -1,0 +1,1001 @@
+Nome do vendedor;Produto vendido;Quantidade unitária;Valor do produto;Valor da venda;Data da compra;Localização
+Joaquim Souza;Produto B;9;33.32;299.88;12/01/2023;PI
+Lorenzo da Luz;Produto B;10;94.38;943.8;24/03/2023;DF
+Gustavo Henrique Moreira;Produto E;9;84.45;760.05;11/06/2022;PE
+Lorena da Costa;Produto C;5;34.14;170.7;24/12/2022;RO
+Caio Monteiro;Produto C;2;94.42;188.84;27/05/2022;MG
+Lívia Caldeira;Produto C;6;66.87;401.22;18/12/2022;MS
+Isadora da Cunha;Produto E;9;49.25;443.25;20/07/2022;MA
+João Vitor da Mota;Produto D;10;41.71;417.1;20/03/2023;RJ
+Maria Julia Araújo;Produto D;5;10.41;52.05;24/05/2022;PA
+Dra. Maria Fernanda Cavalcanti;Produto D;9;19.88;178.92;31/03/2023;MS
+Maria Luiza da Rocha;Produto C;9;20.48;184.32;30/12/2022;RO
+Heloísa Souza;;1;98.41;98.41;27/04/2023;SC
+Fernanda Nascimento;Produto B;10;78.38;783.8;07/01/2023;MT
+Cauê Almeida;Produto E;3;19.89;59.67;13/05/2023;MS
+Gustavo Duarte;Produto B;2;91.37;182.74;24/07/2022;AM
+Enzo Oliveira;Produto C;1;75.08;75.08;24/08/2022;PB
+Vitor Gabriel Campos;Produto E;3;51.67;155.01;11/01/2023;BA
+Gustavo Correia;Produto B;1;29.75;29.75;24/05/2022;MA
+Dra. Emanuelly Martins;Produto B;5;99.7;498.5;02/07/2022;PE
+Beatriz Moraes;Produto D;9;95.9;863.1;06/07/2022;DF
+Fernanda Nascimento;Produto C;9;11.01;99.09;13/05/2023;RJ
+Luana da Mota;Produto B;5;27.13;135.65;07/02/2023;MA
+Luiz Fernando Cardoso;Produto B;4;32.04;128.16;03/07/2022;PR
+João Felipe Azevedo;Produto A;3;47.86;143.58;06/09/2022;AL
+Evelyn da Conceição;Produto E;6;18.95;113.7;17/01/2023;BA
+Sophie Novaes;Produto E;10;96.93;969.3;10/08/2022;AM
+Fernanda Nascimento;Produto A;3;45.47;136.41;08/06/2022;DF
+Maria Sophia Porto;Produto A;2;60.46;120.92;03/11/2022;MG
+Mirella Jesus;Produto D;10;86.98;869.8;23/07/2022;BA
+Lívia da Rocha;Produto B;2;81.73;163.46;03/08/2022;RS
+Luana Moraes;Produto D;9;84.06;756.54;02/08/2022;RO
+Fernanda Nascimento;Produto B;7;17.79;124.53;06/01/2023;PA
+Lucca Lopes;Produto B;5;22.25;111.25;24/12/2022;RR
+Dr. Lucca Nogueira;Produto D;6;77.1;462.6;20/01/2023;MA
+Joana Cavalcanti;Produto D;6;75.45;452.7;12/10/2022;BA
+Lorenzo Ferreira;Produto E;6;98.36;590.16;06/03/2023;TO
+Dr. Leonardo Duarte;Produto D;7;57.47;402.29;31/07/2022;BA
+Fernanda Nascimento;Produto B;8;52.74;421.92;04/01/2023;AP
+Eloah da Mata;Produto C;10;51.21;512.1;15/09/2022;SC
+Fernanda Nascimento;Produto B;9;57.5;517.5;07/05/2023;CE
+Dr. Luigi Barros;Produto D;5;44.79;223.95;14/04/2023;PR
+Luna Barros;Produto C;6;27.47;164.82;05/07/2022;PE
+Cauê da Mata;Produto C;9;17.38;156.42;09/12/2022;GO
+Sophie Pereira;Produto C;10;43.83;438.3;05/08/2022;MS
+Bruna Cunha;Produto E;5;84.06;420.3;12/04/2023;RR
+Agatha Cardoso;Produto C;1;38.28;38.28;16/06/2022;MT
+Felipe Pinto;Produto A;3;50.55;151.65;15/11/2022;AM
+Giovanna Teixeira;Produto E;4;99.68;398.72;22/03/2023;MT
+Mirella Lopes;Produto C;9;69.62;626.58;03/10/2022;DF
+Davi Ferreira;Produto B;9;52.97;476.73;06/11/2022;AP
+Fernanda Nascimento;Produto C;6;72.34;434.04;08/02/2023;MS
+Luiz Miguel Ramos;Produto D;8;13.52;108.16;15/05/2023;MS
+Fernanda Nascimento;Produto A;2;91.09;182.18;29/12/2022;SE
+Felipe Costa;Produto D;9;56.49;508.41;24/10/2022;AP
+Gabriel Dias;Produto C;8;62.57;500.56;17/10/2022;PA
+Maysa Martins;Produto E;3;55.62;166.86;06/04/2023;RN
+Fernanda Nascimento;Produto E;8;11.4;91.2;28/04/2023;AC
+Brenda da Rocha;Produto D;3;39.78;119.34;07/09/2022;ES
+Isabelly Lopes;;9;39.98;359.82;14/11/2022;ES
+Fernanda Nascimento;Produto D;3;18.7;56.1;23/11/2022;TO
+Rafaela da Costa;Produto C;7;82.4;576.8;21/04/2023;AL
+Eduarda da Cruz;Produto B;7;43.2;302.4;30/09/2022;DF
+André Almeida;Produto E;7;18.83;131.81;28/05/2022;RS
+Gabriela Barros;Produto E;4;48.62;194.48;13/08/2022;RJ
+Dr. Nathan Cavalcanti;Produto D;9;73.57;662.13;24/01/2023;RO
+Breno Porto;Produto E;10;14.88;148.8;30/04/2023;MS
+Yuri Melo;Produto D;5;15.54;77.7;07/04/2023;TO
+Pedro Pereira;Produto C;1;24.75;24.75;19/02/2023;CE
+Rafael Araújo;Produto A;1;94.89;94.89;05/03/2023;ES
+Dr. Nathan Nascimento;Produto D;6;45.58;273.48;18/11/2022;MG
+Fernanda Nascimento;Produto B;8;40.9;327.2;28/05/2022;MG
+Ana Julia Martins;Produto B;5;71.07;355.35;01/12/2022;PA
+Thiago Nogueira;Produto E;7;56.93;398.51;24/05/2022;AL
+Ana Sophia Farias;Produto E;1;39.69;39.69;16/08/2022;RO
+Juan Dias;Produto D;9;34.8;313.2;29/08/2022;SC
+Ana Luiza Mendes;Produto E;6;29.5;177.0;27/07/2022;MT
+Maria Eduarda Nunes;Produto D;4;84.67;338.68;21/10/2022;AL
+Heitor Barbosa;Produto A;3;48.67;146.01;12/10/2022;DF
+Ana Lívia Almeida;Produto E;2;48.56;97.12;09/10/2022;PB
+Gustavo Henrique Barros;Produto E;6;59.24;355.44;23/10/2022;TO
+Pietro Duarte;Produto A;8;36.28;290.24;08/07/2022;CE
+Davi Lucca Souza;Produto E;8;59.64;477.12;21/01/2023;MA
+Kamilly Costela;Produto C;8;56.44;451.52;30/06/2022;TO
+Carlos Eduardo da Luz;Produto A;7;85.46;598.22;18/06/2022;MS
+Maria Clara Ramos;Produto D;6;81.31;487.86;11/08/2022;PR
+Thales Santos;Produto C;10;12.99;129.9;12/06/2022;AM
+Caroline Moura;Produto C;2;14.38;28.76;09/08/2022;AM
+Diego da Cruz;Produto B;5;86.87;434.35;04/08/2022;MT
+Lucas Peixoto;Produto B;3;85.07;255.21;30/05/2022;RJ
+Alícia Ramos;Produto A;6;23.1;138.6;18/03/2023;SE
+Dra. Ana Julia Cunha;Produto A;2;76.67;153.34;14/11/2022;PI
+Joana Rocha;Produto B;3;81.92;245.76;18/03/2023;SP
+Dra. Valentina Viana;Produto A;1;42.83;42.83;02/05/2023;ES
+Vinicius Ribeiro;Produto D;7;14.58;102.06;24/01/2023;CE
+Milena Martins;Produto B;1;76.73;76.73;15/04/2023;PA
+Evelyn Melo;Produto C;9;91.16;820.44;20/07/2022;CE
+Gabrielly Caldeira;Produto C;2;43.46;86.92;23/08/2022;CE
+Isis Ramos;Produto E;6;43.77;262.62;22/04/2023;DF
+Mariana Nascimento;Produto A;8;48.82;390.56;14/06/2022;PE
+Caio Araújo;Produto D;9;69.95;629.55;17/10/2022;PR
+Joaquim Lopes;Produto A;6;78.44;470.64;17/04/2023;RJ
+Fernanda Nascimento;Produto A;2;86.9;173.8;03/04/2023;RS
+Sarah da Rocha;Produto E;10;85.21;852.1;17/10/2022;SC
+Dra. Melissa Costa;Produto E;3;31.9;95.7;11/01/2023;RO
+Enzo Gabriel da Mota;Produto E;7;31.17;218.19;20/05/2023;CE
+Sofia Melo;Produto B;6;36.5;219.0;31/01/2023;DF
+Yago Pires;Produto B;10;47.68;476.8;05/01/2023;MS
+Stephany Moreira;Produto D;5;30.1;150.5;21/07/2022;AM
+Isaac da Mata;Produto B;2;51.09;102.18;04/10/2022;RJ
+Sofia Freitas;Produto A;4;33.42;133.68;09/02/2023;AP
+Ana Farias;Produto A;10;49.87;498.7;20/08/2022;BA
+Dr. Leonardo Souza;Produto A;7;42.77;299.39;24/04/2023;MG
+Fernanda Mendes;Produto A;8;98.12;784.96;31/07/2022;MT
+Kaique Silveira;Produto A;10;41.13;411.3;19/10/2022;DF
+Carlos Eduardo da Costa;Produto A;6;39.46;236.76;25/11/2022;TO
+Fernanda Nascimento;Produto D;9;60.96;548.64;04/02/2023;DF
+Anthony Jesus;Produto A;6;37.24;223.44;17/08/2022;RN
+Raquel Jesus;Produto D;4;63.94;255.76;10/03/2023;PB
+Olivia Gonçalves;Produto D;9;84.13;757.17;01/05/2023;AL
+Luiz Gustavo Campos;Produto A;4;20.33;81.32;04/10/2022;RO
+Maria Clara da Cunha;Produto E;8;50.51;404.08;10/05/2023;SC
+Lucca Caldeira;Produto B;7;43.62;305.34;28/09/2022;RO
+Dr. Raul da Mata;Produto C;3;81.0;243.0;15/05/2023;MT
+Daniel Almeida;Produto E;3;68.52;205.56;04/05/2023;CE
+Rodrigo das Neves;Produto E;9;72.87;655.83;02/09/2022;RJ
+Natália Peixoto;;7;72.24;505.68;24/03/2023;SC
+Guilherme Rezende;Produto C;3;26.57;79.71;17/03/2023;AL
+Theo Cardoso;Produto C;10;52.83;528.3;06/01/2023;GO
+Paulo Costa;Produto A;9;41.61;374.49;15/09/2022;SP
+Alice Aragão;Produto D;10;88.26;882.6;26/07/2022;SE
+Gabriel Rodrigues;Produto A;5;20.27;101.35;18/04/2023;GO
+Juliana Fogaça;Produto D;4;12.76;51.04;23/10/2022;PB
+Joana Rodrigues;Produto D;4;56.69;226.76;08/06/2022;PI
+Alice Cardoso;Produto C;10;27.26;272.6;11/10/2022;BA
+Pedro Lucas da Conceição;Produto C;7;18.01;126.07;24/07/2022;MG
+Isabella da Cunha;Produto D;2;79.88;159.76;15/09/2022;PR
+Dr. Samuel Pereira;Produto D;6;12.01;72.06;12/02/2023;CE
+Isabella Aragão;Produto E;10;92.26;922.6;02/07/2022;PB
+Valentina Souza;Produto E;5;36.09;180.45;12/02/2023;TO
+Isabelly da Paz;Produto D;9;12.93;116.37;11/08/2022;ES
+Valentina Rezende;Produto D;3;97.6;292.8;11/02/2023;SC
+Gabriela Freitas;Produto E;9;60.14;541.26;05/06/2022;AC
+Helena Fernandes;Produto D;2;47.44;94.88;15/02/2023;AL
+João Nascimento;Produto B;5;47.29;236.45;05/08/2022;ES
+Anthony Jesus;Produto B;6;89.39;536.34;31/08/2022;ES
+Vinicius Duarte;Produto A;7;35.9;251.3;25/09/2022;BA
+Vicente Silveira;Produto C;4;95.06;380.24;04/02/2023;SC
+Lívia Nogueira;Produto B;10;91.77;917.7;17/03/2023;MA
+Clara das Neves;Produto B;3;80.45;241.35;08/01/2023;SE
+Dra. Nicole Lopes;Produto B;2;58.11;116.22;27/07/2022;MT
+Juan Cardoso;Produto E;2;85.25;170.5;22/05/2023;AP
+Emanuel Silva;Produto B;9;62.44;561.96;24/05/2022;MA
+Noah Porto;Produto C;3;19.66;58.98;08/10/2022;RN
+Luiz Otávio Pereira;Produto E;6;46.29;277.74;12/12/2022;RS
+Diogo Porto;Produto D;6;83.99;503.94;09/01/2023;CE
+Thiago Novaes;Produto C;2;36.1;72.2;14/04/2023;PI
+Carolina da Cunha;Produto C;1;80.34;80.34;22/05/2022;RJ
+Benício Pinto;Produto C;10;40.71;;06/11/2022;CE
+Ana Laura Monteiro;Produto B;5;29.58;147.9;03/12/2022;CE
+Vicente Aragão;Produto A;4;79.59;318.36;14/04/2023;AM
+Anthony Jesus;Produto B;5;38.54;192.7;16/10/2022;RO
+Larissa das Neves;Produto B;5;45.45;227.25;07/12/2022;AC
+Cauê Costa;Produto A;10;63.69;636.9;17/06/2022;AC
+Otávio Cavalcanti;Produto B;10;22.5;225.0;27/07/2022;RN
+Isabel da Cruz;Produto D;7;20.39;142.73;31/03/2023;RJ
+João Vitor Martins;Produto E;2;80.0;160.0;06/08/2022;PB
+Sarah Alves;Produto E;10;34.31;343.1;01/05/2023;AM
+Marcelo Rodrigues;Produto E;9;18.73;168.57;21/01/2023;AP
+Eduardo Ramos;Produto C;9;14.14;127.26;13/12/2022;TO
+Yasmin da Costa;Produto E;4;51.68;206.72;27/05/2022;PA
+Evelyn Araújo;Produto C;4;12.06;48.24;14/03/2023;TO
+Isabel Monteiro;Produto A;9;50.92;458.28;03/10/2022;RN
+Alícia Duarte;Produto A;8;43.31;346.48;30/06/2022;RS
+Ana Julia Fernandes;Produto D;7;54.11;378.77;21/10/2022;SP
+Luiz Fernando da Rosa;Produto E;1;44.0;44.0;17/05/2023;RJ
+Cecília Alves;Produto C;8;49.71;397.68;29/08/2022;MS
+João Miguel Campos;Produto E;6;97.04;582.24;08/03/2023;TO
+Arthur da Rocha;Produto B;6;86.0;516.0;03/08/2022;TO
+Marcelo Duarte;Produto E;4;35.08;140.32;28/07/2022;PR
+Sarah da Rocha;Produto E;2;71.27;142.54;02/06/2022;SC
+Bianca Silva;Produto B;5;95.68;478.4;26/01/2023;SP
+Lorena Jesus;Produto C;10;77.69;776.9;01/10/2022;AM
+Bryan Caldeira;Produto E;1;44.07;44.07;22/01/2023;PI
+Dr. Enzo Gabriel Ferreira;Produto E;2;84.96;169.92;10/03/2023;RN
+Marina Farias;Produto A;7;17.5;122.5;20/07/2022;AP
+Pedro Miguel da Luz;Produto C;4;47.41;189.64;22/01/2023;SC
+Vitória Farias;Produto C;7;27.49;192.43;05/02/2023;PB
+Igor Carvalho;Produto E;1;43.89;43.89;31/03/2023;PE
+Isis Peixoto;Produto B;2;26.46;52.92;05/02/2023;RR
+Alexia Cunha;Produto D;10;81.53;815.3;08/12/2022;RN
+Maria Eduarda Oliveira;Produto B;5;14.92;74.6;05/05/2023;MA
+Enrico da Costa;Produto C;4;16.76;67.04;18/02/2023;SE
+Ana Luiza Fernandes;Produto C;9;52.5;472.5;14/10/2022;MA
+Laís Silveira;Produto C;3;96.67;290.01;12/10/2022;ES
+Maria Fernanda Moura;Produto D;8;41.4;331.2;29/09/2022;PA
+Joaquim da Conceição;Produto E;9;12.19;109.71;27/07/2022;ES
+Murilo Alves;Produto B;8;95.41;763.28;01/01/2023;RS
+Luigi Melo;Produto A;8;88.77;710.16;08/01/2023;AL
+Dra. Yasmin Duarte;Produto B;7;65.3;457.1;08/02/2023;AM
+Luiz Felipe Freitas;;2;85.8;171.6;02/11/2022;DF
+Bianca da Mata;Produto D;7;89.66;627.62;16/02/2023;RR
+Larissa Freitas;Produto A;1;13.48;13.48;05/02/2023;ES
+Cauã Vieira;Produto A;3;48.31;144.93;27/06/2022;BA
+Isabel Nogueira;Produto C;10;98.0;980.0;10/10/2022;RS
+Benjamin Lopes;Produto D;5;60.93;304.65;13/09/2022;ES
+Thomas Araújo;Produto E;8;58.12;464.96;25/02/2023;PA
+Isaac Novaes;Produto B;2;58.85;117.7;02/08/2022;SC
+Isaac Melo;Produto B;6;34.01;204.06;06/12/2022;MA
+Bianca Duarte;Produto A;7;44.65;312.55;30/12/2022;AM
+Beatriz Moraes;Produto B;8;13.98;111.84;04/03/2023;RN
+Dr. Thomas Pereira;Produto B;5;41.25;206.25;03/11/2022;AP
+Maysa Porto;Produto C;7;83.24;;09/06/2022;TO
+Daniela da Cruz;Produto A;4;17.67;70.68;05/11/2022;PI
+Anthony Jesus;Produto E;4;52.59;210.36;20/03/2023;MT
+Pedro Henrique Moura;Produto A;8;35.72;285.76;10/12/2022;MS
+Anthony Jesus;Produto C;9;14.77;132.93;04/05/2023;TO
+Dr. Eduardo Nascimento;Produto C;6;11.54;69.24;05/09/2022;SP
+Davi Mendes;Produto B;4;97.43;389.72;19/07/2022;RO
+Caio Moreira;Produto D;2;69.17;138.34;11/12/2022;AM
+Vitor Hugo Cavalcanti;Produto D;3;24.14;72.42;22/02/2023;PR
+Sophia Ribeiro;Produto B;2;78.49;156.98;29/11/2022;SC
+Ana Carolina Viana;Produto D;1;78.45;78.45;09/02/2023;GO
+Bruno Freitas;Produto C;8;91.74;733.92;13/12/2022;RR
+Dr. Pedro Rezende;Produto E;4;17.62;70.48;31/10/2022;RN
+Dr. Davi Lucas Aragão;Produto C;8;36.37;290.96;25/12/2022;SE
+Emanuelly Nascimento;Produto A;2;57.39;114.78;16/02/2023;MS
+Sabrina Cunha;Produto D;8;42.07;336.56;03/08/2022;MG
+Anthony Jesus;Produto E;7;27.41;191.87;21/10/2022;AP
+Alexia Souza;Produto A;3;22.43;67.29;09/07/2022;PA
+Carolina Farias;Produto D;6;12.88;77.28;09/04/2023;PB
+Lucca Freitas;Produto C;9;53.41;480.69;20/05/2023;PR
+Dra. Stella Azevedo;Produto E;8;33.14;265.12;25/09/2022;SP
+Felipe Alves;Produto A;1;83.82;83.82;22/05/2023;AL
+Davi Luiz Rodrigues;Produto E;8;77.69;621.52;25/06/2022;ES
+Mariane da Conceição;Produto B;2;85.47;170.94;23/04/2023;PR
+Pedro Henrique Freitas;Produto B;9;20.94;188.46;26/08/2022;SP
+André Melo;Produto C;5;26.24;131.2;13/03/2023;SC
+Pedro Lucas Moura;Produto E;10;13.01;130.1;17/04/2023;DF
+Marcelo Azevedo;Produto B;6;16.89;101.34;14/08/2022;MT
+Camila Novaes;Produto D;2;95.24;190.48;04/05/2023;PA
+Ian Oliveira;Produto B;5;42.28;211.4;25/11/2022;AM
+Luiz Gustavo Peixoto;Produto B;2;99.92;199.84;26/06/2022;AL
+Anthony Jesus;Produto C;2;97.13;194.26;07/09/2022;RR
+Luiz Henrique Nunes;Produto D;9;36.91;332.19;28/10/2022;MG
+Camila da Mata;Produto C;10;53.12;531.2;13/09/2022;ES
+Amanda Alves;Produto B;1;11.27;11.27;30/01/2023;MS
+Isabella Souza;Produto A;8;35.27;282.16;25/01/2023;RJ
+Nicole Sales;Produto E;4;86.02;344.08;09/10/2022;PE
+Helena Silva;Produto B;3;74.48;223.44;26/12/2022;PR
+Lorenzo da Cunha;Produto A;10;55.67;556.7;07/04/2023;SC
+Marcela Barros;Produto B;6;29.37;176.22;15/04/2023;MG
+Murilo Pereira;Produto A;6;78.54;471.24;29/08/2022;PR
+Luiz Miguel Almeida;Produto A;2;60.86;121.72;01/07/2022;BA
+Danilo da Cunha;Produto C;9;32.19;289.71;12/12/2022;MS
+Gabriel Araújo;Produto B;2;52.48;104.96;11/04/2023;MT
+Maria Cecília Gonçalves;Produto B;8;64.04;512.32;27/12/2022;MG
+Sofia da Costa;Produto B;1;89.23;89.23;02/05/2023;RJ
+Anthony Jesus;Produto C;3;27.18;81.54;14/12/2022;AM
+Ana Araújo;Produto A;4;20.46;81.84;19/11/2022;AM
+Alexia Costa;Produto B;8;83.39;667.12;01/09/2022;AM
+Davi Lucca Dias;Produto B;4;16.69;66.76;13/01/2023;AL
+Raul Martins;Produto D;6;36.56;219.36;12/09/2022;GO
+Larissa Peixoto;Produto E;3;42.71;128.13;12/06/2022;SE
+Anthony Jesus;Produto A;7;19.91;139.37;20/05/2023;CE
+Stephany Martins;Produto D;8;98.91;791.28;17/01/2023;ES
+Felipe da Costa;Produto A;10;37.5;375.0;26/09/2022;PE
+Anthony Jesus;;10;13.63;136.3;15/12/2022;PI
+Anthony Jesus;Produto D;10;54.16;541.6;14/11/2022;AC
+Ryan Campos;Produto D;9;29.19;262.71;24/09/2022;RJ
+Renan Nunes;Produto E;2;56.3;112.6;09/05/2023;SE
+Theo Vieira;Produto C;9;64.49;580.41;30/03/2023;AL
+Levi Mendes;Produto E;3;14.02;42.06;22/07/2022;AP
+Gustavo Henrique da Luz;Produto B;3;41.29;123.87;23/12/2022;RN
+Lavínia Lima;Produto A;9;12.19;109.71;02/02/2023;RR
+Natália da Mata;Produto C;3;14.82;44.46;17/03/2023;PR
+Matheus Rodrigues;Produto A;9;51.28;461.52;09/07/2022;SE
+Maria Sophia da Rosa;Produto D;4;60.45;241.8;09/02/2023;AM
+Leandro da Rocha;Produto C;1;88.47;88.47;14/08/2022;MT
+Giovanna Gomes;Produto E;2;51.55;103.1;21/03/2023;AP
+Dr. Lucas da Mota;Produto E;7;86.51;605.57;27/08/2022;RJ
+Marcela da Luz;Produto E;6;65.86;395.16;07/01/2023;PA
+Maria Luiza Campos;Produto D;3;83.32;249.96;18/08/2022;AC
+Benjamin Araújo;Produto E;1;66.13;66.13;11/07/2022;DF
+Letícia das Neves;Produto B;4;17.16;68.64;13/10/2022;PE
+Anthony Jesus;Produto B;2;34.33;68.66;03/08/2022;SC
+Danilo Oliveira;Produto B;8;10.5;84.0;20/12/2022;AC
+Ryan Moreira;Produto B;7;20.1;;20/11/2022;SE
+Murilo da Cruz;Produto C;5;15.07;75.35;02/02/2023;CE
+Isis Ramos;Produto E;9;70.29;632.61;25/09/2022;PI
+Rodrigo Peixoto;Produto A;6;56.64;339.84;03/04/2023;MG
+Matheus Freitas;Produto A;1;12.27;12.27;07/05/2023;PI
+Lorenzo da Mata;Produto C;8;86.07;688.56;23/03/2023;MG
+Dr. Diego Castro;Produto A;9;78.52;706.68;17/04/2023;SP
+Erick Aragão;Produto B;8;31.4;251.2;28/03/2023;PI
+Diego da Rocha;Produto D;1;38.2;38.2;19/06/2022;BA
+Dra. Mariana Gonçalves;Produto E;9;57.67;519.03;06/10/2022;RR
+Dr. Nicolas Novaes;Produto E;3;97.97;293.91;25/09/2022;ES
+Eduarda Viana;Produto C;9;61.37;552.33;31/12/2022;MT
+Dr. Heitor Monteiro;Produto A;5;47.5;237.5;18/12/2022;DF
+Dr. João Gabriel Carvalho;Produto A;4;26.06;104.24;06/05/2023;MT
+Mariana Moraes;Produto B;6;12.69;76.14;01/04/2023;RR
+Thomas Nunes;Produto B;5;12.13;60.65;31/03/2023;RO
+Dr. Henrique Vieira;Produto C;4;55.33;221.32;22/06/2022;DF
+Luiz Otávio Pinto;Produto D;7;45.0;315.0;28/01/2023;MA
+Caio das Neves;Produto C;10;92.77;927.7;29/12/2022;PE
+Rafael da Conceição;Produto D;9;90.98;818.82;15/06/2022;MA
+Bruno Nascimento;Produto B;1;79.06;79.06;28/02/2023;CE
+Lucas Gabriel Silva;Produto B;9;66.76;600.84;20/09/2022;PI
+Amanda Gonçalves;Produto C;2;72.11;144.22;28/08/2022;PE
+Benjamin Viana;Produto D;5;29.21;146.05;02/07/2022;TO
+Leonardo Nogueira;Produto B;2;98.27;196.54;14/09/2022;MA
+Benício Porto;Produto C;6;90.13;540.78;18/03/2023;TO
+Melissa Martins;Produto D;1;68.48;68.48;03/11/2022;SE
+Davi Lucca Nunes;Produto C;3;52.32;156.96;03/05/2023;PR
+Otávio Cunha;Produto A;8;10.22;81.76;07/09/2022;RR
+Eduardo Barbosa;Produto A;4;14.35;57.4;24/09/2022;RS
+Noah Teixeira;Produto B;7;92.44;647.08;05/09/2022;RS
+Anthony Fogaça;Produto C;8;75.15;601.2;21/07/2022;PR
+Anthony Jesus;Produto E;9;39.12;352.08;12/04/2023;PE
+Olivia da Mata;Produto A;1;92.94;92.94;25/04/2023;PB
+Anthony Jesus;Produto D;3;75.02;225.06;20/01/2023;RR
+Leandro Fernandes;Produto C;2;56.08;112.16;20/11/2022;RO
+Lavínia Alves;Produto E;7;65.85;460.95;13/08/2022;RN
+Isadora Fogaça;Produto C;7;23.81;166.67;20/01/2023;SP
+Cauê Mendes;Produto A;1;91.98;91.98;17/01/2023;PR
+Dra. Isabella Dias;Produto B;5;29.38;146.9;05/07/2022;RJ
+Anthony Jesus;Produto D;9;56.59;509.31;10/02/2023;RO
+Ana Vitória Peixoto;Produto B;2;51.15;102.3;14/09/2022;TO
+Maria Eduarda Melo;Produto D;6;14.69;88.14;21/01/2023;PA
+Camila das Neves;Produto D;5;83.48;417.4;24/05/2022;TO
+Nicole Nogueira;Produto D;5;89.68;448.4;18/02/2023;PR
+Olivia Rocha;Produto C;6;53.73;322.38;13/02/2023;BA
+Laura Silveira;Produto D;3;15.6;46.8;07/04/2023;SE
+Dr. Francisco Barbosa;Produto A;10;91.02;910.2;10/06/2022;AM
+Diego Ramos;Produto C;9;33.55;301.95;27/03/2023;PA
+Lucca Dias;Produto E;10;83.71;837.1;18/02/2023;MT
+Rebeca da Mata;Produto B;8;51.03;408.24;28/12/2022;DF
+Pedro Miguel Correia;Produto C;2;97.83;195.66;17/10/2022;AL
+Augusto Teixeira;Produto E;10;91.86;918.6;08/05/2023;SC
+Vitor Hugo da Rosa;;5;67.8;339.0;21/05/2023;SP
+Breno Fogaça;Produto E;6;44.74;268.44;15/06/2022;RN
+Bernardo da Mota;Produto A;2;67.93;135.86;07/12/2022;MS
+Alice Gomes;Produto E;2;45.85;91.7;19/09/2022;AM
+Dra. Luna da Luz;Produto D;1;72.57;72.57;24/03/2023;RR
+Daniel Almeida;Produto B;6;44.31;265.86;13/06/2022;TO
+Dr. Pedro Miguel da Luz;Produto A;2;26.68;53.36;20/05/2023;SC
+Paulo Viana;Produto A;4;14.54;58.16;15/12/2022;PB
+Anthony das Neves;Produto A;10;42.52;425.2;27/08/2022;AL
+Anthony Alves;Produto E;9;61.59;554.31;16/11/2022;DF
+Thales Moraes;Produto A;2;64.24;128.48;07/08/2022;SP
+Olivia Rezende;Produto B;4;72.24;288.96;19/03/2023;RN
+Leonardo Fogaça;Produto B;3;46.19;138.57;12/02/2023;PB
+João Felipe da Mota;Produto A;5;98.9;494.5;10/10/2022;RS
+Vitória da Conceição;Produto C;10;57.43;574.3;26/05/2022;PI
+Dr. Davi Lucca Mendes;Produto C;6;75.65;453.9;12/05/2023;PA
+Yasmin Rocha;Produto A;4;10.05;40.2;20/12/2022;RS
+Erick da Rosa;Produto C;6;68.87;413.22;04/10/2022;PB
+Stephany Moura;Produto A;6;53.19;319.14;17/11/2022;SE
+Marcelo Azevedo;Produto B;9;25.99;233.91;06/10/2022;AM
+Anthony Jesus;Produto B;1;40.75;;31/05/2022;MS
+Melissa Fogaça;Produto C;8;63.93;511.44;12/04/2023;PE
+Alícia Ferreira;Produto D;8;91.44;731.52;05/06/2022;CE
+Isis Cunha;Produto D;8;45.56;364.48;27/10/2022;AP
+Dr. Murilo Moreira;Produto A;9;17.1;153.9;18/09/2022;PI
+Maria Sophia da Luz;Produto B;7;53.52;374.64;20/07/2022;MT
+Luiz Gustavo Dias;Produto D;7;49.35;345.45;25/06/2022;SC
+João Vitor Rodrigues;Produto B;9;64.67;582.03;14/07/2022;ES
+Esther Jesus;Produto D;2;89.86;179.72;12/02/2023;MA
+Cauê da Mota;Produto A;5;43.8;219.0;30/08/2022;RO
+Rafaela Silva;Produto A;3;61.09;183.27;23/11/2022;PE
+Maria Clara Pereira;Produto E;6;60.27;361.62;19/02/2023;SC
+Nicole das Neves;Produto B;2;37.57;75.14;09/06/2022;SC
+Ana Lívia da Cruz;Produto A;10;85.38;853.8;07/06/2022;RR
+Maysa da Rosa;Produto E;6;24.18;145.08;18/07/2022;PB
+Enzo Gabriel Costa;Produto E;8;26.34;210.72;08/12/2022;ES
+Fernanda Pinto;Produto E;6;10.04;60.24;02/02/2023;AP
+Maria Lopes;Produto B;10;69.32;693.2;09/07/2022;BA
+Ana Sophia Campos;Produto E;9;36.8;331.2;30/10/2022;MG
+Miguel da Rosa;Produto B;7;63.88;447.16;01/01/2023;AM
+Brenda Peixoto;Produto C;8;92.49;739.92;19/09/2022;PA
+Anthony Jesus;Produto E;4;80.92;323.68;06/12/2022;SE
+Maria Alice Fogaça;Produto E;2;30.06;60.12;14/05/2023;PE
+Marina Silva;Produto D;1;85.26;85.26;22/03/2023;SP
+Diogo Novaes;Produto C;9;59.68;537.12;15/07/2022;RO
+Valentina Lopes;Produto C;4;81.19;324.76;01/10/2022;MT
+Anthony Jesus;Produto B;9;95.22;856.98;22/03/2023;PR
+Anthony Jesus;Produto C;2;25.78;51.56;10/12/2022;SP
+Anthony Jesus;Produto E;6;88.15;528.9;22/11/2022;PR
+Otávio Gonçalves;Produto A;4;84.0;336.0;29/01/2023;PI
+Breno Gomes;Produto C;3;34.69;104.07;27/08/2022;SP
+Bárbara da Mata;Produto C;6;73.05;438.3;24/01/2023;RS
+Juliana Campos;Produto A;9;57.34;516.06;01/12/2022;PR
+Nina das Neves;Produto E;10;59.16;591.6;20/10/2022;MT
+Ana Lívia Cardoso;Produto C;4;76.03;304.12;15/11/2022;PA
+Dra. Maria Alice Costa;Produto A;4;34.23;136.92;03/09/2022;RR
+Nicolas Silva;Produto E;6;74.07;444.42;19/06/2022;MG
+Anthony Jesus;Produto B;8;35.08;280.64;10/12/2022;MS
+Dr. Benjamin Cunha;Produto E;8;72.16;577.28;30/09/2022;PR
+Dr. Pedro Melo;Produto C;5;77.85;389.25;04/05/2023;MS
+Luana Porto;Produto B;10;18.84;188.4;09/02/2023;CE
+Anthony Jesus;Produto C;1;73.77;73.77;04/05/2023;RN
+Gabrielly Silveira;Produto C;9;29.15;262.35;22/04/2023;MA
+Luiza da Paz;Produto A;8;99.75;798.0;24/04/2023;GO
+Enrico Moraes;Produto B;4;34.73;138.92;19/07/2022;RJ
+Anthony Jesus;Produto A;9;55.03;495.27;11/01/2023;AC
+Mariana Rodrigues;Produto B;5;57.64;288.2;24/04/2023;BA
+Ana Clara Campos;Produto E;4;68.68;274.72;03/07/2022;MS
+Ana Clara Farias;Produto C;2;55.05;110.1;07/09/2022;MG
+Rafael Cardoso;;8;64.27;514.16;25/12/2022;PB
+Calebe das Neves;Produto E;6;57.7;346.2;09/07/2022;RO
+Isaac Gomes;Produto B;10;60.87;608.7;14/11/2022;PR
+Anthony Jesus;Produto D;10;98.07;980.7;08/05/2023;SE
+Vitor Gabriel da Mata;Produto D;1;49.22;49.22;02/08/2022;BA
+Sofia Moura;Produto B;4;73.09;292.36;22/02/2023;MS
+Maria Clara Correia;Produto C;1;16.65;16.65;07/05/2023;CE
+Anthony Jesus;Produto C;6;87.71;526.26;30/08/2022;ES
+Vinicius Novaes;Produto E;8;23.97;191.76;29/05/2022;RR
+Antônio Melo;Produto B;8;45.51;364.08;16/11/2022;AM
+Ian Santos;Produto B;1;85.18;85.18;26/09/2022;RR
+Daniela Fernandes;Produto B;9;85.83;772.47;08/06/2022;SP
+Sophia Nascimento;Produto E;3;31.4;94.2;11/09/2022;MG
+Clarice Campos;Produto B;5;47.25;236.25;07/02/2023;PR
+Maria da Paz;Produto D;10;34.57;345.7;19/04/2023;CE
+Giovanna Nascimento;Produto D;10;78.79;787.9;03/06/2022;PI
+Davi Nunes;Produto D;10;90.57;905.7;19/06/2022;AC
+Laís Nascimento;Produto E;1;97.03;;28/09/2022;MT
+Maria Fernanda Almeida;Produto E;3;34.2;102.6;09/04/2023;AL
+Guilherme Silva;Produto E;9;86.72;780.48;06/06/2022;PE
+Manuela Pereira;Produto C;7;90.02;630.14;12/07/2022;SE
+Benjamin da Paz;Produto A;5;75.2;376.0;20/07/2022;DF
+Eduarda da Costa;Produto E;5;77.07;385.35;17/10/2022;PA
+Alexandre Gonçalves;Produto E;8;16.86;134.88;27/10/2022;MG
+Fernanda Nascimento;Produto A;8;37.58;300.64;06/02/2023;BA
+Pedro Miguel Barbosa;Produto C;3;94.84;284.52;17/11/2022;AP
+Emanuella Teixeira;Produto C;9;53.57;482.13;22/08/2022;TO
+Anthony Jesus;Produto C;10;80.41;804.1;20/06/2022;RR
+Amanda Cavalcanti;Produto A;4;58.76;235.04;26/04/2023;GO
+Francisco Jesus;Produto B;6;11.71;70.26;19/06/2022;CE
+Daniela Ferreira;Produto E;1;89.1;89.1;14/06/2022;AC
+Maysa Ferreira;Produto D;5;76.67;383.35;27/04/2023;RJ
+Levi Gonçalves;Produto A;3;13.26;39.78;22/12/2022;BA
+Ana Castro;Produto A;8;70.85;566.8;23/10/2022;RR
+Bianca Silveira;Produto E;8;36.92;295.36;09/01/2023;TO
+Maria Luiza Costela;Produto D;10;41.19;411.9;09/09/2022;PE
+Sarah das Neves;Produto D;10;66.53;665.3;29/06/2022;RO
+Esther Caldeira;Produto A;2;87.03;174.06;03/06/2022;MA
+Elisa Farias;Produto B;10;77.37;773.7;28/10/2022;SE
+Pedro Miguel Silva;Produto E;5;65.36;326.8;02/03/2023;AL
+Dr. Gustavo Henrique das Neves;Produto B;7;81.79;572.53;14/09/2022;CE
+Isabella Ribeiro;Produto D;3;34.03;102.09;26/09/2022;RJ
+Guilherme Barbosa;Produto B;2;79.12;158.24;05/08/2022;CE
+Marina da Cunha;Produto E;9;47.69;429.21;29/07/2022;MG
+Anthony Jesus;Produto A;2;34.08;68.16;15/08/2022;PR
+Davi Luiz Vieira;Produto A;5;79.25;396.25;13/11/2022;PR
+Eduardo Nogueira;Produto B;6;83.34;500.04;26/06/2022;SP
+Emanuella Rodrigues;Produto A;7;26.11;182.77;29/03/2023;RN
+Anthony Jesus;Produto D;3;38.09;114.27;21/09/2022;MG
+Breno Silva;Produto D;8;46.11;368.88;12/08/2022;AL
+Dra. Maria Fernanda Cardoso;Produto B;5;27.27;136.35;13/05/2023;BA
+Nicolas Santos;Produto E;10;73.67;736.7;11/10/2022;MG
+Anthony Jesus;Produto A;10;72.68;726.8;27/01/2023;AP
+Murilo Gonçalves;Produto E;3;81.09;243.27;03/02/2023;PI
+Gabriela Pinto;Produto B;8;77.64;621.12;30/05/2022;SE
+Miguel Barbosa;Produto C;1;20.8;20.8;21/12/2022;PR
+Paulo Barbosa;Produto B;2;65.96;131.92;27/06/2022;RJ
+Lorena Fogaça;Produto A;4;26.17;104.68;07/08/2022;RR
+Fernanda da Rocha;Produto D;8;31.05;248.4;03/03/2023;PR
+Renan Barros;Produto A;5;71.92;359.6;05/05/2023;AP
+Beatriz Dias;Produto C;5;58.05;290.25;21/02/2023;RJ
+Luiz Fernando Cavalcanti;Produto B;10;71.9;719.0;07/12/2022;SP
+Anthony Jesus;Produto C;10;26.31;263.1;29/10/2022;DF
+Alice Freitas;Produto B;10;52.04;520.4;03/07/2022;RS
+Anthony Jesus;Produto C;5;11.69;58.45;29/03/2023;MT
+Arthur da Paz;Produto B;8;71.07;568.56;13/10/2022;PB
+Alana Ribeiro;Produto A;8;35.12;280.96;06/06/2022;SE
+Nicolas Jesus;;4;81.89;327.56;02/08/2022;PA
+Ana Costa;Produto B;7;48.55;339.85;23/05/2022;PA
+Anthony Jesus;Produto B;10;36.12;361.2;13/05/2023;PA
+Dr. Antônio Nunes;Produto D;6;43.15;258.9;11/08/2022;MG
+Heitor Nogueira;Produto B;9;90.23;812.07;05/02/2023;BA
+Isabel Costela;Produto E;5;44.06;220.3;19/09/2022;RR
+Larissa Freitas;Produto D;10;;341.7;30/11/2022;CE
+Alana Teixeira;Produto A;5;44.78;223.9;24/07/2022;AM
+Alexandre Freitas;Produto C;7;50.49;353.43;26/07/2022;AC
+Ana Vitória Nogueira;Produto E;4;17.88;71.52;25/04/2023;AL
+Luiz Gustavo Peixoto;Produto C;9;44.37;399.33;18/08/2022;PI
+Dr. Cauê Barbosa;Produto E;9;91.17;820.53;24/02/2023;ES
+Yasmin Fernandes;Produto A;1;45.24;45.24;01/06/2022;SP
+Dra. Maitê da Mota;Produto E;2;81.69;163.38;03/04/2023;CE
+Anthony Jesus;Produto C;3;33.4;100.2;29/05/2022;PR
+Anthony Jesus;Produto D;6;27.03;162.18;11/04/2023;SC
+Vitória Jesus;Produto D;10;49.31;;15/04/2023;RN
+Ana Sophia Vieira;Produto B;7;60.57;423.99;11/01/2023;PR
+Fernanda Mendes;Produto C;5;10.41;52.05;08/11/2022;MS
+Alice Novaes;Produto C;1;75.65;75.65;28/02/2023;AC
+Clarice Cunha;Produto E;5;57.97;289.85;14/12/2022;PB
+Carolina Jesus;Produto A;1;17.28;17.28;07/08/2022;RN
+Anthony Jesus;Produto A;5;20.34;101.7;30/01/2023;SE
+Camila Viana;Produto C;3;63.64;190.92;16/10/2022;SC
+Renan Cunha;Produto D;1;60.68;60.68;22/12/2022;RJ
+Enrico Campos;Produto E;4;67.93;271.72;27/04/2023;SP
+Melissa Martins;Produto B;6;26.8;160.8;04/01/2023;AP
+Henrique da Rocha;Produto A;5;97.2;486.0;29/03/2023;ES
+Melissa Martins;Produto D;9;62.4;561.6;30/09/2022;RS
+Luiz Otávio Mendes;Produto C;9;94.33;848.97;10/06/2022;AM
+Melissa Martins;Produto E;6;44.86;269.16;06/10/2022;AC
+Giovanna da Cruz;Produto C;1;;87.43;29/06/2022;MA
+Lucca Rodrigues;Produto B;5;31.01;155.05;22/10/2022;AP
+Dr. Anthony Oliveira;Produto C;7;54.42;380.94;15/03/2023;MT
+Melissa Martins;Produto C;6;53.48;320.88;04/07/2022;PB
+Leandro Campos;Produto E;9;71.38;642.42;26/04/2023;MG
+Dr. Miguel Gomes;Produto D;10;88.3;883.0;19/11/2022;AM
+Lorena Teixeira;Produto A;7;24.21;169.47;12/10/2022;AP
+Isis Barbosa;Produto D;1;32.96;32.96;26/01/2023;PI
+João da Conceição;Produto B;8;67.09;536.72;12/10/2022;CE
+Kaique da Cruz;Produto D;5;43.59;217.95;08/11/2022;SC
+Alícia Azevedo;Produto A;9;46.42;417.78;28/05/2022;MA
+Dr. Anthony Oliveira;Produto B;8;84.23;673.84;01/09/2022;ES
+Melissa Martins;Produto D;5;63.0;315.0;18/05/2023;MS
+Lucas Gabriel Carvalho;Produto E;3;52.81;158.43;25/09/2022;AP
+Ryan Teixeira;Produto E;4;19.24;76.96;27/02/2023;RR
+Melissa Martins;Produto E;4;79.46;317.84;08/12/2022;PI
+Melissa Martins;Produto A;4;21.71;86.84;19/07/2022;TO
+João Vitor da Costa;Produto A;10;30.59;305.9;08/09/2022;SE
+Maria Luiza Cardoso;Produto D;10;41.06;410.6;10/03/2023;SP
+Milena Fernandes;Produto C;1;23.39;23.39;09/10/2022;RO
+Brenda Costela;Produto A;5;18.89;94.45;27/09/2022;AC
+Caio Azevedo;Produto B;5;73.16;365.8;01/12/2022;PE
+Vinicius Gonçalves;Produto B;9;15.67;141.03;16/07/2022;RS
+Mirella Pires;Produto A;5;25.03;125.15;14/09/2022;CE
+Camila Vieira;Produto E;7;20.15;141.05;18/10/2022;MG
+Ana Laura Moraes;Produto D;9;29.41;264.69;18/04/2023;RJ
+Lucca da Conceição;Produto A;9;31.35;282.15;26/12/2022;AM
+Maria Alice Cunha;Produto B;6;78.15;468.9;09/01/2023;PB
+Arthur Carvalho;Produto B;3;22.23;66.69;28/03/2023;PB
+Melissa Martins;Produto B;10;15.97;159.7;15/02/2023;SC
+Caio da Rocha;Produto D;1;38.97;38.97;28/09/2022;MG
+Ana Clara Melo;Produto A;1;19.92;19.92;16/08/2022;RN
+Vitor Hugo Santos;Produto E;7;91.74;642.18;12/05/2023;PI
+Bernardo Peixoto;Produto A;7;90.01;630.07;10/04/2023;ES
+Emanuella Gonçalves;Produto D;8;97.01;776.08;02/03/2023;PA
+Davi Lucas Castro;Produto B;9;51.22;460.98;10/12/2022;PR
+Olivia da Conceição;Produto D;3;67.11;201.33;25/10/2022;RN
+Melissa Martins;Produto B;4;56.33;225.32;09/02/2023;RJ
+Melissa Martins;Produto D;2;56.72;113.44;19/03/2023;MG
+Ana Beatriz Correia;;4;37.72;150.88;18/04/2023;RS
+Raquel da Conceição;Produto A;4;20.22;80.88;12/01/2023;RR
+Ana Júlia da Rocha;Produto A;10;56.79;567.9;14/04/2023;ES
+Calebe Gomes;Produto C;5;70.16;350.8;21/03/2023;SE
+Dra. Gabrielly Martins;Produto A;5;91.86;459.3;19/12/2022;PE
+Dra. Ana Julia Caldeira;Produto B;1;75.33;75.33;23/10/2022;DF
+Clara Vieira;Produto E;2;29.44;58.88;19/02/2023;RN
+Nicolas Moreira;Produto D;6;68.5;411.0;31/07/2022;SP
+Melissa Martins;Produto B;5;74.95;374.75;27/05/2022;RJ
+Mariane Pires;Produto A;5;67.48;337.4;03/08/2022;PE
+Melissa Martins;Produto C;9;94.56;851.04;21/04/2023;MG
+Pedro Araújo;Produto C;6;43.75;262.5;05/09/2022;ES
+João Gabriel Porto;Produto C;4;57.13;;18/12/2022;BA
+Sarah Novaes;Produto B;6;96.42;578.52;19/11/2022;RS
+Lucas Gabriel Caldeira;Produto B;10;36.54;365.4;03/11/2022;MS
+Isadora Campos;Produto A;6;10.34;62.04;04/01/2023;RN
+Sabrina Monteiro;Produto A;9;39.84;358.56;15/03/2023;PR
+Pedro Araújo;Produto D;7;76.12;532.84;24/05/2022;PE
+Marcelo Campos;Produto B;2;58.31;116.62;14/06/2022;RR
+Dr. Enrico da Mata;Produto E;3;69.92;209.76;20/02/2023;MS
+Pietro Martins;Produto B;9;94.52;850.68;25/07/2022;RO
+Pedro Araújo;Produto B;3;56.92;170.76;20/04/2023;MS
+Laura da Mota;Produto D;6;75.69;454.14;28/01/2023;RS
+Larissa Ferreira;Produto C;4;78.37;313.48;26/01/2023;DF
+Pedro Araújo;Produto B;10;48.42;484.2;14/01/2023;DF
+Ana Laura Silveira;Produto B;4;83.93;335.72;09/07/2022;DF
+Luna Ramos;Produto E;7;45.94;321.58;23/10/2022;GO
+João Gabriel Azevedo;Produto C;3;99.15;297.45;07/03/2023;AL
+Caroline Gomes;Produto B;1;87.41;87.41;05/03/2023;ES
+Letícia da Luz;Produto B;3;41.39;124.17;04/07/2022;PE
+Cauã Pires;Produto D;3;42.58;127.74;28/06/2022;AP
+Paulo da Cunha;Produto B;8;98.64;789.12;27/02/2023;RO
+Pietro Nunes;Produto E;7;38.49;269.43;26/01/2023;MS
+Breno da Rosa;Produto B;4;;62.56;23/05/2022;MG
+Ana Lívia Teixeira;Produto B;7;65.65;459.55;21/02/2023;RN
+Luiz Gustavo Barbosa;Produto A;1;20.21;20.21;03/10/2022;PA
+Kamilly Ramos;Produto E;3;46.69;140.07;27/03/2023;GO
+Manuela da Mota;Produto D;9;12.22;109.98;29/08/2022;RN
+Dra. Isabel Mendes;Produto E;7;70.58;494.06;25/02/2023;CE
+Raquel Caldeira;Produto C;7;88.04;616.28;06/04/2023;AM
+Júlia Viana;Produto E;1;43.63;43.63;10/06/2022;PR
+Pedro Araújo;Produto B;10;91.15;911.5;15/06/2022;AC
+Luiz Otávio Oliveira;Produto B;7;95.15;666.05;30/01/2023;MT
+Dra. Maria Viana;Produto A;4;25.74;102.96;25/01/2023;PI
+Ana Dias;Produto D;7;28.21;197.47;27/01/2023;PI
+Bryan da Costa;Produto E;2;85.19;170.38;10/01/2023;PI
+Maria Fernanda Santos;Produto B;3;21.04;63.12;04/01/2023;PA
+Juan Viana;Produto A;4;10.28;41.12;23/07/2022;RR
+Felipe Vieira;Produto C;4;24.11;96.44;22/11/2022;SE
+Vitória da Paz;Produto C;8;53.29;426.32;25/04/2023;SE
+Alícia Campos;Produto C;6;95.78;574.68;25/10/2022;BA
+Fernanda Nunes;Produto D;6;40.13;240.78;04/04/2023;GO
+Natália Dias;Produto B;1;70.62;70.62;12/01/2023;PI
+Amanda Porto;Produto A;4;78.78;315.12;06/11/2022;PR
+Enzo Carvalho;Produto C;4;68.06;272.24;19/07/2022;SE
+Thiago Pinto;Produto B;9;91.19;820.71;02/06/2022;TO
+Caroline Correia;Produto E;6;56.86;341.16;24/06/2022;DF
+Maria Ferreira;Produto E;6;26.09;156.54;29/01/2023;PB
+Yuri Rocha;Produto B;6;77.45;464.7;12/02/2023;PB
+Felipe Pereira;Produto A;6;78.28;469.68;15/03/2023;DF
+Lucas da Costa;Produto B;10;38.77;387.7;27/05/2022;PE
+Igor da Luz;Produto B;2;48.12;96.24;09/11/2022;RN
+Fernando Fogaça;Produto A;8;44.41;355.28;26/06/2022;AL
+Ana Lívia da Mata;Produto C;5;82.6;413.0;23/03/2023;PB
+Vitor Gabriel Caldeira;Produto D;3;34.07;102.21;10/08/2022;MA
+Enrico Aragão;Produto B;10;53.03;530.3;18/09/2022;CE
+Isadora Souza;Produto E;1;50.6;50.6;18/10/2022;AL
+Ana Lívia Moura;Produto E;2;78.89;157.78;04/10/2022;AP
+Elisa Duarte;Produto C;8;98.09;784.72;29/01/2023;RR
+Pedro Miguel Duarte;;7;61.35;429.45;13/01/2023;SE
+Isadora da Luz;Produto D;10;88.24;882.4;11/09/2022;PA
+Luiza Porto;Produto A;4;10.95;43.8;07/12/2022;AP
+Marcela Moura;Produto D;9;15.25;137.25;08/05/2023;RS
+Gustavo Henrique Novaes;Produto E;4;18.88;75.52;07/06/2022;AL
+Daniela Araújo;Produto C;4;60.94;243.76;04/10/2022;AL
+Emanuel da Conceição;Produto E;4;18.27;73.08;01/07/2022;GO
+Enzo da Mota;Produto C;7;65.11;455.77;21/08/2022;MS
+Pedro Araújo;Produto D;6;87.42;524.52;18/01/2023;RR
+Rebeca Freitas;Produto D;9;35.4;318.6;03/06/2022;RN
+Vitor Hugo Silva;Produto B;1;24.64;24.64;02/12/2022;PA
+Lucca Costa;Produto C;4;25.83;;23/08/2022;ES
+Pedro Araújo;Produto D;6;86.38;518.28;20/03/2023;SE
+Valentina Barros;Produto D;3;32.53;97.59;07/08/2022;PI
+Amanda Melo;Produto C;3;15.65;46.95;17/08/2022;MT
+Augusto Costa;Produto E;7;19.79;138.53;13/05/2023;RN
+Nicolas Farias;Produto C;3;43.2;129.6;18/09/2022;PB
+Yuri Ferreira;Produto D;5;20.2;101.0;01/07/2022;SC
+Esther Ribeiro;Produto D;5;75.56;377.8;26/04/2023;DF
+Ana Correia;Produto D;4;58.19;232.76;09/10/2022;RR
+Luiz Miguel Souza;Produto A;4;71.27;285.08;30/09/2022;RO
+Rodrigo Rezende;Produto E;10;75.96;759.6;19/04/2023;BA
+João Guilherme Moura;Produto C;10;11.73;117.3;31/07/2022;MA
+Dra. Sabrina da Paz;Produto D;10;15.35;153.5;11/01/2023;MG
+Kevin Nascimento;Produto B;5;90.9;454.5;02/03/2023;AM
+Pedro Araújo;Produto C;10;76.26;762.6;20/11/2022;AL
+Thales Cardoso;Produto C;8;19.09;152.72;26/09/2022;PR
+Pedro Araújo;Produto B;4;95.97;383.88;16/04/2023;PA
+Pedro Araújo;Produto A;8;91.83;734.64;30/01/2023;PI
+Maria Cecília Mendes;Produto A;8;60.96;487.68;17/09/2022;RR
+João das Neves;Produto A;10;48.65;486.5;26/06/2022;SE
+João Ramos;Produto B;10;66.88;668.8;02/09/2022;MT
+Maria Vitória Silveira;Produto D;4;97.12;388.48;02/02/2023;RR
+Pedro Araújo;Produto D;2;30.5;61.0;02/07/2022;RS
+João Gabriel Lopes;Produto B;5;15.42;77.1;09/09/2022;SP
+Benício Novaes;Produto C;7;57.52;402.64;17/06/2022;AL
+Ana Laura Moreira;Produto E;2;66.59;133.18;20/06/2022;MT
+Maria Lima;Produto D;8;26.19;209.52;10/06/2022;AP
+Ana Laura da Rocha;Produto D;2;47.05;94.1;01/12/2022;TO
+Dr. Davi Luiz da Paz;Produto E;2;87.19;174.38;01/10/2022;ES
+Caio Nascimento;Produto D;5;80.02;400.1;14/12/2022;MG
+Dra. Vitória Freitas;Produto B;3;10.9;32.7;23/07/2022;DF
+João Vitor da Cruz;Produto A;9;69.57;626.13;01/12/2022;RO
+Maysa Pereira;Produto B;9;53.1;477.9;27/04/2023;SC
+Bruno Rocha;Produto E;6;11.09;66.54;31/10/2022;AC
+Maria Sophia Jesus;Produto D;6;20.9;125.4;07/10/2022;RN
+Ryan Barbosa;Produto D;10;64.44;644.4;24/01/2023;ES
+Bianca Moreira;Produto C;6;23.91;143.46;01/02/2023;ES
+Dr. Isaac Fogaça;Produto B;10;25.1;251.0;17/11/2022;SE
+Dra. Evelyn Costa;Produto A;10;95.7;957.0;17/05/2023;PA
+Pedro Araújo;Produto C;7;92.33;646.31;30/07/2022;AM
+Luna Costela;Produto C;7;46.73;327.11;25/07/2022;AM
+Joana Cavalcanti;Produto C;4;90.89;363.56;24/07/2022;CE
+Bryan Lopes;Produto C;1;94.19;94.19;06/04/2023;AC
+Pedro Araújo;Produto D;10;39.67;396.7;17/02/2023;PB
+Luigi da Costa;Produto E;7;29.6;207.2;02/01/2023;RN
+Otávio da Cruz;Produto C;7;67.52;472.64;03/02/2023;AP
+Caio Pereira;Produto B;2;13.05;26.1;02/12/2022;RJ
+Ryan Nascimento;Produto E;6;82.61;495.66;10/03/2023;SE
+Julia Farias;Produto A;4;92.98;371.92;25/08/2022;MG
+Dr. Yago da Rosa;Produto A;5;;161.25;22/08/2022;AL
+Milena Novaes;Produto D;4;26.99;107.96;22/10/2022;AM
+Gustavo Cavalcanti;Produto C;2;19.43;38.86;27/09/2022;AP
+Ryan da Mata;Produto E;8;50.51;404.08;08/11/2022;RR
+Emanuella da Paz;Produto D;7;39.38;275.66;02/09/2022;RN
+Vicente Melo;Produto D;1;85.73;85.73;27/02/2023;AM
+João Pedro das Neves;Produto C;5;60.14;300.7;21/03/2023;MS
+Agatha Moraes;Produto E;3;59.85;179.55;31/03/2023;AL
+João Guilherme Cunha;Produto C;1;67.59;67.59;01/10/2022;AL
+Marcelo Almeida;Produto C;3;69.78;209.34;27/10/2022;PE
+Enrico Rodrigues;Produto B;7;56.73;397.11;11/09/2022;MS
+Maria Julia Pinto;Produto E;2;29.96;59.92;09/05/2023;AM
+Davi Luiz Rezende;Produto D;2;60.84;121.68;26/12/2022;MG
+Augusto Cavalcanti;Produto D;10;21.6;216.0;08/08/2022;GO
+Luna Souza;Produto A;5;96.38;481.9;23/07/2022;MS
+Maria Clara Azevedo;Produto C;9;74.27;668.43;04/04/2023;SP
+Vinicius Moreira;Produto D;3;27.32;81.96;11/08/2022;MT
+João Felipe Carvalho;Produto A;10;46.13;461.3;18/12/2022;ES
+Carolina Fernandes;Produto C;9;51.47;463.23;05/11/2022;CE
+Luana Jesus;Produto B;2;13.17;26.34;08/09/2022;RS
+Larissa da Mota;Produto C;3;39.71;;30/09/2022;TO
+Pedro Araújo;Produto B;2;50.21;100.42;11/05/2023;RR
+Noah Rezende;Produto B;9;84.97;764.73;01/12/2022;PI
+Gustavo Novaes;Produto C;5;62.43;312.15;01/02/2023;PI
+Paulo Moreira;Produto E;3;20.75;62.25;16/09/2022;MT
+Marcos Vinicius Mendes;Produto B;4;97.41;389.64;31/12/2022;RS
+Maria Luiza Castro;Produto B;4;49.78;199.12;10/10/2022;MS
+Brenda Nascimento;Produto D;3;50.42;151.26;20/04/2023;RN
+Eloah Correia;Produto A;7;78.39;548.73;03/03/2023;SE
+Maitê Cavalcanti;Produto C;8;56.29;450.32;25/09/2022;GO
+Pedro Araújo;Produto C;7;78.07;546.49;14/09/2022;CE
+Dr. João Lucas da Rosa;Produto D;1;17.25;17.25;09/02/2023;RN
+Luiza Caldeira;Produto B;1;85.32;85.32;20/03/2023;SP
+João Gabriel Pinto;Produto C;4;26.79;107.16;20/02/2023;PB
+Emilly Viana;Produto D;3;67.92;203.76;27/01/2023;AC
+Ana Júlia Alves;Produto A;6;38.04;228.24;26/02/2023;GO
+Eloah da Mota;Produto B;10;60.25;602.5;22/01/2023;MG
+Calebe Pereira;Produto B;5;69.52;347.6;15/01/2023;GO
+Pedro Araújo;Produto A;3;57.28;171.84;11/10/2022;DF
+Elisa da Mata;Produto D;10;97.17;971.7;02/07/2022;PB
+Pedro Araújo;Produto C;9;49.08;441.72;15/02/2023;MG
+Pedro Araújo;Produto B;7;43.33;303.31;02/07/2022;AC
+Pedro Araújo;Produto C;2;26.31;52.62;03/09/2022;RR
+Dr. Otávio Nunes;Produto C;9;91.43;822.87;12/12/2022;AP
+Theo Lima;Produto A;1;31.16;31.16;31/12/2022;RS
+Alana Moraes;Produto E;2;85.2;170.4;23/03/2023;TO
+Leandro Melo;Produto C;8;89.94;719.52;20/10/2022;CE
+Brenda Lopes;Produto B;8;99.93;799.44;03/09/2022;SC
+Anthony Jesus;Produto A;4;20.85;83.4;12/08/2022;RO
+Anthony Jesus;Produto D;8;49.82;398.56;05/09/2022;MA
+João Gabriel das Neves;Produto C;7;35.22;246.54;21/05/2023;PE
+Lara Gonçalves;Produto B;1;36.27;36.27;01/05/2023;GO
+Pedro Henrique da Mata;Produto D;8;10.38;83.04;15/11/2022;PI
+Yago Silva;Produto A;1;76.93;76.93;24/10/2022;AL
+Valentina Nunes;Produto D;1;19.39;19.39;13/11/2022;AC
+Dra. Evelyn Novaes;Produto C;10;83.11;831.1;03/09/2022;RJ
+Anthony Jesus;Produto A;10;18.34;183.4;29/04/2023;MT
+Anthony Jesus;Produto C;4;15.29;61.16;23/03/2023;PR
+Nathan Castro;Produto C;4;30.26;121.04;06/08/2022;BA
+Daniel Costa;Produto C;3;34.62;103.86;24/09/2022;MA
+Davi Lucca Peixoto;Produto A;7;58.9;412.3;03/03/2023;CE
+Rodrigo Peixoto;Produto C;5;30.23;151.15;10/07/2022;MT
+Joaquim Rezende;Produto B;2;94.82;189.64;19/04/2023;DF
+Anthony Jesus;Produto A;3;27.48;82.44;24/02/2023;MG
+Júlia Jesus;Produto E;4;59.24;236.96;26/07/2022;GO
+Yasmin da Costa;Produto D;5;98.47;492.35;04/09/2022;BA
+Clara Moreira;Produto A;4;76.38;305.52;28/04/2023;MA
+Pedro Henrique Dias;Produto C;5;54.45;272.25;07/01/2023;PB
+Brenda Cunha;Produto E;7;35.38;247.66;19/04/2023;GO
+Igor Aragão;Produto C;4;93.25;373.0;21/11/2022;PR
+Caroline Duarte;Produto D;8;68.83;550.64;09/07/2022;PR
+Maria Vitória Nogueira;Produto D;7;93.37;653.59;20/09/2022;AM
+Danilo Cavalcanti;Produto D;2;46.08;92.16;30/12/2022;BA
+Catarina Correia;Produto C;9;19.71;177.39;14/11/2022;ES
+Nicole Aragão;Produto E;5;92.42;462.1;12/06/2022;RN
+Antônio Lima;Produto E;8;36.36;290.88;11/06/2022;AP
+Maria Cecília Aragão;Produto E;6;80.03;480.18;19/12/2022;AL
+Diego Teixeira;Produto A;7;74.63;522.41;07/12/2022;CE
+Lucas Lopes;Produto C;6;73.98;443.88;13/08/2022;TO
+Eduarda Alves;Produto E;7;36.68;256.76;16/07/2022;PI
+Emanuella Pires;Produto D;5;47.63;238.15;09/05/2023;RJ
+Nicole da Paz;Produto D;6;34.44;206.64;11/11/2022;TO
+Anthony Jesus;Produto E;4;51.01;204.04;08/11/2022;PB
+Lorena Vieira;Produto E;4;48.93;195.72;11/06/2022;MT
+Juan Carvalho;Produto A;4;90.83;363.32;23/11/2022;PE
+Lucca das Neves;Produto E;5;10.33;51.65;28/01/2023;MS
+Evelyn Nunes;Produto B;4;51.24;;19/12/2022;AL
+Cecília Dias;Produto E;4;69.36;277.44;11/02/2023;RO
+Isabel Almeida;Produto B;1;;91.68;13/04/2023;AC
+Gabriela Barros;Produto C;4;94.98;379.92;16/10/2022;PA
+Ana Lívia da Paz;Produto A;8;11.22;89.76;18/06/2022;SP
+Benício da Paz;Produto B;10;88.55;885.5;21/03/2023;BA
+Anthony Jesus;Produto C;3;29.81;89.43;17/11/2022;RS
+Otávio Alves;Produto C;3;65.91;197.73;04/08/2022;ES
+Larissa Dias;Produto A;10;72.11;721.1;09/05/2023;RR
+João Guilherme Nogueira;Produto E;7;35.08;245.56;01/06/2022;SP
+Anthony Jesus;Produto B;1;14.51;14.51;21/08/2022;RO
+Heloísa Pereira;Produto B;7;31.86;223.02;22/02/2023;RN
+Helena Farias;Produto A;9;62.41;561.69;03/07/2022;RJ
+Anthony Jesus;Produto D;5;52.05;260.25;29/05/2022;RN
+Marcelo Nunes;Produto B;10;68.36;683.6;30/11/2022;RO
+Breno Campos;Produto C;2;37.61;75.22;30/10/2022;PE
+Rodrigo Oliveira;Produto C;4;49.44;197.76;25/09/2022;MT
+Alícia Campos;Produto D;2;93.9;187.8;27/02/2023;AC
+Natália Viana;Produto D;1;15.24;15.24;04/04/2023;SP
+Carolina Ferreira;Produto B;8;13.08;104.64;22/08/2022;MT
+Brenda Carvalho;Produto B;6;51.31;307.86;02/11/2022;CE
+Lucca Cardoso;Produto B;10;80.64;806.4;29/07/2022;SP
+Mariana da Mata;Produto E;6;20.48;122.88;14/12/2022;RJ
+Anthony Jesus;Produto D;5;38.0;190.0;04/10/2022;PE
+Davi Lucas Fernandes;Produto B;9;57.89;521.01;11/11/2022;RO
+Anthony Jesus;Produto B;8;39.32;314.56;07/04/2023;BA
+Beatriz Castro;Produto A;3;34.23;102.69;06/05/2023;TO
+Davi Lucas Teixeira;Produto D;10;72.01;720.1;16/10/2022;PI
+Letícia da Cunha;Produto A;5;59.81;299.05;09/05/2023;SC
+Nina Lopes;Produto C;3;58.38;175.14;18/08/2022;PB
+Anthony Jesus;Produto B;5;15.77;78.85;05/02/2023;PE
+Dr. Bernardo da Rosa;Produto C;4;61.37;245.48;12/12/2022;RO
+Leandro Lessa;Produto D;5;93.17;465.85;06/06/2022;MG
+Enrico Caldeira;Produto A;7;43.27;302.89;29/11/2022;RR
+Ryan Campos;Produto A;1;95.33;95.33;29/12/2022;BA
+Clarice da Rocha;Produto A;5;29.32;146.6;25/01/2023;RR
+Eloah Cunha;Produto B;3;19.38;58.14;01/07/2022;RN
+Bruno Farias;Produto E;1;44.54;44.54;13/02/2023;MT
+Júlia Oliveira;Produto A;1;16.84;16.84;25/08/2022;SC
+Fernanda Melo;Produto A;6;84.11;504.66;23/11/2022;RJ
+Enzo Viana;Produto E;2;83.9;167.8;27/05/2022;GO
+Helena Lima;Produto A;9;53.64;482.76;01/12/2022;MG
+Ana Carolina Rezende;Produto B;8;88.35;706.8;01/07/2022;AL
+Luiz Miguel Pereira;Produto A;7;57.33;401.31;25/05/2022;RO
+Bruna Fogaça;Produto E;2;58.53;117.06;11/07/2022;PR
+Caroline Moreira;Produto B;9;84.93;764.37;24/11/2022;MS
+Bruna Duarte;Produto E;3;41.5;124.5;24/07/2022;MT
+Lívia Cardoso;Produto D;6;23.56;141.36;01/05/2023;RJ
+Letícia Souza;Produto D;8;72.35;578.8;12/05/2023;ES
+Caio Correia;Produto D;5;88.18;440.9;01/12/2022;AL
+Renan Lopes;Produto B;6;19.16;114.96;22/04/2023;BA
+Isabella Araújo;Produto A;5;58.19;290.95;20/04/2023;PE
+Helena Nunes;Produto B;7;57.88;405.16;31/12/2022;RO
+Leandro Lessa;Produto E;3;13.24;39.72;21/08/2022;RN
+Dr. Pedro Henrique Almeida;Produto B;4;48.38;193.52;03/05/2023;AL
+Theo Rodrigues;Produto C;8;40.18;321.44;20/06/2022;PB
+Sarah Cardoso;Produto E;10;77.43;774.3;14/06/2022;MA
+Emanuella Lopes;Produto A;2;82.0;164.0;14/02/2023;TO
+Leandro Lessa;Produto D;3;57.83;173.49;02/09/2022;RN
+Eloah Peixoto;Produto E;2;43.06;86.12;27/01/2023;PB
+Ana Júlia Cunha;Produto A;8;89.21;713.68;05/08/2022;PI
+Ana Carolina Rodrigues;Produto E;9;75.96;683.64;12/04/2023;AL
+Lívia Monteiro;Produto D;9;96.08;864.72;01/07/2022;MT
+Davi Luiz Azevedo;Produto C;8;39.36;314.88;23/04/2023;MG
+Maria Vitória Costela;Produto B;7;55.74;;09/12/2022;SE
+Luna Moreira;Produto E;6;47.33;283.98;07/01/2023;MS
+Marcela Duarte;Produto D;10;53.64;536.4;11/12/2022;CE
+Maysa Moura;Produto A;6;15.7;94.2;11/09/2022;AP
+Ian Rocha;Produto A;5;97.39;486.95;18/09/2022;ES
+Cauã Campos;Produto C;5;83.88;419.4;09/06/2022;MS
+Breno Rodrigues;Produto C;3;43.61;130.83;24/06/2022;ES
+Leandro Lessa;Produto D;10;20.58;205.8;14/03/2023;PE
+Levi Teixeira;Produto B;6;98.37;590.22;31/01/2023;AM
+Felipe Dias;Produto D;4;59.15;236.6;27/08/2022;AM
+Gustavo Henrique Farias;Produto B;7;41.92;293.44;30/05/2022;MG
+Kevin da Conceição;Produto E;9;86.66;779.94;26/04/2023;TO
+Leandro Caldeira;Produto E;9;69.63;626.67;23/04/2023;MS
+Enzo Novaes;Produto D;7;23.65;165.55;28/05/2022;SP
+Daniel Sales;Produto A;7;54.37;380.59;04/11/2022;RS
+Daniela Viana;Produto C;2;48.36;96.72;13/07/2022;MT
+Leandro Lessa;Produto C;8;55.24;441.92;11/03/2023;RS
+Ryan Aragão;Produto D;10;60.13;601.3;29/09/2022;MS
+Leandro Lessa;Produto E;6;67.76;406.56;04/01/2023;PA
+Leandro Lessa;Produto D;10;31.62;316.2;15/06/2022;AP
+Nicolas Souza;Produto C;8;89.09;712.72;03/02/2023;RJ
+Dr. Daniel Novaes;Produto B;9;77.96;701.64;08/05/2023;PA
+Leandro Lessa;Produto D;7;48.97;342.79;27/08/2022;PI
+Yago Cardoso;Produto D;7;84.01;588.07;01/11/2022;RS
+Augusto Souza;Produto C;9;17.14;154.26;30/11/2022;PA
+Beatriz Castro;Produto B;2;95.72;191.44;04/01/2023;DF
+Igor Rezende;Produto C;5;39.46;197.3;22/01/2023;CE
+Bruno Gomes;Produto C;5;19.48;97.4;17/07/2022;ES
+Leandro Lessa;Produto C;6;;399.18;15/09/2022;MA
+Pedro Lucas Caldeira;Produto D;9;24.25;218.25;30/06/2022;DF
+Dr. Cauã Lima;Produto A;5;20.25;101.25;30/04/2023;SE
+Luiz Fernando Porto;Produto E;8;64.91;519.28;15/11/2022;SE
+Larissa Cunha;Produto E;6;11.62;69.72;13/12/2022;DF
+Leandro Lessa;Produto D;3;40.45;121.35;08/11/2022;SE
+Maysa Fernandes;Produto A;9;60.44;543.96;03/01/2023;RJ
+Cecília Freitas;Produto A;4;26.53;106.12;03/07/2022;RR
+Luigi Almeida;Produto D;5;12.97;64.85;05/03/2023;AL
+Marcos Vinicius Carvalho;Produto D;9;13.2;118.8;28/06/2022;RN
+Luna da Mota;Produto B;6;53.17;319.02;17/04/2023;RO
+João Felipe da Mota;Produto B;7;45.23;316.61;05/11/2022;AC
+Diego da Cunha;Produto D;1;33.16;33.16;15/06/2022;MT
+Maria Vitória Ribeiro;Produto C;4;79.9;319.6;08/12/2022;RJ
+João Gabriel Ramos;Produto C;9;64.9;584.1;03/06/2022;AL
+Vitor Gabriel Fernandes;Produto D;2;86.71;173.42;02/10/2022;PR
+Pietra da Luz;Produto E;4;44.44;177.76;13/04/2023;RJ
+Isabelly Pires;Produto D;5;68.35;341.75;06/03/2023;RN
+Noah Alves;Produto C;4;47.62;190.48;25/05/2022;RO
+Leonardo Pereira;Produto D;9;45.31;407.79;11/11/2022;PI
+Fernanda Jesus;Produto C;8;11.87;94.96;01/10/2022;GO
+Amanda Porto;Produto E;1;23.4;23.4;03/05/2023;CE
+Dr. Davi Lucca Azevedo;Produto B;10;25.26;252.6;17/07/2022;AL
+Vitor Ferreira;Produto A;1;31.51;31.51;15/05/2023;PR
+Rafaela Ferreira;Produto D;10;62.25;622.5;15/10/2022;PR
+Dr. Ryan Moraes;Produto D;10;96.51;965.1;17/10/2022;MA
+Matheus Souza;Produto C;9;97.06;873.54;17/02/2023;MS
+Dr. André Almeida;Produto A;6;22.46;134.76;21/10/2022;PA
+Larissa Pires;Produto B;5;23.75;118.75;04/04/2023;CE
+João Vitor Cardoso;Produto A;3;48.35;145.05;11/06/2022;RJ
+Maitê da Luz;Produto B;7;60.53;423.71;22/04/2023;BA
+Pedro Miguel Carvalho;Produto A;1;77.48;77.48;07/02/2023;MG
+Mirella Silva;Produto C;8;26.74;213.92;27/02/2023;MS
+Eduardo Rezende;Produto C;6;72.92;437.52;30/11/2022;CE
+Dr. Enzo Gabriel Novaes;Produto C;6;14.53;87.18;04/10/2022;GO
+Dr. Breno Moraes;Produto E;5;54.35;271.75;13/11/2022;AM
+Isis Monteiro;Produto E;6;14.93;89.58;09/10/2022;BA
+Samuel Souza;Produto E;2;96.71;193.42;08/10/2022;SP
+Emanuella da Rocha;Produto D;2;99.44;198.88;22/11/2022;SP
+Kaique Santos;Produto D;8;10.66;85.28;23/09/2022;PB
+Vitor Hugo da Paz;Produto E;8;32.2;257.6;21/11/2022;BA
+Dr. Ian Fogaça;Produto A;7;86.53;;25/09/2022;PB
+Eduardo da Cunha;Produto A;4;76.02;304.08;29/03/2023;RR
+Antônio Martins;Produto A;4;85.7;342.8;23/09/2022;MG
+Bárbara Pereira;Produto B;8;16.5;132.0;18/06/2022;RJ
+Dr. Anthony Nunes;Produto C;9;57.32;515.88;20/09/2022;CE
+Eloah da Cruz;Produto A;9;68.36;615.24;12/07/2022;MS
+João Guilherme Ferreira;Produto E;5;78.47;392.35;06/06/2022;GO
+Isis Cardoso;Produto D;2;60.73;121.46;22/05/2023;SE
+Marcelo Porto;Produto C;7;31.88;223.16;10/12/2022;GO
+Dr. Paulo Melo;Produto A;9;43.1;387.9;15/07/2022;RS
+Leandro Lessa;Produto E;9;76.65;689.85;17/05/2023;MG
+Yuri da Mata;Produto B;4;89.35;357.4;29/03/2023;BA
+Maria Eduarda Cardoso;Produto A;10;96.86;968.6;03/11/2022;MA
+Dr. Benjamin da Paz;Produto C;2;96.1;192.2;15/04/2023;SE
+Carlos Eduardo Carvalho;Produto C;3;92.95;278.85;13/03/2023;AL
+Clarice Mendes;Produto E;8;20.31;162.48;04/01/2023;PA
+Dra. Júlia Peixoto;Produto D;8;58.52;468.16;05/01/2023;SP
+Vitor Santos;Produto A;6;18.15;108.9;17/12/2022;PE
+Breno Rezende;Produto D;8;75.57;604.56;24/03/2023;MS
+Dra. Valentina Farias;Produto D;3;15.39;46.17;23/12/2022;GO
+Enzo Freitas;Produto C;8;35.44;283.52;30/11/2022;RJ
+Luiz Gustavo Fogaça;Produto A;1;38.37;38.37;27/12/2022;PI
+Giovanna Nogueira;Produto C;10;54.84;548.4;17/07/2022;SP
+Isis Rodrigues;Produto A;9;11.35;102.15;26/02/2023;PA
+Daniel Nascimento;Produto B;6;44.76;268.56;11/04/2023;MS
+Daniela Araújo;Produto B;4;95.29;381.16;31/12/2022;MG
+Larissa Costela;Produto C;1;59.23;59.23;05/05/2023;AL
+Elisa Castro;Produto A;4;36.25;145.0;01/06/2022;AL
+Pedro Miguel Duarte;Produto C;3;23.02;69.06;19/01/2023;SE
+Leandro Lessa;Produto D;1;65.72;65.72;04/06/2022;GO
+Dr. André Castro;Produto B;3;35.95;107.85;14/09/2022;RN
+Letícia Araújo;Produto E;9;81.24;731.16;29/09/2022;ES
+Dr. João Melo;Produto C;9;93.58;842.22;11/02/2023;SP
+Dr. Emanuel Sales;Produto D;3;42.69;128.07;29/10/2022;MG
+Luana Vieira;Produto C;8;35.72;285.76;05/06/2022;RN
+Sarah da Luz;Produto B;6;71.08;426.48;31/01/2023;AC
+Maria Eduarda Porto;Produto E;2;69.43;138.86;11/08/2022;AP
+Davi Ferreira;Produto B;10;55.68;556.8;22/05/2023;DF
+Sofia Barbosa;Produto E;5;49.49;247.45;15/12/2022;RJ
+Evelyn Pinto;Produto C;4;59.02;236.08;12/08/2022;PA
+Catarina Gonçalves;Produto B;2;56.12;112.24;29/06/2022;RN
+Olivia Rezende;;9;40.05;360.45;22/12/2022;PB
+Rodrigo Fogaça;Produto C;8;52.0;416.0;16/05/2023;RN
+Pedro Araújo;Produto B;7;23.39;163.73;12/06/2022;MS
+Leandro Lessa;Produto B;9;41.51;373.59;11/07/2022;AP
+João Vitor Azevedo;Produto A;10;78.5;785.0;11/12/2022;PE
+Leandro Lessa;Produto A;2;21.82;43.64;10/11/2022;MS
+Nathan Silveira;Produto D;9;41.84;376.56;06/03/2023;AL
+Matheus Mendes;Produto A;6;35.35;212.1;31/03/2023;PA
+Leandro Lessa;Produto C;9;;807.21;28/04/2023;PR
+Gabrielly Dias;Produto C;4;73.08;292.32;30/07/2022;SC
+Daniel da Cunha;Produto C;9;12.08;108.72;12/01/2023;SE
+Mariane das Neves;Produto E;2;74.57;149.14;05/03/2023;GO
+Calebe Almeida;Produto B;5;57.61;288.05;01/01/2023;RS
+Luiz Miguel Fernandes;Produto C;9;71.94;647.46;10/09/2022;RR
+Nicolas Sales;Produto E;1;59.59;59.59;08/07/2022;RR
+Stella Pinto;Produto E;2;29.39;58.78;05/03/2023;AP
+Dra. Milena Dias;Produto B;2;12.55;25.1;25/12/2022;PB
+Rafaela da Cunha;Produto E;9;52.28;470.52;27/05/2022;AL
+Raquel Rocha;Produto B;4;18.01;72.04;03/04/2023;RR
+Kevin da Cruz;Produto B;5;47.93;239.65;30/12/2022;ES
+Otávio da Paz;Produto B;1;37.98;37.98;15/07/2022;MG
+Maitê Correia;Produto C;6;79.43;476.58;01/02/2023;PE
+Emilly Martins;Produto A;4;37.97;151.88;01/02/2023;SE
+Joana Cardoso;Produto E;3;46.52;139.56;02/05/2023;MG
+Felipe Moura;Produto A;10;58.05;580.5;08/08/2022;MS
+Gabriel Lima;Produto D;3;25.3;75.9;11/11/2022;AL
+Isaac Sales;Produto E;6;23.69;142.14;01/11/2022;PA
+Dr. Anthony Gonçalves;Produto E;1;41.79;41.79;22/08/2022;RN
+Luiz Fernando Novaes;Produto D;5;18.03;90.15;16/12/2022;MS
+Renan da Costa;Produto A;4;20.59;82.36;07/08/2022;MS
+Sophia Sales;Produto E;9;48.05;432.45;01/11/2022;AC
+Vitor Caldeira;Produto E;9;74.79;;31/10/2022;PR
+Leandro Lessa;Produto A;1;24.34;24.34;20/04/2023;PE
+Thomas Mendes;Produto D;6;81.86;491.16;29/04/2023;TO
+Sarah Rezende;Produto B;4;54.07;216.28;03/06/2022;DF
+Marcos Vinicius Freitas;Produto C;7;68.48;479.36;09/05/2023;MA
+Leandro Lessa;Produto B;5;60.66;303.3;03/12/2022;AC
+Pedro Miguel Melo;Produto B;4;85.85;343.4;26/11/2022;PB
+Vicente Souza;Produto D;1;92.19;92.19;04/01/2023;PA
+Stella Costela;Produto C;5;95.72;478.6;12/11/2022;PE
+Clara Pinto;Produto B;3;62.69;188.07;24/10/2022;TO
+Mariana Rodrigues;Produto B;3;43.42;130.26;30/10/2022;RN
+Davi Lucas Alves;Produto B;9;78.84;709.56;20/02/2023;CE
+Helena Almeida;Produto E;1;67.52;67.52;29/09/2022;SC
+Stephany Rodrigues;Produto D;1;20.8;20.8;25/04/2023;PE
+Thales Barros;Produto D;1;13.96;13.96;20/03/2023;AL
+Carolina Mendes;Produto B;3;78.87;236.61;03/06/2022;MG
+Ana Dias;Produto D;1;81.31;81.31;10/01/2023;RR
+Luigi Cavalcanti;Produto E;10;84.76;847.6;10/11/2022;MG
+Davi Lucas Nascimento;Produto E;5;35.06;175.3;29/03/2023;PB
+Gustavo Henrique Sales;Produto A;10;16.56;165.6;30/12/2022;AM
+Manuela Moreira;Produto B;4;36.1;144.4;04/12/2022;RS
+Alice da Rocha;Produto C;8;15.21;121.68;18/06/2022;MT
+Ana Lívia Cunha;Produto C;8;23.9;191.2;06/07/2022;MT
+Stella Melo;Produto B;6;67.3;403.8;07/09/2022;RR
+Cecília Fernandes;Produto D;6;42.95;257.7;16/01/2023;PE
+Maysa Barros;Produto A;2;87.08;174.16;21/11/2022;RO
+João Pedro Alves;Produto A;3;67.75;203.25;26/03/2023;BA
+Vicente Pinto;Produto B;10;73.75;737.5;20/02/2023;SE
+Letícia Castro;Produto E;9;17.94;161.46;26/12/2022;DF
+João Vitor Castro;Produto E;10;77.02;770.2;11/12/2022;PE
+Ana Sophia da Cunha;Produto E;1;42.58;42.58;13/09/2022;RJ
+Alícia Caldeira;Produto B;4;84.15;336.6;29/12/2022;RN
+Camila Teixeira;Produto B;1;85.68;85.68;13/12/2022;RS
+Sarah da Rosa;Produto D;3;61.36;184.08;22/06/2022;PE
+Maria Luiza Rocha;Produto A;6;25.92;155.52;06/01/2023;RN
