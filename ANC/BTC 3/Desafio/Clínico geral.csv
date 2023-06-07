@@ -1,0 +1,247 @@
+Nome do médico;Especialidade;Motivo da licença;ID do colaborador;Nome do colaborador;Data de nascimento;Estado do colaborador;Sexo do colaborador;Início da licença;Término da licença
+0;Dr. Pedro;Clínico geral;Acidente de trabalho;2;Sophie Aragão;1970-03-27;Rio Grande do Sul;Feminino;2022-10-22;2022-10-27
+1;Dr. Marcelo;Clínico geral;Acidente de trajeto;6;Juliana da Luz;1957-06-25;Ceará;Feminino;2023-08-15;2023-09-04
+2;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;7;Marina da Rocha;1978-01-06;Rio Grande do Norte;Feminino;2023-04-02;2023-05-01
+3;Dr. Lucas;Clínico geral;Comum;11;Davi da Mota;1956-09-27;Tocantins;Masculino;2023-03-09;2023-03-30
+4;Dr. Pedro;Clínico geral;Acidente de trabalho;12;Paulo Souza;1968-04-09;Roraima;Masculino;2023-11-13;2023-12-04
+5;Dr. Lucas;Clínico geral;Enfermidade de filhos pequenos;13;Diogo Cunha;1998-08-26;Santa Catarina;Masculino;2022-01-14;2022-01-22
+6;Dr. Pedro;Clínico geral;Acidente de trabalho;14;Bianca Nogueira;1980-03-26;Pernambuco;Feminino;2022-06-01;2022-06-12
+7;Dr. Gustavo;Clínico geral;Comum;16;Lara Melo;1983-11-22;Alagoas;Feminino;2022-02-24;2022-03-01
+8;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;22;Cecília Silva;1968-12-15;Piauí;Feminino;2022-04-04;2022-04-19
+9;Dr. Gustavo;Clínico geral;Acidente de trabalho;23;Marcelo da Cruz;1969-01-06;Rio Grande do Norte;Masculino;2022-02-09;2022-03-11
+10;Dr. Gustavo;Clínico geral;Acidente de trajeto;25;Matheus Peixoto;1995-11-28;Pernambuco;Masculino;2022-01-03;2022-01-04
+11;Dr. Gustavo;Clínico geral;Comum;28;Juan Pereira;1982-04-23;Paraíba;Masculino;2023-02-13;2023-02-18
+12;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;33;Luiz Gustavo Pereira;1993-02-26;Minas Gerais;Masculino;2023-12-23;2024-01-17
+13;Dr. Gustavo;Clínico geral;Comum;34;Ana Luiza Cavalcanti;1953-02-22;Espírito Santo;Feminino;2022-06-13;2022-06-16
+14;Dr. Rafael;Clínico geral;Comum;44;Bernardo Alves;1997-07-24;Sergipe;Masculino;2022-10-22;2022-10-29
+15;Dr. Gustavo;Clínico geral;Comum;45;Lucas Melo;1999-06-05;Acre;Masculino;2022-02-03;2022-02-20
+16;Dr. Pedro;Clínico geral;Acidente de trajeto;48;Benício Melo;2003-03-31;Bahia;Masculino;2022-10-22;2022-11-10
+17;Dr. Rafael;Clínico geral;Acidente de trajeto;51;Luiz Felipe Vieira;1991-06-21;Tocantins;Masculino;2023-09-04;2023-10-02
+18;Dr. Rafael;Clínico geral;Acidente de trajeto;55;Bárbara Castro;1975-04-22;Rio de Janeiro;Feminino;2022-08-22;2022-09-07
+19;Dr. Pedro;Clínico geral;Enfermidade de filhos pequenos;56;Bruna Cavalcanti;1981-08-31;Tocantins;Feminino;2022-12-14;2023-01-10
+20;Dr. Lucas;Clínico geral;Comum;58;Vitor Ramos;1979-11-07;Amapá;Masculino;2022-08-25;2022-08-28
+21;Dr. Gustavo;Clínico geral;Acidente de trajeto;59;Juan da Luz;1986-08-17;Sergipe;Masculino;2023-10-02;2023-10-18
+22;Dr. Gustavo;Clínico geral;Comum;63;Levi Correia;1969-05-15;Rio Grande do Sul;Masculino;2023-09-25;2023-10-17
+23;Dr. Lucas;Clínico geral;Comum;67;Yuri Costa;1981-11-04;Maranhão;Masculino;2022-01-16;2022-02-07
+24;Dr. Marcelo;Clínico geral;Acidente de trabalho;75;Eloah Costela;1979-11-30;Rio de Janeiro;Feminino;2023-08-20;2023-08-29
+25;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;79;Letícia das Neves;1958-04-07;Rio Grande do Sul;Feminino;2022-10-06;2022-10-31
+26;Dr. Gustavo;Clínico geral;Comum;84;Lucas Porto;1992-09-20;Ceará;Masculino;2022-08-23;2022-08-30
+27;Dr. Pedro;Clínico geral;Enfermidade de filhos pequenos;85;João Vitor Santos;1965-05-30;Sergipe;Masculino;2022-06-16;2022-06-27
+28;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;91;Samuel Monteiro;1999-03-01;Roraima;Masculino;2022-07-01;2022-07-26
+29;Dr. Lucas;Clínico geral;Comum;99;Breno da Paz;1998-01-24;Rio Grande do Sul;Masculino;2022-05-26;2022-06-21
+30;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;102;Sarah Teixeira;1987-09-24;Tocantins;Feminino;2023-09-02;2023-09-26
+31;Dr. Pedro;Clínico geral;Comum;106;Emanuel Peixoto;1953-07-25;Acre;Masculino;2022-01-17;2022-01-24
+32;Dr. Lucas;Clínico geral;Comum;110;Luiz Gustavo da Costa;2003-03-14;Espírito Santo;Masculino;2022-05-27;2022-06-01
+33;Dr. Pedro;Clínico geral;Enfermidade de filhos pequenos;112;Lucca Ramos;1977-11-11;Paraná;Masculino;2023-06-19;2023-06-25
+34;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;115;Maysa Nunes;1962-12-20;Pará;Feminino;2023-08-25;2023-09-06
+35;Dr. Gustavo;Clínico geral;Acidente de trajeto;117;Pedro Lucas da Cunha;1955-07-21;São Paulo;Masculino;2023-06-24;2023-07-14
+36;Dr. Rafael;Clínico geral;Acidente de trabalho;118;Elisa Almeida;1963-05-16;Mato Grosso do Sul;Feminino;2023-05-09;2023-06-08
+37;Dr. Gustavo;Clínico geral;Acidente de trabalho;123;Valentina Campos;1970-11-10;Ceará;Feminino;2023-04-07;2023-04-27
+38;Dr. Marcelo;Clínico geral;Enfermidade de filhos pequenos;125;Vicente da Rosa;1964-01-08;Ceará;Masculino;2023-04-22;2023-05-09
+39;Dr. Gustavo;Clínico geral;Acidente de trabalho;131;Mirella Costela;1958-07-18;Minas Gerais;Feminino;2022-07-27;2022-07-31
+40;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;132;Alícia Barros;1993-08-07;Rio de Janeiro;Feminino;2022-12-11;2023-01-09
+41;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;134;Emanuelly Porto;1984-05-01;Alagoas;Feminino;2022-08-27;2022-09-12
+42;Dr. Lucas;Clínico geral;Comum;137;Rafael Oliveira;1956-05-07;Espírito Santo;Masculino;2022-07-21;2022-08-11
+43;Dr. Pedro;Clínico geral;Comum;143;Alexandre Fogaça;1995-11-22;Bahia;Masculino;2022-03-06;2022-03-16
+44;Dr. Rafael;Clínico geral;Acidente de trajeto;148;Valentina Correia;1983-09-28;Pernambuco;Feminino;2023-10-02;2023-10-12
+45;Dr. Gustavo;Clínico geral;Acidente de trabalho;150;Benjamin Ribeiro;1993-05-03;Amapá;Masculino;2022-08-03;2022-08-20
+46;Dr. Pedro;Clínico geral;Acidente de trajeto;155;Pedro Lima;1958-11-29;Santa Catarina;Masculino;2023-10-17;2023-11-10
+47;Dr. Rafael;Clínico geral;Acidente de trajeto;160;Luiz Henrique das Neves;1962-08-26;Ceará;Masculino;2022-01-25;2022-01-27
+48;Dr. Pedro;Clínico geral;Acidente de trajeto;173;Natália Farias;1986-01-19;Maranhão;Feminino;2023-12-22;2024-01-20
+49;Dr. Pedro;Clínico geral;Comum;176;Henrique Pereira;1986-09-09;Pará;Masculino;2023-02-14;2023-02-23
+50;Dr. Lucas;Clínico geral;Comum;185;Yago Barbosa;1993-12-15;Pará;Masculino;2023-01-28;2023-02-24
+51;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;189;Matheus Cardoso;1993-10-01;Pará;Masculino;2022-07-26;2022-08-10
+52;Dr. Gustavo;Clínico geral;Comum;191;Benjamin Araújo;2002-05-03;Mato Grosso;Masculino;2022-12-03;2022-12-25
+53;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;193;Lucas da Conceição;1990-02-05;Pará;Masculino;2022-12-20;2023-01-04
+54;Dr. Pedro;Clínico geral;Comum;197;André Silveira;1985-03-31;Paraíba;Masculino;2022-02-28;2022-03-16
+55;Dr. Lucas;Clínico geral;Acidente de trajeto;203;Heloísa Cardoso;1985-04-30;Minas Gerais;Feminino;2022-09-25;2022-10-20
+56;Dr. Gustavo;Clínico geral;Acidente de trabalho;206;Murilo da Conceição;1977-03-21;Sergipe;Masculino;2022-11-13;2022-12-04
+57;Dr. Rafael;Clínico geral;Acidente de trabalho;210;Luna Melo;1966-10-01;Pernambuco;Feminino;2023-03-15;2023-04-10
+58;Dr. Rafael;Clínico geral;Acidente de trajeto;215;Raul Fernandes;2003-02-14;Tocantins;Masculino;2023-11-01;2023-11-14
+59;Dr. Marcelo;Clínico geral;Comum;226;Theo Souza;1972-06-15;Ceará;Masculino;2022-10-09;2022-10-14
+60;Dr. Rafael;Clínico geral;Acidente de trajeto;229;Murilo da Mata;1963-08-03;Ceará;Masculino;2023-01-28;2023-02-04
+61;Dr. Lucas;Clínico geral;Acidente de trajeto;231;Calebe Santos;1969-06-11;Alagoas;Masculino;2022-09-24;2022-10-17
+62;Dr. Lucas;Clínico geral;Acidente de trajeto;233;Brenda Martins;1971-10-26;Tocantins;Feminino;2023-07-13;2023-08-07
+63;Dr. Gustavo;Clínico geral;Comum;235;Davi Lucas Nascimento;1979-07-10;Roraima;Masculino;2023-10-16;2023-10-25
+64;Dr. Lucas;Clínico geral;Comum;240;Leonardo Azevedo;1978-07-16;Bahia;Masculino;2022-02-11;2022-02-16
+65;Dr. Lucas;Clínico geral;Acidente de trajeto;247;Davi Lucca Farias;1979-05-07;Alagoas;Masculino;2022-09-17;2022-09-24
+66;Dr. Lucas;Clínico geral;Acidente de trabalho;250;Alexia Cunha;1969-09-24;Rio Grande do Sul;Feminino;2022-09-22;2022-10-13
+67;Dr. Rafael;Clínico geral;Comum;256;Marcelo Souza;1996-06-12;Rondônia;Masculino;2022-01-15;2022-01-23
+68;Dr. Gustavo;Clínico geral;Comum;261;Manuela Peixoto;1952-10-22;Mato Grosso do Sul;Feminino;2022-05-20;2022-06-08
+69;Dr. Lucas;Clínico geral;Acidente de trabalho;264;Luiza Rezende;1958-03-13;Santa Catarina;Feminino;2022-03-16;2022-04-08
+70;Dr. Gustavo;Clínico geral;Acidente de trajeto;271;Luiz Fernando Ferreira;1952-09-29;Sergipe;Masculino;2022-07-11;2022-07-13
+71;Dr. Rafael;Clínico geral;Comum;272;Thomas da Mota;1968-06-13;Mato Grosso do Sul;Masculino;2022-08-02;2022-08-19
+72;Dr. Pedro;Clínico geral;Comum;274;Felipe da Mata;1953-04-20;Bahia;Masculino;2023-09-06;2023-10-04
+73;Dr. Lucas;Clínico geral;Acidente de trajeto;286;Gustavo Pinto;1973-10-08;Acre;Masculino;2022-08-05;2022-08-31
+74;Dr. Lucas;Clínico geral;Comum;299;Marcelo Freitas;1997-11-21;Rio de Janeiro;Masculino;2022-04-13;2022-04-17
+75;Dr. Pedro;Clínico geral;Enfermidade de filhos pequenos;310;Otávio Pires;1956-12-07;Paraíba;Masculino;2023-09-04;2023-09-11
+76;Dr. Rafael;Clínico geral;Acidente de trajeto;315;Rafael Moreira;1990-11-04;Amazonas;Masculino;2022-06-24;2022-07-24
+77;Dr. Rafael;Clínico geral;Comum;318;Luiz Miguel da Cruz;1986-09-27;Espírito Santo;Masculino;2022-10-21;2022-10-26
+78;Dr. Pedro;Clínico geral;Acidente de trajeto;320;Sophia da Mota;1972-12-10;Minas Gerais;Feminino;2022-10-21;2022-10-27
+79;Dr. Marcelo;Clínico geral;Comum;322;Pedro Henrique Nunes;1976-12-29;Rio Grande do Norte;Masculino;2023-08-10;2023-08-30
+80;Dr. Rafael;Clínico geral;Acidente de trabalho;329;João Ramos;1993-07-07;Mato Grosso do Sul;Masculino;2022-12-25;2022-12-31
+81;Dr. Pedro;Clínico geral;Acidente de trajeto;332;Vitória Viana;1954-04-20;Pará;Feminino;2022-06-13;2022-06-28
+82;Dr. Pedro;Clínico geral;Enfermidade de filhos pequenos;333;Bianca Azevedo;1990-01-30;Roraima;Feminino;2023-02-02;2023-02-04
+83;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;335;Gabriela Farias;1985-03-27;Paraná;Feminino;2022-08-28;2022-08-31
+84;Dr. Marcelo;Clínico geral;Acidente de trabalho;338;Enzo Gabriel da Mata;2001-09-02;Rio Grande do Sul;Masculino;2023-05-06;2023-05-08
+85;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;341;Emanuel da Rocha;2002-01-18;Roraima;Masculino;2023-06-06;2023-06-24
+86;Dr. Gustavo;Clínico geral;Acidente de trajeto;343;Alana da Luz;1989-08-29;Santa Catarina;Feminino;2022-05-15;2022-06-06
+87;Dr. Gustavo;Clínico geral;Acidente de trabalho;345;Emilly Sales;2000-09-06;Santa Catarina;Feminino;2022-05-25;2022-06-24
+88;Dr. Marcelo;Clínico geral;Acidente de trabalho;348;Guilherme Lima;1975-10-18;Roraima;Masculino;2023-05-22;2023-06-10
+89;Dr. Pedro;Clínico geral;Comum;352;Camila da Mota;1970-02-14;Amazonas;Feminino;2023-04-25;2023-05-21
+90;Dr. Lucas;Clínico geral;Comum;353;André Dias;1979-11-25;Rio de Janeiro;Masculino;2023-01-06;2023-02-01
+91;Dr. Lucas;Clínico geral;Comum;355;Enrico Rodrigues;1974-08-26;São Paulo;Masculino;2022-09-03;2022-09-30
+92;Dr. Rafael;Clínico geral;Acidente de trabalho;357;Luigi da Cruz;1977-01-28;Distrito Federal;Masculino;2023-01-26;2023-02-13
+93;Dr. Pedro;Clínico geral;Acidente de trajeto;363;Rodrigo Peixoto;1958-11-11;Amazonas;Masculino;2022-11-16;2022-12-06
+94;Dr. Pedro;Clínico geral;Comum;365;Carlos Eduardo Oliveira;1996-12-24;Pernambuco;Masculino;2023-06-17;2023-07-11
+95;Dr. Lucas;Clínico geral;Enfermidade de filhos pequenos;366;Guilherme Pereira;1970-12-09;Alagoas;Masculino;2023-09-04;2023-09-27
+96;Dr. Marcelo;Clínico geral;Comum;368;Joaquim Porto;1967-04-22;Rio Grande do Norte;Masculino;2023-04-03;2023-04-29
+97;Dr. Gustavo;Clínico geral;Comum;369;Francisco Correia;1999-11-12;São Paulo;Masculino;2022-03-20;2022-04-14
+98;Dr. Gustavo;Clínico geral;Comum;371;Juliana Cardoso;1973-05-13;Bahia;Feminino;2022-06-05;2022-06-14
+99;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;379;Yuri Fogaça;1995-04-03;Maranhão;Masculino;2023-09-14;2023-10-01
+100;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;380;Luna Duarte;1957-05-17;Mato Grosso do Sul;Feminino;2023-02-10;2023-02-23
+101;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;382;Anthony Cardoso;1961-07-14;Goiás;Masculino;2023-10-03;2023-10-28
+102;Dr. Gustavo;Clínico geral;Acidente de trajeto;385;Daniela Carvalho;2002-10-18;Tocantins;Feminino;2022-01-25;2022-02-12
+103;Dr. Rafael;Clínico geral;Comum;387;Lucas Ramos;1981-11-04;Goiás;Masculino;2022-03-02;2022-03-27
+104;Dr. Gustavo;Clínico geral;Comum;395;João Lucas Caldeira;2001-12-06;Roraima;Masculino;2022-07-22;2022-08-05
+105;Dr. Pedro;Clínico geral;Comum;396;Enzo Araújo;1954-09-26;Rio de Janeiro;Masculino;2023-11-24;2023-12-16
+106;Dr. Rafael;Clínico geral;Acidente de trajeto;397;Emanuella Araújo;1954-02-06;Espírito Santo;Feminino;2022-08-13;2022-09-05
+107;Dr. Rafael;Clínico geral;Comum;399;Bryan Costa;1991-11-07;Mato Grosso;Masculino;2023-01-08;2023-01-22
+108;Dr. Rafael;Clínico geral;Acidente de trabalho;407;Thiago Cunha;1984-12-15;Maranhão;Masculino;2023-09-23;2023-10-21
+109;Dr. Rafael;Clínico geral;Comum;410;Julia Monteiro;1957-01-11;Espírito Santo;Feminino;2023-10-13;2023-10-31
+110;Dr. Gustavo;Clínico geral;Comum;414;Pietra da Conceição;1964-08-26;Paraíba;Feminino;2023-02-22;2023-03-17
+111;Dr. Lucas;Clínico geral;Comum;423;Vitor Gabriel da Rocha;1979-10-14;Roraima;Masculino;2022-01-14;2022-01-25
+112;Dr. Pedro;Clínico geral;Comum;427;Isaac Teixeira;1970-07-11;Goiás;Masculino;2023-12-01;2023-12-24
+113;Dr. Gustavo;Clínico geral;Comum;439;Yuri Mendes;1972-04-26;Sergipe;Masculino;2023-06-24;2023-07-03
+114;Dr. Lucas;Clínico geral;Acidente de trabalho;443;Clara Teixeira;1960-10-01;Minas Gerais;Feminino;2023-06-09;2023-06-13
+115;Dr. Rafael;Clínico geral;Comum;446;Samuel da Rosa;1964-10-25;Rio Grande do Norte;Masculino;2022-11-04;2022-11-06
+116;Dr. Pedro;Clínico geral;Comum;448;Caio Porto;1968-06-12;Ceará;Masculino;2022-11-10;2022-11-25
+117;Dr. Pedro;Clínico geral;Comum;450;Isadora Pereira;1976-04-06;Minas Gerais;Feminino;2023-04-24;2023-05-23
+118;Dr. Gustavo;Clínico geral;Acidente de trajeto;454;Isabelly da Mata;1953-09-02;Rio de Janeiro;Feminino;2023-12-12;2023-12-31
+119;Dr. Gustavo;Clínico geral;Comum;455;Marcelo da Mota;1974-02-13;Mato Grosso do Sul;Masculino;2023-08-06;2023-08-17
+120;Dr. Rafael;Clínico geral;Acidente de trajeto;458;Isaac Teixeira;1978-11-29;Sergipe;Masculino;2022-08-27;2022-09-03
+121;Dr. Lucas;Clínico geral;Comum;461;Manuela Correia;1970-12-20;São Paulo;Feminino;2022-10-21;2022-11-12
+122;Dr. Marcelo;Clínico geral;Acidente de trabalho;480;Ana Clara Costa;1988-08-19;Rio Grande do Sul;Feminino;2022-11-10;2022-11-21
+123;Dr. Lucas;Clínico geral;Comum;489;Breno Alves;1971-07-07;Espírito Santo;Masculino;2023-12-18;2023-12-23
+124;Dr. Lucas;Clínico geral;Acidente de trajeto;490;Letícia Souza;1976-02-20;Mato Grosso;Feminino;2023-07-21;2023-07-23
+125;Dr. Pedro;Clínico geral;Acidente de trabalho;492;Marcos Vinicius Azevedo;2001-07-18;Alagoas;Masculino;2023-04-13;2023-05-01
+126;Dr. Rafael;Clínico geral;Comum;494;Nicolas Nascimento;1997-05-25;Rio Grande do Norte;Masculino;2023-03-24;2023-03-25
+127;Dr. Pedro;Clínico geral;Acidente de trajeto;497;João Felipe Silva;2003-09-21;Rio Grande do Norte;Masculino;2022-07-21;2022-07-28
+128;Dr. Lucas;Clínico geral;Comum;500;Helena das Neves;1988-04-26;Amazonas;Feminino;2022-08-20;2022-08-21
+129;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;502;João Miguel Farias;1982-09-08;Goiás;Masculino;2022-01-15;2022-02-01
+130;Dr. Lucas;Clínico geral;Acidente de trajeto;503;Luiz Henrique Martins;1956-12-18;Maranhão;Masculino;2023-11-20;2023-12-06
+131;Dr. Gustavo;Clínico geral;Comum;506;Davi Luiz Cardoso;1996-03-10;Amapá;Masculino;2023-08-03;2023-08-27
+132;Dr. Rafael;Clínico geral;Acidente de trabalho;516;Antônio Cardoso;1969-06-30;Amapá;Masculino;2022-05-12;2022-06-08
+133;Dr. Gustavo;Clínico geral;Comum;517;Vitor Hugo Rocha;1966-11-03;Acre;Masculino;2023-07-08;2023-07-31
+134;Dr. Gustavo;Clínico geral;Acidente de trabalho;519;Cauê Monteiro;1967-03-11;Pernambuco;Masculino;2023-07-10;2023-07-14
+135;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;521;Ryan Porto;1960-12-20;Mato Grosso;Masculino;2023-02-06;2023-02-23
+136;Dr. Lucas;Clínico geral;Comum;530;Emilly da Rosa;1993-10-06;Pernambuco;Feminino;2022-06-06;2022-06-14
+137;Dr. Gustavo;Clínico geral;Acidente de trabalho;532;Ana Clara Azevedo;1978-11-23;Distrito Federal;Feminino;2023-06-21;2023-06-23
+138;Dr. Pedro;Clínico geral;Acidente de trajeto;538;Ana Vitória Dias;2003-01-02;Maranhão;Feminino;2022-01-03;2022-01-31
+139;Dr. Gustavo;Clínico geral;Acidente de trajeto;547;Matheus Moreira;1977-09-30;Mato Grosso;Masculino;2022-11-25;2022-12-12
+140;Dr. Marcelo;Clínico geral;Acidente de trajeto;554;Mirella Melo;1963-08-26;Espírito Santo;Feminino;2023-09-20;2023-10-18
+141;Dr. Rafael;Clínico geral;Acidente de trajeto;557;Vicente Cavalcanti;1969-11-17;Piauí;Masculino;2023-11-25;2023-11-29
+142;Dr. Marcelo;Clínico geral;Comum;558;Vinicius Correia;2001-12-31;Mato Grosso do Sul;Masculino;2022-08-05;2022-08-09
+143;Dr. Gustavo;Clínico geral;Acidente de trajeto;566;Bryan Lima;1994-06-05;Maranhão;Masculino;2022-02-28;2022-03-21
+144;Dr. Lucas;Clínico geral;Acidente de trabalho;568;Eloah Barbosa;1985-09-18;Rio de Janeiro;Feminino;2022-10-11;2022-10-25
+145;Dr. Pedro;Clínico geral;Comum;577;Luiz Felipe da Mata;2004-12-23;Minas Gerais;Masculino;2022-06-18;2022-06-29
+146;Dr. Marcelo;Clínico geral;Comum;581;João Pedro Barros;1999-10-21;Rondônia;Masculino;2022-10-04;2022-10-17
+147;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;582;Lucas Gabriel da Rocha;1966-06-17;Amazonas;Masculino;2022-05-11;2022-06-07
+148;Dr. Lucas;Clínico geral;Comum;586;Enzo Gonçalves;1972-07-24;Pernambuco;Masculino;2023-06-19;2023-07-12
+149;Dr. Pedro;Clínico geral;Comum;589;Pedro Lucas da Luz;1992-08-29;Goiás;Masculino;2023-03-26;2023-04-16
+150;Dr. Gustavo;Clínico geral;Acidente de trajeto;599;Ana Beatriz das Neves;1959-11-29;Rio Grande do Norte;Feminino;2023-12-26;2024-01-25
+151;Dr. Rafael;Clínico geral;Acidente de trajeto;600;Luiz Miguel Ramos;1985-04-11;Alagoas;Masculino;2023-05-16;2023-05-17
+152;Dr. Rafael;Clínico geral;Comum;617;Vitória Rezende;1961-10-08;Pará;Feminino;2023-04-25;2023-04-28
+153;Dr. Rafael;Clínico geral;Acidente de trabalho;619;Lorena Viana;1974-01-25;Sergipe;Feminino;2023-02-27;2023-03-28
+154;Dr. Pedro;Clínico geral;Enfermidade de filhos pequenos;627;Joana Porto;1978-07-01;Mato Grosso do Sul;Feminino;2022-04-15;2022-05-05
+155;Dr. Lucas;Clínico geral;Acidente de trajeto;632;Francisco Almeida;1978-11-20;Paraíba;Masculino;2023-09-25;2023-10-23
+156;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;634;Henrique Farias;1982-12-27;Piauí;Masculino;2023-06-07;2023-06-08
+157;Dr. Pedro;Clínico geral;Acidente de trajeto;636;Cauã Moura;1980-07-03;Rondônia;Masculino;2022-12-16;2022-12-25
+158;Dr. Gustavo;Clínico geral;Acidente de trabalho;638;Maitê Caldeira;1957-11-24;Rio Grande do Sul;Feminino;2023-11-19;2023-12-01
+159;Dr. Pedro;Clínico geral;Acidente de trabalho;642;Yasmin das Neves;1983-09-22;Rio Grande do Sul;Feminino;2023-02-05;2023-02-22
+160;Dr. Lucas;Clínico geral;Acidente de trajeto;644;Maria Cecília Rezende;1957-06-21;Santa Catarina;Feminino;2023-02-18;2023-03-19
+161;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;646;Maria Sophia Oliveira;2001-03-12;Ceará;Feminino;2023-02-11;2023-02-14
+162;Dr. Pedro;Clínico geral;Acidente de trabalho;648;Lucas da Rosa;2003-12-06;Pará;Masculino;2022-04-10;2022-04-20
+163;Dr. Rafael;Clínico geral;Acidente de trabalho;650;Kevin Cunha;2000-05-11;Distrito Federal;Masculino;2022-12-01;2022-12-24
+164;Dr. Rafael;Clínico geral;Comum;654;Juan Aragão;1977-07-31;Acre;Masculino;2023-10-20;2023-11-02
+165;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;659;Davi Lucca Moura;1969-06-26;Paraíba;Masculino;2022-07-25;2022-07-28
+166;Dr. Lucas;Clínico geral;Acidente de trajeto;664;Stella Monteiro;1996-10-28;Rondônia;Feminino;2023-05-19;2023-05-28
+167;Dr. Lucas;Clínico geral;Acidente de trabalho;665;Cauê Carvalho;2000-07-07;Pernambuco;Masculino;2022-05-11;2022-06-06
+168;Dr. Lucas;Clínico geral;Comum;674;Luiz Fernando Freitas;1985-07-12;Espírito Santo;Masculino;2023-04-16;2023-05-16
+169;Dr. Pedro;Clínico geral;Enfermidade de filhos pequenos;679;Marcelo Alves;1981-09-04;Rio Grande do Sul;Masculino;2023-05-03;2023-05-07
+170;Dr. Gustavo;Clínico geral;Acidente de trabalho;682;Maria Cunha;1994-08-28;Espírito Santo;Feminino;2022-08-17;2022-08-31
+171;Dr. Gustavo;Clínico geral;Comum;688;Leonardo Vieira;1958-07-27;Paraíba;Masculino;2022-06-09;2022-06-22
+172;Dr. Gustavo;Clínico geral;Comum;700;Maria Alice da Paz;1983-01-12;Amazonas;Feminino;2023-05-06;2023-05-25
+173;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;705;João Gabriel da Cunha;1976-09-05;Sergipe;Masculino;2022-11-25;2022-12-21
+174;Dr. Gustavo;Clínico geral;Comum;707;Enzo Martins;2001-07-25;Acre;Masculino;2023-11-03;2023-12-01
+175;Dr. Pedro;Clínico geral;Acidente de trabalho;717;Gabriel Cunha;1987-07-05;Minas Gerais;Masculino;2023-12-26;2023-12-28
+176;Dr. Gustavo;Clínico geral;Acidente de trajeto;724;Augusto Gomes;2000-08-26;Mato Grosso do Sul;Masculino;2022-08-13;2022-08-17
+177;Dr. Rafael;Clínico geral;Acidente de trajeto;725;Pedro Lucas Cardoso;1992-07-12;Rio Grande do Sul;Masculino;2023-02-18;2023-03-04
+178;Dr. Gustavo;Clínico geral;Acidente de trabalho;728;Maria Luiza Dias;1991-09-14;Santa Catarina;Feminino;2022-11-03;2022-11-26
+179;Dr. Gustavo;Clínico geral;Comum;729;João Miguel Fernandes;1956-02-17;Amazonas;Masculino;2022-07-15;2022-08-05
+180;Dr. Rafael;Clínico geral;Acidente de trabalho;732;Luna Costa;1992-04-27;Bahia;Feminino;2023-08-12;2023-08-15
+181;Dr. Gustavo;Clínico geral;Comum;737;Ian Pires;1952-12-22;Tocantins;Masculino;2022-10-11;2022-11-10
+182;Dr. Marcelo;Clínico geral;Comum;740;Enzo Barbosa;1992-10-18;Mato Grosso do Sul;Masculino;2023-10-23;2023-11-17
+183;Dr. Pedro;Clínico geral;Acidente de trajeto;748;Stephany Rocha;1997-03-03;Espírito Santo;Feminino;2022-02-04;2022-02-07
+184;Dr. Gustavo;Clínico geral;Comum;750;Bernardo Peixoto;1964-07-16;Pernambuco;Masculino;2022-02-15;2022-03-06
+185;Dr. Rafael;Clínico geral;Comum;752;Manuela Cavalcanti;1967-02-23;Roraima;Feminino;2022-09-03;2022-09-24
+186;Dr. Lucas;Clínico geral;Acidente de trajeto;755;Igor Mendes;2000-11-08;Bahia;Masculino;2023-12-08;2023-12-25
+187;Dr. Rafael;Clínico geral;Acidente de trabalho;763;Augusto Moraes;1999-08-27;Paraná;Masculino;2023-07-11;2023-07-28
+188;Dr. Gustavo;Clínico geral;Comum;768;Eduardo Rocha;1986-09-14;Amapá;Masculino;2022-11-06;2022-12-01
+189;Dr. Pedro;Clínico geral;Acidente de trabalho;769;João Guilherme da Mota;1995-05-23;Amapá;Masculino;2022-12-11;2022-12-12
+190;Dr. Lucas;Clínico geral;Enfermidade de filhos pequenos;774;Lucca Moraes;2000-03-05;Amazonas;Masculino;2023-03-02;2023-03-20
+191;Dr. Pedro;Clínico geral;Comum;790;Enrico Fogaça;1953-01-25;Rio Grande do Sul;Masculino;2022-08-08;2022-08-19
+192;Dr. Lucas;Clínico geral;Enfermidade de filhos pequenos;797;Caroline Peixoto;1992-05-14;Mato Grosso do Sul;Feminino;2022-05-27;2022-06-10
+193;Dr. Pedro;Clínico geral;Comum;802;João Guilherme Correia;2003-01-28;Goiás;Masculino;2023-09-24;2023-10-20
+194;Dr. Rafael;Clínico geral;Comum;804;Esther da Paz;1979-01-31;Paraná;Feminino;2022-07-08;2022-07-26
+195;Dr. Rafael;Clínico geral;Acidente de trabalho;809;Lorenzo Ramos;1967-06-19;Acre;Masculino;2022-02-25;2022-03-03
+196;Dr. Pedro;Clínico geral;Acidente de trabalho;810;Davi Luiz Dias;1979-01-18;Goiás;Masculino;2023-07-21;2023-07-25
+197;Dr. Lucas;Clínico geral;Acidente de trabalho;813;Noah Moraes;1982-01-30;São Paulo;Masculino;2023-10-20;2023-10-30
+198;Dr. Pedro;Clínico geral;Acidente de trabalho;814;Joana Cardoso;2003-06-19;São Paulo;Feminino;2023-03-28;2023-04-03
+199;Dr. Lucas;Clínico geral;Enfermidade de filhos pequenos;815;Felipe Moraes;1971-06-04;Amazonas;Masculino;2023-09-17;2023-09-25
+200;Dr. Pedro;Clínico geral;Comum;818;Cauê da Cunha;1967-07-11;Rio Grande do Sul;Masculino;2023-10-28;2023-11-08
+201;Dr. Pedro;Clínico geral;Acidente de trajeto;820;Sophie da Luz;1953-08-13;Minas Gerais;Feminino;2022-02-18;2022-03-08
+202;Dr. Gustavo;Clínico geral;Acidente de trabalho;821;Danilo Rodrigues;1957-11-12;Rondônia;Masculino;2023-09-26;2023-10-02
+203;Dr. Pedro;Clínico geral;Comum;828;Matheus Cavalcanti;1961-09-16;Sergipe;Masculino;2022-10-20;2022-11-06
+204;Dr. Gustavo;Clínico geral;Acidente de trajeto;835;Luiz Otávio da Cruz;1996-07-16;Amapá;Masculino;2022-07-18;2022-08-05
+205;Dr. Lucas;Clínico geral;Comum;839;Mariana Moraes;1960-11-27;Rondônia;Feminino;2023-01-14;2023-01-18
+206;Dr. Gustavo;Clínico geral;Acidente de trabalho;843;Amanda Ramos;1983-04-27;São Paulo;Feminino;2023-09-19;2023-10-06
+207;Dr. Pedro;Clínico geral;Comum;844;Lorenzo Almeida;1988-08-03;Espírito Santo;Masculino;2023-11-16;2023-12-05
+208;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;849;Lara da Mota;1998-01-09;Rio de Janeiro;Feminino;2022-06-18;2022-07-18
+209;Dr. Pedro;Clínico geral;Acidente de trabalho;851;Sofia Gonçalves;2001-01-03;Roraima;Feminino;2023-03-18;2023-04-01
+210;Dr. Pedro;Clínico geral;Acidente de trajeto;852;Gabriel da Mata;1954-05-19;Mato Grosso do Sul;Masculino;2022-08-16;2022-08-23
+211;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;856;Alice Gonçalves;1983-12-01;Tocantins;Feminino;2023-05-10;2023-05-30
+212;Dr. Pedro;Clínico geral;Comum;857;Nina Cardoso;2000-09-01;Piauí;Feminino;2022-02-16;2022-02-22
+213;Dr. Rafael;Clínico geral;Comum;867;Yago Campos;1967-06-22;Tocantins;Masculino;2023-03-12;2023-03-30
+214;Dr. Rafael;Clínico geral;Comum;868;Luiz Otávio Pires;1998-08-28;Piauí;Masculino;2022-06-24;2022-07-15
+215;Dr. Lucas;Clínico geral;Comum;869;Cauã Almeida;1978-11-25;Ceará;Masculino;2023-12-04;2023-12-30
+216;Dr. Gustavo;Clínico geral;Comum;871;Isaac Rezende;1982-11-24;Ceará;Masculino;2022-09-27;2022-10-10
+217;Dr. Pedro;Clínico geral;Acidente de trajeto;872;Manuela Costa;1961-03-24;Minas Gerais;Feminino;2022-08-16;2022-09-07
+218;Dr. Rafael;Clínico geral;Acidente de trabalho;875;João Pedro Castro;1969-04-18;Espírito Santo;Masculino;2022-10-16;2022-10-24
+219;Dr. Rafael;Clínico geral;Comum;881;Luiz Miguel Moura;2001-02-22;Goiás;Masculino;2022-10-08;2022-10-17
+220;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;882;Breno Costela;1986-04-05;Goiás;Masculino;2023-08-03;2023-08-16
+221;Dr. Marcelo;Clínico geral;Enfermidade de filhos pequenos;886;Gustavo Henrique Cavalcanti;1991-10-20;Espírito Santo;Masculino;2023-10-05;2023-10-28
+222;Dr. Rafael;Clínico geral;Acidente de trajeto;887;Yuri Jesus;1960-01-01;Paraíba;Masculino;2022-03-24;2022-04-04
+223;Dr. Lucas;Clínico geral;Acidente de trajeto;897;Clarice da Mata;1964-08-02;Maranhão;Feminino;2023-11-03;2023-11-21
+224;Dr. Rafael;Clínico geral;Acidente de trajeto;907;Fernanda Silveira;1958-05-24;Rondônia;Feminino;2023-05-18;2023-05-23
+225;Dr. Gustavo;Clínico geral;Enfermidade de filhos pequenos;909;Cauã Lima;1977-08-08;Rio Grande do Norte;Masculino;2023-08-27;2023-09-16
+226;Dr. Pedro;Clínico geral;Enfermidade de filhos pequenos;918;Amanda Pinto;2001-12-04;Amapá;Feminino;2023-07-15;2023-07-16
+227;Dr. Pedro;Clínico geral;Acidente de trajeto;920;Pedro Henrique da Rocha;1965-10-05;Rondônia;Masculino;2022-08-21;2022-09-18
+228;Dr. Lucas;Clínico geral;Enfermidade de filhos pequenos;926;Lavínia da Cruz;1955-09-16;Piauí;Feminino;2023-09-08;2023-09-27
+229;Dr. Rafael;Clínico geral;Acidente de trajeto;930;Luigi Moraes;1988-12-17;Rio Grande do Norte;Masculino;2023-10-06;2023-11-01
+230;Dr. Gustavo;Clínico geral;Acidente de trabalho;933;Arthur da Luz;1987-03-29;Goiás;Masculino;2022-10-07;2022-10-08
+231;Dr. Rafael;Clínico geral;Acidente de trabalho;935;Milena Porto;1984-12-18;Piauí;Feminino;2022-05-20;2022-06-15
+232;Dr. Gustavo;Clínico geral;Comum;940;Maysa Ferreira;2004-11-10;Mato Grosso;Feminino;2023-09-23;2023-10-15
+233;Dr. Lucas;Clínico geral;Comum;947;Carlos Eduardo da Conceição;1964-12-03;Amazonas;Masculino;2023-05-05;2023-05-24
+234;Dr. Marcelo;Clínico geral;Acidente de trabalho;952;Daniel Cardoso;1987-02-05;Acre;Masculino;2023-08-26;2023-09-25
+235;Dr. Pedro;Clínico geral;Comum;955;Luigi Almeida;1996-10-31;Bahia;Masculino;2023-03-21;2023-04-17
+236;Dr. Lucas;Clínico geral;Acidente de trabalho;958;Melissa Pereira;1992-09-27;Pará;Feminino;2022-04-21;2022-05-04
+237;Dr. Lucas;Clínico geral;Comum;962;Gustavo da Cruz;1982-12-21;Mato Grosso do Sul;Masculino;2023-07-01;2023-07-11
+238;Dr. Pedro;Clínico geral;Enfermidade de filhos pequenos;968;Isabelly Almeida;1976-09-13;Pernambuco;Feminino;2023-12-17;2023-12-31
+239;Dr. Lucas;Clínico geral;Acidente de trabalho;980;Nicole da Rosa;1962-02-09;Rio Grande do Sul;Feminino;2023-06-26;2023-06-28
+240;Dr. Rafael;Clínico geral;Enfermidade de filhos pequenos;984;Luiz Gustavo Cavalcanti;1975-11-18;Distrito Federal;Masculino;2023-08-12;2023-08-27
+241;Dr. Lucas;Clínico geral;Comum;988;Mariana Carvalho;1980-01-10;Acre;Feminino;2023-12-01;2023-12-21
+242;Dr. Lucas;Clínico geral;Comum;990;Lavínia Moreira;2004-03-18;Bahia;Feminino;2023-12-12;2023-12-17
+243;Dr. Marcelo;Clínico geral;Acidente de trajeto;994;Kaique Monteiro;1981-09-08;Amapá;Masculino;2023-07-18;2023-07-19
+244;Dr. Pedro;Clínico geral;Acidente de trajeto;998;Lívia Moraes;2001-09-24;Amapá;Feminino;2022-01-02;2022-01-08
+245;Dr. Gustavo;Clínico geral;Acidente de trajeto;1000;Luiz Fernando Lima;1958-08-19;Mato Grosso do Sul;Masculino;2022-06-08;2022-06-22

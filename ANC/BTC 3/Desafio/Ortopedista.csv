@@ -1,0 +1,223 @@
+Nome do médico;Especialidade;Motivo da licença;ID do colaborador;Nome do colaborador;Data de nascimento;Estado do colaborador;Sexo do colaborador;Início da licença;Término da licença
+Dr. Eduardo;Ortopedista;Enfermidade de filhos pequenos;4;Beatriz Cavalcanti;2005-01-27;Minas Gerais;Feminino;2022-11-10;2022-11-16
+Dr. Ramos;Ortopedista;Acidente de trajeto;8;Ana Beatriz Rocha;2000-03-24;São Paulo;Feminino;2022-11-10;2022-12-05
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;9;Isaac Rodrigues;1997-06-27;Amapá;Masculino;2022-04-16;2022-05-09
+Dr. Felipe;Ortopedista;Acidente de trajeto;10;Alana Nogueira;1989-07-28;Espírito Santo;Feminino;2022-01-10;2022-01-17
+Dr. Thiago;Ortopedista;Comum;17;Luana Mendes;1960-11-22;Distrito Federal;Feminino;2022-01-06;2022-01-24
+Dr. Felipe;Ortopedista;Comum;20;João Vitor da Conceição;1984-05-26;Mato Grosso do Sul;Masculino;2023-09-22;2023-10-18
+Dr. Felipe;Ortopedista;Comum;35;Pietra Lima;1980-02-09;Amazonas;Feminino;2023-11-22;2023-12-21
+Dr. Eduardo;Ortopedista;Acidente de trabalho;36;Lívia Silva;1968-04-11;Goiás;Feminino;2022-03-20;2022-03-28
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;37;Lorenzo Santos;1971-05-13;Mato Grosso do Sul;Masculino;2023-08-28;2023-09-15
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;39;Kevin Teixeira;1960-03-14;Amazonas;Masculino;2023-07-05;2023-08-04
+Dr. Ramos;Ortopedista;Comum;50;Thales Pereira;1980-11-21;Acre;Masculino;2023-02-07;2023-02-25
+Dr. Thiago;Ortopedista;Enfermidade de filhos pequenos;52;Pietro Novaes;1969-08-24;Amazonas;Masculino;2022-06-03;2022-06-18
+Dr. Felipe;Ortopedista;Acidente de trabalho;70;Gabriel Monteiro;1967-04-08;Minas Gerais;Masculino;2022-02-15;2022-03-01
+Dr. Rodrigo;Ortopedista;Acidente de trabalho;80;Nina Farias;1962-01-15;Paraíba;Feminino;2022-01-18;2022-02-10
+Dr. Eduardo;Ortopedista;Comum;81;Mirella Nascimento;1962-04-28;Paraíba;Feminino;2023-04-05;2023-04-09
+Dr. Thiago;Ortopedista;Acidente de trabalho;83;Brenda Viana;1956-06-13;Amapá;Feminino;2023-08-27;2023-08-31
+Dr. Ramos;Ortopedista;Comum;86;Cecília Cardoso;1988-03-30;Rio de Janeiro;Feminino;2023-12-03;2023-12-21
+Dr. Felipe;Ortopedista;Acidente de trabalho;87;Julia Pires;1973-01-04;Santa Catarina;Feminino;2022-11-03;2022-11-19
+Dr. Felipe;Ortopedista;Acidente de trabalho;90;Lara Pires;1954-12-20;Amapá;Feminino;2023-10-23;2023-11-19
+Dr. Ramos;Ortopedista;Comum;93;Marcelo Carvalho;1974-11-07;Amazonas;Masculino;2023-05-25;2023-06-05
+Dr. Ramos;Ortopedista;Acidente de trabalho;100;Pedro Ferreira;1987-09-30;Rio Grande do Sul;Masculino;2022-01-15;2022-01-29
+Dr. Thiago;Ortopedista;Enfermidade de filhos pequenos;122;Lara Santos;1988-07-13;Minas Gerais;Feminino;2023-09-05;2023-09-06
+Dr. Eduardo;Ortopedista;Acidente de trajeto;124;Sarah Gomes;1975-04-21;Ceará;Feminino;2022-12-19;2022-12-31
+Dr. Thiago;Ortopedista;Acidente de trajeto;127;Igor Caldeira;1975-05-03;São Paulo;Masculino;2023-01-03;2023-01-27
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;128;Gustavo Henrique Oliveira;1969-09-05;Rio de Janeiro;Masculino;2022-07-15;2022-08-12
+Dr. Thiago;Ortopedista;Enfermidade de filhos pequenos;129;Sabrina Novaes;1979-07-12;Rondônia;Feminino;2022-01-23;2022-01-28
+Dr. Eduardo;Ortopedista;Comum;140;Maria Luiza Ribeiro;1985-02-01;São Paulo;Feminino;2023-04-17;2023-05-09
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;145;Maysa Araújo;1955-03-03;Rondônia;Feminino;2023-03-03;2023-03-31
+Dr. Felipe;Ortopedista;Acidente de trabalho;146;Danilo Moraes;1966-03-14;Pará;Masculino;2022-11-14;2022-12-10
+Dr. Rodrigo;Ortopedista;Acidente de trabalho;158;Ana Laura Cardoso;1989-11-10;Amazonas;Feminino;2023-02-13;2023-02-19
+Dr. Eduardo;Ortopedista;Enfermidade de filhos pequenos;162;Alana da Costa;1961-01-12;Paraná;Feminino;2022-11-02;2022-12-01
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;163;Maitê Peixoto;1993-04-09;Piauí;Feminino;2023-03-11;2023-03-20
+Dr. Eduardo;Ortopedista;Acidente de trajeto;167;Carlos Eduardo Freitas;1959-01-11;Rio Grande do Norte;Masculino;2022-06-04;2022-06-27
+Dr. Eduardo;Ortopedista;Comum;168;Rafaela Freitas;1971-05-26;Mato Grosso do Sul;Feminino;2022-07-05;2022-07-20
+Dr. Rodrigo;Ortopedista;Comum;172;Agatha Moura;1974-03-28;Alagoas;Feminino;2023-09-01;2023-09-19
+Dr. Eduardo;Ortopedista;Acidente de trabalho;175;Júlia Carvalho;1989-01-03;Tocantins;Feminino;2022-11-05;2022-12-01
+Dr. Ramos;Ortopedista;Acidente de trabalho;182;Henrique Lima;1963-09-05;Minas Gerais;Masculino;2023-06-07;2023-06-13
+Dr. Rodrigo;Ortopedista;Comum;187;Maysa da Rosa;1979-04-17;Paraíba;Feminino;2023-08-20;2023-09-11
+Dr. Eduardo;Ortopedista;Enfermidade de filhos pequenos;190;Ana Clara Martins;1971-06-13;Acre;Feminino;2022-10-05;2022-10-17
+Dr. Thiago;Ortopedista;Enfermidade de filhos pequenos;194;Vitor Gabriel Freitas;1976-05-09;Rio Grande do Norte;Masculino;2023-08-05;2023-09-02
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;195;Isabel Cunha;1991-03-20;Piauí;Feminino;2022-09-20;2022-10-09
+Dr. Felipe;Ortopedista;Acidente de trajeto;196;Manuela Cardoso;1992-11-01;Distrito Federal;Feminino;2022-09-10;2022-10-01
+Dr. Eduardo;Ortopedista;Comum;199;Ana Lívia Rezende;1964-07-18;Goiás;Feminino;2022-05-04;2022-05-07
+Dr. Felipe;Ortopedista;Acidente de trajeto;200;Raquel Correia;1991-02-11;São Paulo;Feminino;2022-03-14;2022-03-22
+Dr. Felipe;Ortopedista;Comum;202;Benício da Cruz;1967-09-14;Pernambuco;Masculino;2022-02-24;2022-03-12
+Dr. Rodrigo;Ortopedista;Enfermidade de filhos pequenos;209;Gabrielly Azevedo;1977-05-04;Paraíba;Feminino;2023-08-17;2023-09-06
+Dr. Thiago;Ortopedista;Acidente de trabalho;214;Joana Almeida;1999-03-09;Rio Grande do Sul;Feminino;2022-06-03;2022-06-19
+Dr. Rodrigo;Ortopedista;Enfermidade de filhos pequenos;217;Bruno Barros;2001-04-12;Paraíba;Masculino;2022-11-09;2022-12-03
+Dr. Thiago;Ortopedista;Enfermidade de filhos pequenos;218;Bruna Correia;1975-06-22;Rio Grande do Norte;Feminino;2022-10-09;2022-10-22
+Dr. Ramos;Ortopedista;Acidente de trabalho;220;Fernando Caldeira;1964-10-09;Roraima;Masculino;2023-11-04;2023-11-07
+Dr. Ramos;Ortopedista;Acidente de trabalho;221;Milena Sales;1999-10-12;São Paulo;Feminino;2023-10-06;2023-10-29
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;224;Rodrigo Aragão;1980-10-07;Rio Grande do Norte;Masculino;2023-03-27;2023-04-01
+Dr. Rodrigo;Ortopedista;Acidente de trajeto;227;Nathan Fogaça;1966-03-24;Amapá;Masculino;2022-01-09;2022-01-28
+Dr. Felipe;Ortopedista;Acidente de trabalho;230;João Gabriel Azevedo;1982-03-07;Paraíba;Masculino;2023-12-12;2023-12-15
+Dr. Eduardo;Ortopedista;Acidente de trajeto;232;Augusto Souza;1978-02-24;Piauí;Masculino;2022-12-17;2023-01-08
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;238;Luiz Henrique Araújo;1956-03-26;Paraíba;Masculino;2022-02-18;2022-02-28
+Dr. Thiago;Ortopedista;Comum;242;João Felipe da Rosa;1990-08-22;Mato Grosso do Sul;Masculino;2022-12-09;2022-12-16
+Dr. Ramos;Ortopedista;Acidente de trajeto;244;Ana Lívia Jesus;1966-11-17;Tocantins;Feminino;2022-12-15;2022-12-17
+Dr. Felipe;Ortopedista;Acidente de trajeto;245;Ana Laura da Conceição;1994-01-17;São Paulo;Feminino;2022-06-13;2022-06-26
+Dr. Thiago;Ortopedista;Acidente de trabalho;251;Benjamin Cunha;1964-07-18;Rio Grande do Sul;Masculino;2023-06-23;2023-07-20
+Dr. Ramos;Ortopedista;Acidente de trabalho;253;Laura Freitas;2004-09-26;São Paulo;Feminino;2023-03-14;2023-03-25
+Dr. Felipe;Ortopedista;Acidente de trajeto;258;Clarice Cunha;2002-12-29;Amapá;Feminino;2023-10-18;2023-10-27
+Dr. Rodrigo;Ortopedista;Enfermidade de filhos pequenos;259;Cauê Costa;1987-08-16;Amapá;Masculino;2022-11-03;2022-11-15
+Dr. Thiago;Ortopedista;Comum;263;Maria Julia da Rosa;1978-02-28;Rio Grande do Sul;Feminino;2022-08-11;2022-08-14
+Dr. Ramos;Ortopedista;Comum;265;Enrico Duarte;1955-02-25;Minas Gerais;Masculino;2022-08-03;2022-08-26
+Dr. Rodrigo;Ortopedista;Comum;275;Luana da Conceição;1968-08-29;Piauí;Feminino;2022-11-21;2022-12-19
+Dr. Ramos;Ortopedista;Comum;279;Eduarda das Neves;1963-08-31;Goiás;Feminino;2022-09-27;2022-10-13
+Dr. Eduardo;Ortopedista;Acidente de trabalho;281;Stella Silveira;1958-04-22;Rio Grande do Sul;Feminino;2023-09-28;2023-10-19
+Dr. Eduardo;Ortopedista;Enfermidade de filhos pequenos;283;João Guilherme Azevedo;1961-07-07;Goiás;Masculino;2022-09-05;2022-09-29
+Dr. Ramos;Ortopedista;Acidente de trabalho;284;Milena Cardoso;1971-08-26;Maranhão;Feminino;2023-11-08;2023-12-02
+Dr. Felipe;Ortopedista;Acidente de trabalho;285;Luna Cunha;1993-11-22;Acre;Feminino;2023-02-19;2023-02-24
+Dr. Eduardo;Ortopedista;Acidente de trabalho;294;Vitor Hugo Araújo;1980-07-05;Paraná;Masculino;2022-02-02;2022-02-26
+Dr. Ramos;Ortopedista;Acidente de trajeto;296;Gustavo Henrique da Cruz;1975-04-07;Acre;Masculino;2023-12-02;2023-12-21
+Dr. Thiago;Ortopedista;Comum;301;Anthony Jesus;1966-03-28;Rio Grande do Sul;Masculino;2022-12-02;2022-12-10
+Dr. Ramos;Ortopedista;Comum;302;Brenda Cavalcanti;1961-02-13;Goiás;Feminino;2023-12-15;2023-12-21
+Dr. Eduardo;Ortopedista;Acidente de trajeto;305;Ana Luiza Moreira;1981-08-18;Pará;Feminino;2022-09-13;2022-10-07
+Dr. Rodrigo;Ortopedista;Acidente de trabalho;306;Mariana Gonçalves;2002-10-19;Rio de Janeiro;Feminino;2022-08-22;2022-09-05
+Dr. Rodrigo;Ortopedista;Comum;308;Bruno Barbosa;1987-06-20;Goiás;Masculino;2023-03-18;2023-03-31
+Dr. Thiago;Ortopedista;Enfermidade de filhos pequenos;312;André Pereira;1986-08-18;Rondônia;Masculino;2023-01-22;2023-02-01
+Dr. Eduardo;Ortopedista;Acidente de trajeto;313;Heitor Almeida;2005-03-03;Pará;Masculino;2023-03-12;2023-03-28
+Dr. Rodrigo;Ortopedista;Acidente de trajeto;314;Esther Rocha;1994-07-09;Paraná;Feminino;2022-02-27;2022-03-22
+Dr. Rodrigo;Ortopedista;Acidente de trabalho;323;Thiago Ramos;1953-10-16;Ceará;Masculino;2023-11-06;2023-11-22
+Dr. Eduardo;Ortopedista;Acidente de trajeto;325;Maria Eduarda Fernandes;1967-08-01;Roraima;Feminino;2022-03-12;2022-03-26
+Dr. Rodrigo;Ortopedista;Enfermidade de filhos pequenos;328;Luiz Miguel Lopes;1976-03-09;Amazonas;Masculino;2023-10-26;2023-11-10
+Dr. Eduardo;Ortopedista;Comum;331;Clara das Neves;1973-08-17;Alagoas;Feminino;2022-07-18;2022-08-13
+Dr. Felipe;Ortopedista;Acidente de trajeto;334;Bruna Santos;1991-08-25;Mato Grosso;Feminino;2022-07-23;2022-08-22
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;337;Maria Eduarda Lima;1988-09-17;Piauí;Feminino;2022-09-23;2022-10-13
+Dr. Felipe;Ortopedista;Acidente de trajeto;340;Maysa Almeida;1954-06-10;Pernambuco;Feminino;2022-12-17;2022-12-21
+Dr. Eduardo;Ortopedista;Acidente de trabalho;347;Fernanda Costela;1978-08-03;Amapá;Feminino;2022-05-08;2022-05-22
+Dr. Rodrigo;Ortopedista;Acidente de trajeto;349;Eduardo Fogaça;1957-12-25;Rondônia;Masculino;2022-04-25;2022-05-02
+Dr. Ramos;Ortopedista;Comum;350;Rafael Campos;1993-06-21;Roraima;Masculino;2022-05-05;2022-05-25
+Dr. Rodrigo;Ortopedista;Acidente de trajeto;359;Francisco Dias;1957-11-07;Santa Catarina;Masculino;2022-09-12;2022-09-23
+Dr. Thiago;Ortopedista;Comum;361;Maria Vitória Alves;1962-12-08;Rio Grande do Norte;Feminino;2022-09-24;2022-09-28
+Dr. Thiago;Ortopedista;Acidente de trajeto;367;Vitória Costela;1997-12-05;Paraná;Feminino;2023-09-16;2023-10-06
+Dr. Eduardo;Ortopedista;Acidente de trajeto;373;Laís da Conceição;1983-08-24;Mato Grosso;Feminino;2023-01-21;2023-01-25
+Dr. Eduardo;Ortopedista;Comum;375;Maria Sophia Ramos;1969-05-05;Rio Grande do Sul;Feminino;2023-11-17;2023-11-28
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;381;Renan Porto;1955-09-15;Pernambuco;Masculino;2023-12-19;2024-01-08
+Dr. Ramos;Ortopedista;Acidente de trajeto;388;André da Rosa;1994-03-31;Minas Gerais;Masculino;2022-01-18;2022-02-09
+Dr. Ramos;Ortopedista;Comum;389;Bárbara Jesus;1972-08-04;Espírito Santo;Feminino;2023-07-10;2023-07-28
+Dr. Rodrigo;Ortopedista;Acidente de trajeto;392;Maria Farias;1960-03-01;Mato Grosso do Sul;Feminino;2023-12-21;2023-12-28
+Dr. Ramos;Ortopedista;Acidente de trabalho;403;Pietro Almeida;1978-12-02;Paraíba;Masculino;2022-05-22;2022-06-15
+Dr. Eduardo;Ortopedista;Comum;405;Emanuella Duarte;1959-02-12;Mato Grosso do Sul;Feminino;2022-06-16;2022-07-04
+Dr. Felipe;Ortopedista;Acidente de trajeto;409;Gabriel Pires;1962-11-06;Piauí;Masculino;2023-02-11;2023-02-19
+Dr. Felipe;Ortopedista;Comum;411;Renan Dias;1985-02-17;Alagoas;Masculino;2022-10-28;2022-11-19
+Dr. Felipe;Ortopedista;Acidente de trabalho;418;Emilly Cardoso;1963-07-05;Espírito Santo;Feminino;2022-04-10;2022-04-12
+Dr. Thiago;Ortopedista;Acidente de trajeto;425;Ana Laura Oliveira;1982-11-08;Goiás;Feminino;2023-05-02;2023-05-21
+Dr. Eduardo;Ortopedista;Acidente de trabalho;426;Luiz Miguel da Costa;1953-03-30;Espírito Santo;Masculino;2023-05-24;2023-05-26
+Dr. Eduardo;Ortopedista;Acidente de trajeto;428;Evelyn Ribeiro;1987-10-18;Acre;Feminino;2022-06-21;2022-06-30
+Dr. Eduardo;Ortopedista;Enfermidade de filhos pequenos;438;Pedro Lucas da Paz;1958-12-11;Espírito Santo;Masculino;2022-03-23;2022-04-06
+Dr. Ramos;Ortopedista;Acidente de trajeto;442;Valentina Almeida;1964-12-16;Distrito Federal;Feminino;2022-10-10;2022-11-02
+Dr. Eduardo;Ortopedista;Enfermidade de filhos pequenos;445;Júlia da Mata;2000-10-05;Paraíba;Feminino;2023-11-16;2023-11-29
+Dr. Eduardo;Ortopedista;Comum;447;Nina Ramos;1962-09-21;Amapá;Feminino;2023-06-20;2023-06-27
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;449;Maria Cunha;2001-11-04;Amazonas;Feminino;2022-12-16;2022-12-19
+Dr. Rodrigo;Ortopedista;Acidente de trajeto;453;João Gabriel Barros;2003-05-23;Distrito Federal;Masculino;2023-05-23;2023-05-30
+Dr. Rodrigo;Ortopedista;Comum;460;Raquel Costela;1964-06-03;Mato Grosso do Sul;Feminino;2022-02-10;2022-02-18
+Dr. Thiago;Ortopedista;Enfermidade de filhos pequenos;463;Gabriela Azevedo;1989-01-14;Distrito Federal;Feminino;2023-08-27;2023-09-03
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;465;Sabrina Gomes;1959-03-24;Maranhão;Feminino;2022-08-02;2022-08-13
+Dr. Rodrigo;Ortopedista;Comum;469;Ian Ribeiro;2001-04-19;Sergipe;Masculino;2023-07-11;2023-07-12
+Dr. Rodrigo;Ortopedista;Comum;471;Letícia Mendes;1981-09-14;Rio Grande do Norte;Feminino;2022-05-20;2022-05-30
+Dr. Thiago;Ortopedista;Acidente de trabalho;476;Raquel Ribeiro;1967-07-16;Minas Gerais;Feminino;2022-05-27;2022-06-06
+Dr. Eduardo;Ortopedista;Acidente de trabalho;478;Maria Eduarda Rodrigues;1990-02-13;Paraíba;Feminino;2023-01-23;2023-02-02
+Dr. Eduardo;Ortopedista;Acidente de trajeto;485;Nathan Fernandes;1977-09-01;Espírito Santo;Masculino;2022-06-04;2022-06-06
+Dr. Felipe;Ortopedista;Acidente de trabalho;486;Lara Farias;1980-02-24;Rio de Janeiro;Feminino;2023-09-18;2023-10-12
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;487;Alexandre Lopes;1953-02-10;Amazonas;Masculino;2023-09-24;2023-09-26
+Dr. Thiago;Ortopedista;Enfermidade de filhos pequenos;498;Alexia da Mota;2002-10-26;Rio de Janeiro;Feminino;2023-04-26;2023-05-03
+Dr. Ramos;Ortopedista;Acidente de trabalho;508;Lucas Gabriel Moura;1977-03-29;Rio Grande do Sul;Masculino;2023-02-01;2023-02-21
+Dr. Felipe;Ortopedista;Acidente de trabalho;514;Milena Melo;1976-01-10;São Paulo;Feminino;2023-08-26;2023-09-22
+Dr. Felipe;Ortopedista;Acidente de trabalho;523;Kevin Duarte;1992-05-15;São Paulo;Masculino;2023-09-14;2023-09-28
+Dr. Rodrigo;Ortopedista;Acidente de trabalho;524;Mariane Carvalho;1985-08-18;Paraná;Feminino;2022-11-01;2022-11-20
+Dr. Rodrigo;Ortopedista;Enfermidade de filhos pequenos;525;Kaique Costa;2002-09-30;Santa Catarina;Masculino;2022-05-05;2022-05-10
+Dr. Eduardo;Ortopedista;Acidente de trajeto;535;Antônio Rezende;1991-07-27;Tocantins;Masculino;2023-07-01;2023-07-28
+Dr. Eduardo;Ortopedista;Acidente de trajeto;542;Cecília Ramos;1968-05-29;Rio de Janeiro;Feminino;2023-02-24;2023-03-24
+Dr. Felipe;Ortopedista;Acidente de trabalho;544;Murilo Dias;1974-10-11;Distrito Federal;Masculino;2023-02-21;2023-03-19
+Dr. Ramos;Ortopedista;Acidente de trabalho;546;Rebeca Peixoto;1986-04-01;Ceará;Feminino;2023-10-04;2023-10-10
+Dr. Rodrigo;Ortopedista;Enfermidade de filhos pequenos;553;Clarice Sales;1998-10-26;Ceará;Feminino;2022-01-10;2022-01-11
+Dr. Rodrigo;Ortopedista;Comum;559;Ana Luiza Moreira;1977-09-11;Rondônia;Feminino;2023-07-26;2023-08-01
+Dr. Rodrigo;Ortopedista;Comum;562;Miguel Carvalho;1977-02-16;Amapá;Masculino;2022-03-28;2022-04-21
+Dr. Ramos;Ortopedista;Acidente de trabalho;567;Leonardo Farias;1974-01-14;Rio Grande do Sul;Masculino;2022-07-03;2022-07-14
+Dr. Eduardo;Ortopedista;Acidente de trajeto;569;Natália Araújo;1988-02-05;Goiás;Feminino;2023-08-02;2023-08-25
+Dr. Eduardo;Ortopedista;Comum;574;Maitê Monteiro;1972-10-04;Alagoas;Feminino;2022-01-16;2022-02-01
+Dr. Felipe;Ortopedista;Acidente de trajeto;575;Rafaela Costa;1986-06-19;Pará;Feminino;2023-09-13;2023-09-30
+Dr. Eduardo;Ortopedista;Comum;583;Otávio Carvalho;1988-09-15;Bahia;Masculino;2022-07-27;2022-08-17
+Dr. Rodrigo;Ortopedista;Comum;587;André Gomes;1956-06-28;Maranhão;Masculino;2022-09-04;2022-09-13
+Dr. Rodrigo;Ortopedista;Acidente de trajeto;592;Breno Correia;2003-07-06;São Paulo;Masculino;2022-09-16;2022-10-04
+Dr. Felipe;Ortopedista;Acidente de trajeto;597;Joaquim Fogaça;1988-03-15;Distrito Federal;Masculino;2022-08-09;2022-08-13
+Dr. Eduardo;Ortopedista;Enfermidade de filhos pequenos;609;Yuri Dias;1987-04-03;Espírito Santo;Masculino;2023-03-27;2023-04-17
+Dr. Felipe;Ortopedista;Acidente de trajeto;612;Antônio Cardoso;1969-10-18;Amazonas;Masculino;2022-03-16;2022-04-08
+Dr. Rodrigo;Ortopedista;Acidente de trabalho;637;Bárbara Fogaça;1954-09-14;Amazonas;Feminino;2022-02-02;2022-02-24
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;643;Maitê Souza;1965-11-02;Maranhão;Feminino;2023-12-17;2024-01-11
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;649;Ana Beatriz Nogueira;1981-05-05;Rio de Janeiro;Feminino;2023-11-04;2023-12-04
+Dr. Felipe;Ortopedista;Comum;655;Pedro Cavalcanti;1981-01-25;Ceará;Masculino;2023-08-07;2023-08-25
+Dr. Felipe;Ortopedista;Acidente de trabalho;656;Lorena Porto;1976-09-11;Tocantins;Feminino;2023-01-02;2023-01-30
+Dr. Felipe;Ortopedista;Acidente de trabalho;658;Olivia Teixeira;1983-11-04;Acre;Feminino;2023-09-19;2023-09-23
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;670;Alexandre Gonçalves;1983-03-08;Minas Gerais;Masculino;2023-10-11;2023-10-17
+Dr. Rodrigo;Ortopedista;Comum;672;Miguel da Conceição;1967-04-24;Paraíba;Masculino;2023-11-03;2023-11-15
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;675;Maria Nogueira;1978-01-27;Tocantins;Feminino;2023-03-05;2023-03-23
+Dr. Eduardo;Ortopedista;Acidente de trajeto;678;André Cardoso;1979-12-16;Pernambuco;Masculino;2023-01-04;2023-01-09
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;683;Maria Vieira;1962-03-15;Amazonas;Feminino;2022-04-24;2022-04-28
+Dr. Thiago;Ortopedista;Enfermidade de filhos pequenos;684;Emanuella Rocha;1984-01-12;Distrito Federal;Feminino;2023-06-25;2023-07-10
+Dr. Ramos;Ortopedista;Acidente de trabalho;685;Joana Lopes;1976-02-22;Bahia;Feminino;2023-06-22;2023-06-29
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;692;Maria Vitória da Mota;1986-04-12;Mato Grosso;Feminino;2022-03-04;2022-03-26
+Dr. Ramos;Ortopedista;Comum;695;Sarah Ribeiro;1956-09-19;Minas Gerais;Feminino;2022-07-20;2022-07-28
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;696;Marina Rodrigues;1974-07-21;Alagoas;Feminino;2023-02-15;2023-02-28
+Dr. Thiago;Ortopedista;Acidente de trajeto;699;Isis Silva;1955-06-07;Mato Grosso do Sul;Feminino;2023-11-28;2023-12-07
+Dr. Felipe;Ortopedista;Comum;704;Valentina Almeida;1994-08-26;Ceará;Feminino;2023-03-16;2023-04-13
+Dr. Ramos;Ortopedista;Acidente de trabalho;706;Olivia Alves;1980-10-16;Paraíba;Feminino;2023-06-28;2023-07-16
+Dr. Eduardo;Ortopedista;Acidente de trajeto;710;Yago Pinto;1966-12-26;São Paulo;Masculino;2022-09-15;2022-10-11
+Dr. Thiago;Ortopedista;Enfermidade de filhos pequenos;716;Leonardo Monteiro;1976-05-26;Tocantins;Masculino;2023-07-04;2023-07-09
+Dr. Ramos;Ortopedista;Comum;726;Augusto Viana;1994-11-11;Alagoas;Masculino;2023-11-25;2023-12-03
+Dr. Thiago;Ortopedista;Acidente de trajeto;727;Lara Rezende;1983-11-03;Tocantins;Feminino;2023-09-11;2023-10-07
+Dr. Rodrigo;Ortopedista;Enfermidade de filhos pequenos;730;Rebeca Moreira;1969-06-19;Santa Catarina;Feminino;2023-05-18;2023-05-22
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;738;Theo Castro;1952-11-23;Paraíba;Masculino;2022-10-24;2022-11-06
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;739;Cauê Freitas;1969-06-19;Paraná;Masculino;2022-10-08;2022-10-15
+Dr. Felipe;Ortopedista;Acidente de trajeto;749;Caroline Almeida;1991-06-10;Amazonas;Feminino;2023-03-15;2023-04-02
+Dr. Thiago;Ortopedista;Enfermidade de filhos pequenos;751;Rafael Moreira;1991-03-29;Rondônia;Masculino;2023-09-27;2023-10-22
+Dr. Ramos;Ortopedista;Comum;753;Cecília Silva;1952-08-25;Espírito Santo;Feminino;2022-06-13;2022-06-15
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;754;Yuri Costa;1978-03-07;Paraná;Masculino;2022-12-13;2023-01-07
+Dr. Rodrigo;Ortopedista;Acidente de trabalho;760;Luiz Otávio da Mata;1968-07-02;Alagoas;Masculino;2022-12-03;2022-12-05
+Dr. Rodrigo;Ortopedista;Enfermidade de filhos pequenos;762;Paulo da Mata;1977-11-13;Alagoas;Masculino;2022-09-26;2022-09-28
+Dr. Rodrigo;Ortopedista;Comum;765;João Felipe Nogueira;1979-02-14;Espírito Santo;Masculino;2023-01-03;2023-01-07
+Dr. Rodrigo;Ortopedista;Acidente de trabalho;770;Kevin da Paz;2002-02-18;Pará;Masculino;2022-05-05;2022-05-26
+Dr. Thiago;Ortopedista;Acidente de trabalho;771;Manuela Nunes;1959-08-03;Santa Catarina;Feminino;2022-10-27;2022-11-21
+Dr. Rodrigo;Ortopedista;Enfermidade de filhos pequenos;775;Felipe Sales;1990-03-29;Rondônia;Masculino;2022-11-26;2022-12-15
+Dr. Felipe;Ortopedista;Acidente de trajeto;780;Emanuella Sales;1980-08-13;Paraná;Feminino;2022-02-10;2022-03-03
+Dr. Rodrigo;Ortopedista;Enfermidade de filhos pequenos;781;Bianca Duarte;1962-11-30;São Paulo;Feminino;2022-09-09;2022-09-17
+Dr. Eduardo;Ortopedista;Comum;784;Fernanda das Neves;1955-08-08;Rio de Janeiro;Feminino;2022-12-02;2022-12-11
+Dr. Eduardo;Ortopedista;Acidente de trajeto;794;Felipe Rocha;1955-03-30;Amazonas;Masculino;2023-12-16;2023-12-30
+Dr. Ramos;Ortopedista;Acidente de trajeto;799;Ana Júlia Cunha;1956-04-24;Pará;Feminino;2022-05-05;2022-05-28
+Dr. Felipe;Ortopedista;Acidente de trajeto;800;Eloah Jesus;1980-07-24;Amapá;Feminino;2023-06-01;2023-06-28
+Dr. Eduardo;Ortopedista;Acidente de trabalho;803;Ana Carolina Moura;1972-06-27;Roraima;Feminino;2023-12-03;2023-12-21
+Dr. Eduardo;Ortopedista;Enfermidade de filhos pequenos;819;Catarina Silveira;1990-11-24;Rio Grande do Norte;Feminino;2022-05-08;2022-05-13
+Dr. Eduardo;Ortopedista;Enfermidade de filhos pequenos;825;Antônio Carvalho;1972-09-02;Acre;Masculino;2023-08-27;2023-09-20
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;829;Ana Lívia Farias;1961-07-09;Bahia;Feminino;2023-12-24;2024-01-12
+Dr. Thiago;Ortopedista;Acidente de trabalho;836;Manuela Moreira;1975-03-25;Rondônia;Feminino;2023-06-08;2023-06-27
+Dr. Thiago;Ortopedista;Acidente de trabalho;840;Sophie Nunes;1971-06-12;Pará;Feminino;2022-12-22;2023-01-09
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;853;Bruno Novaes;1954-07-30;Espírito Santo;Masculino;2023-05-06;2023-05-18
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;859;Daniela da Paz;1978-12-07;Piauí;Feminino;2022-10-02;2022-10-03
+Dr. Thiago;Ortopedista;Acidente de trajeto;861;Ana Júlia Moura;1977-01-14;Goiás;Feminino;2023-12-27;2023-12-28
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;873;Nathan Barros;1976-07-07;Amazonas;Masculino;2022-08-25;2022-08-30
+Dr. Felipe;Ortopedista;Comum;876;Vitória Santos;1990-04-20;Amapá;Feminino;2022-10-10;2022-10-30
+Dr. Felipe;Ortopedista;Acidente de trabalho;877;Ana Beatriz Gonçalves;1959-09-04;Pará;Feminino;2022-08-16;2022-09-07
+Dr. Eduardo;Ortopedista;Acidente de trabalho;883;Rodrigo Aragão;1970-10-13;Mato Grosso;Masculino;2022-03-08;2022-03-15
+Dr. Ramos;Ortopedista;Enfermidade de filhos pequenos;884;Lorenzo Gonçalves;1985-11-03;Rio de Janeiro;Masculino;2023-03-04;2023-03-05
+Dr. Eduardo;Ortopedista;Enfermidade de filhos pequenos;908;Rafaela Castro;1965-08-26;Paraná;Feminino;2023-02-25;2023-03-18
+Dr. Thiago;Ortopedista;Acidente de trabalho;910;Isis Costa;1960-12-03;Tocantins;Feminino;2023-05-11;2023-06-10
+Dr. Rodrigo;Ortopedista;Comum;923;Augusto Costela;1997-06-25;Maranhão;Masculino;2022-10-06;2022-10-24
+Dr. Rodrigo;Ortopedista;Comum;927;Ana Carolina da Cunha;1968-04-25;Tocantins;Feminino;2023-06-09;2023-07-08
+Dr. Eduardo;Ortopedista;Acidente de trajeto;934;Davi da Cunha;1952-11-01;Rio Grande do Norte;Masculino;2023-08-16;2023-09-04
+Dr. Thiago;Ortopedista;Acidente de trajeto;939;Clara Jesus;1997-11-11;Piauí;Feminino;2023-05-23;2023-05-27
+Dr. Eduardo;Ortopedista;Acidente de trajeto;944;Pedro Miguel Lima;2003-01-26;Pará;Masculino;2023-09-09;2023-10-06
+Dr. Rodrigo;Ortopedista;Acidente de trajeto;953;Otávio Melo;1990-12-04;Piauí;Masculino;2023-09-06;2023-09-26
+Dr. Thiago;Ortopedista;Acidente de trabalho;954;Alice Moreira;1974-03-20;Amapá;Feminino;2023-08-04;2023-08-24
+Dr. Eduardo;Ortopedista;Comum;965;Alexia Barros;1971-02-02;Mato Grosso;Feminino;2022-02-05;2022-02-23
+Dr. Thiago;Ortopedista;Comum;970;Marcos Vinicius da Costa;1988-07-18;Paraná;Masculino;2023-04-24;2023-05-20
+Dr. Felipe;Ortopedista;Enfermidade de filhos pequenos;973;Isabelly Moura;1976-11-06;Roraima;Feminino;2023-02-03;2023-02-20
+Dr. Ramos;Ortopedista;Acidente de trajeto;978;Ana Júlia da Mota;2005-04-29;Piauí;Feminino;2022-02-14;2022-03-08
+Dr. Ramos;Ortopedista;Acidente de trabalho;982;Theo Vieira;1998-11-05;Tocantins;Masculino;2022-03-09;2022-03-30
+Dr. Rodrigo;Ortopedista;Acidente de trajeto;983;Gabrielly Jesus;2003-11-27;Santa Catarina;Feminino;2023-01-12;2023-02-06
+Dr. Rodrigo;Ortopedista;Acidente de trajeto;989;Antônio Gomes;1986-03-22;Amazonas;Masculino;2022-11-20;2022-12-11
+Dr. Rodrigo;Ortopedista;Acidente de trajeto;991;Eduarda Cardoso;1973-01-31;Santa Catarina;Feminino;2022-11-27;2022-12-26
+Dr. Felipe;Ortopedista;Comum;995;Ana Laura Castro;2002-09-23;Piauí;Feminino;2022-05-11;2022-05-28
+Dr. Felipe;Ortopedista;Comum;997;Luiz Henrique da Mota;1990-02-14;Bahia;Masculino;2022-07-08;2022-07-27

@@ -1,0 +1,153 @@
+Nome do médico;Especialidade;Motivo da licença;ID do colaborador;Nome do colaborador;Data de nascimento;Estado do colaborador;Sexo do colaborador;Início da licença;Término da licença
+Dra. Fernanda;Ginecologista obstetra;Maternidade;15;Eduarda Costela;1967-04-15;Amapá;Feminino;2022-02-03;2022-02-08
+Dr. Gilberto;Ginecologista obstetra;Maternidade;21;Clarice Freitas;2001-09-14;Rondônia;Feminino;2023-01-12;2023-01-27
+Dr. Gilberto;Ginecologista obstetra;Maternidade;24;Heloísa Farias;1998-09-02;Amazonas;Feminino;2023-01-15;2023-01-17
+Dra. Juliana;Ginecologista obstetra;Comum;26;Ana Vitória Moura;1978-09-25;Mato Grosso do Sul;Feminino;2023-07-07;2023-08-05
+Dra. Ana;Ginecologista obstetra;Comum;31;Stella Martins;1985-06-21;Amapá;Feminino;2022-05-06;2022-05-22
+Dr. Irineu;Ginecologista obstetra;Maternidade;40;Carolina Silva;1978-10-09;Mato Grosso;Feminino;2023-12-03;2023-12-22
+Dra. Juliana;Ginecologista obstetra;Maternidade;41;Vitória Correia;1966-12-26;Pará;Feminino;2023-04-23;2023-05-23
+Dr. Gilberto;Ginecologista obstetra;Maternidade;57;Ana Vitória Duarte;1964-10-17;Espírito Santo;Feminino;2023-12-16;2023-12-19
+Dr. Gilberto;Ginecologista obstetra;Maternidade;64;Maria Cecília Barbosa;2002-10-30;Paraná;Feminino;2022-08-20;2022-09-06
+Dra. Ana;Ginecologista obstetra;Maternidade;104;Kamilly Silveira;1961-03-15;Ceará;Feminino;2023-12-21;2023-12-29
+Dra. Ana;Ginecologista obstetra;Maternidade;111;Rebeca Pires;2000-01-01;Mato Grosso;Feminino;2022-09-28;2022-10-04
+Dr. Irineu;Ginecologista obstetra;Maternidade;113;Daniela Melo;1989-08-19;Tocantins;Feminino;2023-02-13;2023-03-15
+Dra. Fernanda;Ginecologista obstetra;Comum;114;Ana da Mota;1953-02-10;Santa Catarina;Feminino;2022-07-05;2022-07-23
+Dr. Gilberto;Ginecologista obstetra;Maternidade;121;Sophia Monteiro;1969-07-04;Sergipe;Feminino;2022-05-14;2022-05-30
+Dra. Fernanda;Ginecologista obstetra;Maternidade;136;Gabrielly Fogaça;1967-09-03;Maranhão;Feminino;2023-11-21;2023-12-06
+Dra. Fernanda;Ginecologista obstetra;Maternidade;138;Sophia Silva;1968-01-05;Pernambuco;Feminino;2023-03-01;2023-03-06
+Dra. Ana;Ginecologista obstetra;Maternidade;139;Sabrina da Cruz;1957-12-27;Paraná;Feminino;2023-10-19;2023-11-08
+Dra. Juliana;Ginecologista obstetra;Maternidade;159;Rebeca Araújo;1971-09-14;Ceará;Feminino;2022-12-20;2022-12-21
+Dra. Ana;Ginecologista obstetra;Comum;165;Luiza Ferreira;1998-05-07;Rondônia;Feminino;2023-01-15;2023-02-13
+Dra. Fernanda;Ginecologista obstetra;Maternidade;169;Stephany Lopes;1978-12-04;Mato Grosso;Feminino;2022-04-05;2022-04-26
+Dr. Gilberto;Ginecologista obstetra;Maternidade;170;Juliana Farias;1984-12-27;Paraná;Feminino;2023-05-14;2023-06-04
+Dra. Fernanda;Ginecologista obstetra;Maternidade;177;Rafaela Pereira;1952-09-22;Santa Catarina;Feminino;2022-11-28;2022-12-02
+Dr. Gilberto;Ginecologista obstetra;Maternidade;180;Carolina Costela;1980-01-11;Mato Grosso;Feminino;2022-04-26;2022-05-01
+Dra. Ana;Ginecologista obstetra;Comum;188;Juliana da Mata;1963-10-30;São Paulo;Feminino;2023-05-15;2023-05-29
+Dra. Ana;Ginecologista obstetra;Maternidade;192;Sophia da Luz;1957-08-06;Maranhão;Feminino;2023-08-01;2023-08-17
+Dra. Juliana;Ginecologista obstetra;Maternidade;201;Bruna Silveira;1985-02-09;Tocantins;Feminino;2022-08-24;2022-09-04
+Dra. Fernanda;Ginecologista obstetra;Comum;204;Júlia Silva;1989-05-05;Maranhão;Feminino;2023-07-08;2023-07-16
+Dr. Gilberto;Ginecologista obstetra;Maternidade;234;Bianca Castro;1998-04-16;Paraíba;Feminino;2022-10-11;2022-10-27
+Dra. Juliana;Ginecologista obstetra;Maternidade;237;Emanuella Castro;1986-11-13;Paraná;Feminino;2023-05-13;2023-06-02
+Dra. Fernanda;Ginecologista obstetra;Comum;255;Ana Beatriz Martins;1990-04-12;Distrito Federal;Feminino;2023-11-28;2023-12-24
+Dra. Ana;Ginecologista obstetra;Maternidade;262;Maitê Campos;1979-02-25;Maranhão;Feminino;2023-11-13;2023-11-25
+Dra. Ana;Ginecologista obstetra;Maternidade;267;Sophia Cardoso;1961-12-06;Distrito Federal;Feminino;2023-10-07;2023-10-27
+Dr. Irineu;Ginecologista obstetra;Comum;273;Alícia Araújo;1992-02-21;Santa Catarina;Feminino;2023-12-22;2024-01-07
+Dr. Irineu;Ginecologista obstetra;Maternidade;276;Nicole Costela;2001-09-08;Espírito Santo;Feminino;2023-02-15;2023-02-22
+Dra. Juliana;Ginecologista obstetra;Comum;280;Cecília Carvalho;1964-12-10;Pernambuco;Feminino;2022-07-07;2022-07-13
+Dra. Ana;Ginecologista obstetra;Comum;289;Isadora Farias;2000-09-15;Piauí;Feminino;2023-05-12;2023-06-04
+Dr. Gilberto;Ginecologista obstetra;Maternidade;293;Ana Luiza Gonçalves;1967-05-26;Maranhão;Feminino;2023-02-09;2023-02-21
+Dra. Ana;Ginecologista obstetra;Maternidade;307;Eloah Aragão;1955-09-17;Maranhão;Feminino;2023-01-20;2023-02-14
+Dra. Fernanda;Ginecologista obstetra;Maternidade;309;Lavínia Aragão;2004-08-12;Pernambuco;Feminino;2022-05-21;2022-06-02
+Dr. Gilberto;Ginecologista obstetra;Maternidade;316;Helena Aragão;1966-01-01;Tocantins;Feminino;2023-06-07;2023-06-19
+Dra. Juliana;Ginecologista obstetra;Maternidade;319;Alícia Lima;1982-04-06;Maranhão;Feminino;2022-04-24;2022-05-01
+Dr. Irineu;Ginecologista obstetra;Comum;321;Milena Cunha;1959-08-11;Rio de Janeiro;Feminino;2022-05-18;2022-05-26
+Dr. Irineu;Ginecologista obstetra;Maternidade;324;Daniela Lopes;1995-06-25;Amazonas;Feminino;2022-12-28;2023-01-14
+Dra. Juliana;Ginecologista obstetra;Maternidade;326;Sofia Cardoso;1979-05-20;;Feminino;2023-11-07;2023-11-23
+Dra. Fernanda;Ginecologista obstetra;Comum;327;Maria Eduarda Barbosa;1967-11-26;Minas Gerais;Feminino;2022-01-22;2022-02-19
+Dra. Ana;Ginecologista obstetra;Maternidade;344;Milena Ribeiro;1959-07-24;Bahia;Feminino;2023-03-07;2023-03-14
+Dra. Ana;Ginecologista obstetra;Maternidade;346;Emilly da Conceição;1959-06-21;Minas Gerais;Feminino;2022-03-07;2022-03-31
+Dr. Gilberto;Ginecologista obstetra;Maternidade;351;Rafaela da Cruz;1967-06-26;Maranhão;Feminino;2023-10-02;2023-10-19
+Dr. Irineu;Ginecologista obstetra;Maternidade;360;Milena Araújo;1961-02-01;Distrito Federal;Feminino;2022-08-16;2022-09-05
+Dra. Fernanda;Ginecologista obstetra;Comum;376;Eduarda Teixeira;1987-01-10;Mato Grosso do Sul;Feminino;2023-09-27;2023-09-30
+Dra. Ana;Ginecologista obstetra;Maternidade;378;Vitória da Costa;1983-10-10;Goiás;Feminino;2022-09-20;2022-10-18
+Dr. Irineu;Ginecologista obstetra;Maternidade;383;Stella Vieira;1955-10-04;Alagoas;Feminino;2023-11-06;2023-11-07
+Dr. Irineu;Ginecologista obstetra;Maternidade;390;Milena Novaes;1985-08-19;Alagoas;Feminino;2023-08-22;2023-08-26
+Dr. Gilberto;Ginecologista obstetra;Maternidade;391;Juliana Duarte;1954-03-10;Mato Grosso;Feminino;2023-06-21;2023-07-01
+Dra. Juliana;Ginecologista obstetra;Comum;393;Amanda Rocha;2003-07-04;Acre;Feminino;2023-07-27;2023-07-31
+Dra. Fernanda;Ginecologista obstetra;Maternidade;398;Joana Moreira;1988-10-17;Alagoas;Feminino;2022-01-14;2022-02-13
+Dr. Gilberto;Ginecologista obstetra;Maternidade;404;Daniela Cunha;2002-05-09;Roraima;Feminino;2022-03-13;2022-03-29
+Dr. Irineu;Ginecologista obstetra;Maternidade;420;Esther da Rocha;2004-09-26;Pernambuco;Feminino;2022-10-15;2022-10-31
+Dr. Gilberto;Ginecologista obstetra;Comum;431;Lívia Silveira;1968-08-08;Tocantins;Feminino;2022-08-01;2022-08-10
+Dr. Irineu;Ginecologista obstetra;Maternidade;436;Maria Luiza Lopes;1991-11-19;Mato Grosso do Sul;Feminino;2022-06-04;2022-06-28
+Dra. Fernanda;Ginecologista obstetra;Maternidade;440;Sabrina Barros;1997-04-21;Rondônia;Feminino;2022-10-23;2022-11-08
+Dr. Irineu;Ginecologista obstetra;Maternidade;441;Bianca Barros;1977-06-09;Rio de Janeiro;Feminino;2023-05-23;2023-05-29
+Dra. Ana;Ginecologista obstetra;Comum;459;Valentina Porto;1992-04-17;Acre;Feminino;2023-06-25;2023-07-18
+Dra. Fernanda;Ginecologista obstetra;Comum;462;Sabrina Moura;1974-01-12;Mato Grosso do Sul;Feminino;2023-08-27;2023-09-08
+Dr. Gilberto;Ginecologista obstetra;Maternidade;466;Lavínia Peixoto;1980-03-04;Santa Catarina;Feminino;2023-04-01;2023-04-21
+Dra. Ana;Ginecologista obstetra;Comum;468;Luna Souza;1963-02-27;Santa Catarina;Feminino;2023-09-18;2023-09-28
+Dra. Ana;Ginecologista obstetra;Comum;472;Joana Mendes;1996-03-25;Pernambuco;Feminino;2023-12-17;2023-12-31
+Dra. Juliana;Ginecologista obstetra;Comum;473;Alexia Cunha;1999-07-29;Alagoas;Feminino;2023-11-06;2023-12-01
+Dra. Ana;Ginecologista obstetra;Comum;474;Ana da Rocha;1968-05-10;Espírito Santo;Feminino;2023-07-05;2023-07-15
+Dra. Juliana;Ginecologista obstetra;Maternidade;479;Camila Duarte;1954-04-26;Pernambuco;Feminino;2022-07-08;2022-07-14
+Dr. Irineu;Ginecologista obstetra;Comum;482;Maria Fernanda Silva;1978-05-04;Rondônia;Feminino;2023-03-19;2023-04-16
+Dra. Fernanda;Ginecologista obstetra;Maternidade;484;Sarah Campos;1966-05-14;Piauí;Feminino;2022-09-07;2022-10-07
+Dr. Irineu;Ginecologista obstetra;Maternidade;491;Clarice Vieira;1963-08-28;Pará;Feminino;2022-01-24;2022-01-29
+Dra. Ana;Ginecologista obstetra;Maternidade;513;Eduarda Pinto;1980-09-01;Pará;Feminino;2022-07-01;2022-07-10
+Dr. Irineu;Ginecologista obstetra;Comum;522;Ana Beatriz Rodrigues;1966-07-12;Paraíba;Feminino;2023-12-04;2023-12-14
+Dra. Juliana;Ginecologista obstetra;Comum;526;Maria Sophia da Costa;2003-10-04;Sergipe;Feminino;2023-02-15;2023-02-19
+Dr. Irineu;Ginecologista obstetra;Maternidade;528;Caroline Nascimento;2003-06-24;Goiás;Feminino;2023-01-10;2023-01-26
+Dr. Irineu;Ginecologista obstetra;Comum;541;Alexia Oliveira;1962-08-27;Roraima;Feminino;2023-03-06;2023-03-28
+Dra. Ana;Ginecologista obstetra;Comum;545;Ana Luiza Lopes;1986-08-18;Distrito Federal;Feminino;2023-12-19;2024-01-13
+Dr. Gilberto;Ginecologista obstetra;Maternidade;548;Marina Correia;1982-12-05;Roraima;Feminino;2023-08-16;2023-08-31
+Dra. Fernanda;Ginecologista obstetra;Maternidade;550;Mariane Barros;1969-07-04;Sergipe;Feminino;2022-05-09;2022-06-04
+Dr. Gilberto;Ginecologista obstetra;Maternidade;552;Sophia Monteiro;1969-07-25;Sergipe;Feminino;2022-04-23;2022-05-13
+Dra. Ana;Ginecologista obstetra;Comum;556;Lara Souza;1967-05-17;Paraná;Feminino;2022-12-11;2022-12-27
+Dr. Irineu;Ginecologista obstetra;Maternidade;563;Giovanna Lima;1966-07-10;Mato Grosso;Feminino;2023-04-23;2023-05-12
+Dra. Juliana;Ginecologista obstetra;Maternidade;576;Laura Melo;1984-08-17;Roraima;Feminino;2022-05-23;2022-05-24
+Dr. Gilberto;Ginecologista obstetra;Comum;578;Ana Clara Pinto;1999-04-23;Rondônia;Feminino;2022-03-21;2022-03-24
+Dra. Fernanda;Ginecologista obstetra;Comum;584;Laura Rocha;1957-08-26;Rondônia;Feminino;2022-10-12;2022-10-27
+Dra. Juliana;Ginecologista obstetra;Maternidade;604;Alice da Cruz;1953-08-15;Santa Catarina;Feminino;2023-03-07;2023-03-19
+Dr. Irineu;Ginecologista obstetra;Maternidade;607;Manuela Novaes;2000-04-03;Pernambuco;Feminino;2023-11-05;2023-11-29
+Dra. Fernanda;Ginecologista obstetra;Maternidade;608;Ana Lívia Dias;1980-04-17;Rio Grande do Norte;Feminino;2023-11-21;2023-12-09
+Dra. Ana;Ginecologista obstetra;Maternidade;613;Laura Dias;1963-10-30;Santa Catarina;Feminino;2023-03-26;2023-04-03
+Dra. Ana;Ginecologista obstetra;Maternidade;614;Sophia Ferreira;2002-12-25;Sergipe;Feminino;2023-03-28;2023-04-03
+Dr. Irineu;Ginecologista obstetra;Maternidade;615;Bárbara da Cunha;1973-01-18;Tocantins;Feminino;2022-11-27;2022-12-16
+Dra. Juliana;Ginecologista obstetra;Comum;623;Elisa Lima;1965-01-30;Rio Grande do Sul;Feminino;2023-12-14;2024-01-02
+Dr. Irineu;Ginecologista obstetra;Maternidade;625;Maitê Peixoto;1954-09-11;Rio Grande do Sul;Feminino;2023-11-15;2023-12-11
+Dra. Ana;Ginecologista obstetra;Maternidade;629;Maria Julia Duarte;1992-08-04;Amazonas;Feminino;2023-12-05;2024-01-02
+Dra. Juliana;Ginecologista obstetra;Maternidade;630;Rafaela Cavalcanti;2002-08-10;Pará;Feminino;2022-09-03;2022-09-27
+Dr. Gilberto;Ginecologista obstetra;Maternidade;631;Ana Laura da Mota;1976-10-21;Minas Gerais;Feminino;2023-11-27;2023-12-02
+Dr. Irineu;Ginecologista obstetra;Maternidade;635;Kamilly Azevedo;1978-03-08;Goiás;Feminino;2022-05-19;2022-06-13
+Dr. Irineu;Ginecologista obstetra;Maternidade;641;Yasmin Cardoso;1955-01-22;Pernambuco;Feminino;2023-01-14;2023-02-12
+Dra. Juliana;Ginecologista obstetra;Maternidade;653;Alícia Pereira;1973-12-02;Sergipe;Feminino;2022-10-16;2022-11-07
+Dra. Ana;Ginecologista obstetra;Comum;667;Maria Julia Vieira;1989-06-26;Mato Grosso;Feminino;2023-03-20;2023-04-16
+Dr. Irineu;Ginecologista obstetra;Maternidade;668;Nicole Pinto;1952-09-25;;Feminino;2023-10-22;2023-11-21
+Dra. Fernanda;Ginecologista obstetra;Maternidade;689;Alice Teixeira;1973-10-21;Santa Catarina;Feminino;2023-12-02;2023-12-13
+Dra. Juliana;Ginecologista obstetra;Comum;708;Lívia Souza;1980-04-07;Paraíba;Feminino;2023-08-03;2023-08-07
+Dra. Fernanda;Ginecologista obstetra;Maternidade;711;Rafaela Pires;1962-08-05;Rio de Janeiro;Feminino;2022-04-28;2022-05-09
+Dra. Fernanda;Ginecologista obstetra;Maternidade;715;Mirella Caldeira;1976-06-23;Distrito Federal;Feminino;2022-02-27;2022-03-24
+Dr. Gilberto;Ginecologista obstetra;Comum;722;Laís Dias;2005-02-03;Maranhão;Feminino;2023-09-06;2023-09-19
+Dr. Irineu;Ginecologista obstetra;Maternidade;731;Laís da Cunha;1991-05-03;Roraima;Feminino;2023-08-25;2023-09-12
+Dr. Irineu;Ginecologista obstetra;Comum;735;Ana Vitória Porto;1953-12-10;Paraíba;Feminino;2023-05-27;2023-06-26
+Dra. Ana;Ginecologista obstetra;Maternidade;736;Mariana das Neves;1983-07-13;Amapá;Feminino;2022-07-04;2022-08-03
+Dr. Irineu;Ginecologista obstetra;Maternidade;743;Maria Alice Cardoso;1980-09-08;Rio de Janeiro;Feminino;2022-05-27;2022-05-30
+Dra. Fernanda;Ginecologista obstetra;Maternidade;744;Giovanna da Rosa;2003-02-05;Sergipe;Feminino;2023-03-03;2023-03-14
+Dr. Gilberto;Ginecologista obstetra;Maternidade;746;Vitória Peixoto;1962-02-16;Distrito Federal;Feminino;2023-07-27;2023-08-17
+Dra. Juliana;Ginecologista obstetra;Maternidade;756;Ana Luiza Campos;1987-05-09;Espírito Santo;Feminino;2023-06-09;2023-07-02
+Dra. Ana;Ginecologista obstetra;Maternidade;757;Isabel Alves;1985-11-23;Sergipe;Feminino;2022-01-13;2022-02-02
+Dra. Fernanda;Ginecologista obstetra;Comum;761;Carolina Aragão;1962-04-21;Rio Grande do Norte;Feminino;2022-01-22;2022-02-21
+Dr. Gilberto;Ginecologista obstetra;Maternidade;766;Cecília Souza;1957-12-02;Rio Grande do Norte;Feminino;2023-12-17;2024-01-09
+Dr. Irineu;Ginecologista obstetra;Comum;767;Isadora Campos;1957-12-25;Amazonas;Feminino;2023-09-13;2023-09-15
+Dra. Fernanda;Ginecologista obstetra;Comum;789;Isis Cunha;1961-09-08;Mato Grosso;Feminino;2022-05-27;2022-06-15
+Dra. Fernanda;Ginecologista obstetra;Maternidade;791;Manuela Teixeira;1998-08-20;Amazonas;Feminino;2022-11-03;2022-11-12
+Dr. Irineu;Ginecologista obstetra;Comum;792;Maria Vitória Vieira;1984-05-10;Rio Grande do Norte;Feminino;2023-08-23;2023-09-02
+Dra. Ana;Ginecologista obstetra;Maternidade;823;Giovanna Aragão;1987-10-13;Acre;Feminino;2023-12-28;2024-01-23
+Dr. Irineu;Ginecologista obstetra;Maternidade;826;Marcela Rocha;1987-09-15;Minas Gerais;Feminino;2023-06-09;2023-07-02
+Dra. Juliana;Ginecologista obstetra;Maternidade;827;Alice Nunes;2004-11-15;Mato Grosso;Feminino;2022-06-15;2022-06-16
+Dra. Ana;Ginecologista obstetra;Maternidade;841;Gabriela Cardoso;2003-06-15;São Paulo;Feminino;2023-04-07;2023-04-28
+Dra. Juliana;Ginecologista obstetra;Maternidade;842;Luiza Peixoto;1997-10-17;Paraíba;Feminino;2022-08-24;2022-09-19
+Dr. Gilberto;Ginecologista obstetra;Maternidade;847;Mariana Nunes;2004-10-21;Piauí;Feminino;2023-07-08;2023-07-23
+Dr. Irineu;Ginecologista obstetra;Maternidade;854;Lorena Alves;1955-03-15;Pernambuco;Feminino;2023-07-22;2023-08-02
+Dr. Gilberto;Ginecologista obstetra;Maternidade;855;Isabelly Freitas;1964-04-25;Pará;Feminino;2022-07-25;2022-07-28
+Dra. Juliana;Ginecologista obstetra;Maternidade;858;Lara Silveira;1988-04-02;Sergipe;Feminino;2022-03-11;2022-03-20
+Dr. Irineu;Ginecologista obstetra;Maternidade;870;Helena Cavalcanti;1959-02-20;Minas Gerais;Feminino;2023-10-17;2023-10-18
+Dra. Juliana;Ginecologista obstetra;Maternidade;874;Fernanda Novaes;1963-08-20;Rio Grande do Norte;Feminino;2023-04-18;2023-05-05
+Dr. Gilberto;Ginecologista obstetra;Maternidade;878;Maria Julia Moura;2001-01-26;Ceará;Feminino;2022-04-24;2022-05-03
+Dra. Ana;Ginecologista obstetra;Maternidade;895;Brenda Rocha;1980-12-09;Santa Catarina;Feminino;2022-11-03;2022-12-03
+Dr. Irineu;Ginecologista obstetra;Comum;898;Alana Cunha;2004-06-08;Bahia;Feminino;2023-06-05;2023-06-07
+Dr. Gilberto;Ginecologista obstetra;Comum;899;Ana Luiza Aragão;1995-02-22;Minas Gerais;Feminino;2023-11-18;2023-11-23
+Dr. Irineu;Ginecologista obstetra;Maternidade;903;Sophie Moraes;1980-08-29;Maranhão;Feminino;2022-04-24;2022-05-14
+Dra. Ana;Ginecologista obstetra;Comum;913;Bruna Melo;1975-05-31;Ceará;Feminino;2022-01-01;2022-01-29
+Dr. Irineu;Ginecologista obstetra;Maternidade;914;Letícia Pinto;1971-05-28;Mato Grosso;Feminino;2022-12-13;2022-12-15
+Dra. Juliana;Ginecologista obstetra;Comum;925;Ana Laura Porto;1993-09-10;Mato Grosso;Feminino;2023-04-21;2023-05-09
+Dr. Gilberto;Ginecologista obstetra;Comum;942;Luana da Mata;1966-08-22;;Feminino;2023-12-28;2023-12-29
+Dra. Juliana;Ginecologista obstetra;Maternidade;945;Evelyn Pires;1986-11-11;Rio Grande do Sul;Feminino;2023-03-06;2023-03-17
+Dr. Gilberto;Ginecologista obstetra;Maternidade;949;Bárbara da Paz;1965-01-10;Maranhão;Feminino;2023-07-09;2023-07-24
+Dra. Ana;Ginecologista obstetra;Comum;950;Ana Luiza Campos;1982-12-25;Amazonas;Feminino;2023-08-04;2023-08-08
+Dra. Ana;Ginecologista obstetra;Maternidade;959;Laís Mendes;1988-10-25;Amazonas;Feminino;2022-06-03;2022-06-04
+Dra. Juliana;Ginecologista obstetra;Maternidade;961;Clarice Campos;1988-07-19;Paraná;Feminino;2023-03-13;2023-04-11
+Dra. Fernanda;Ginecologista obstetra;Maternidade;969;Isadora da Conceição;1962-06-08;Piauí;Feminino;2022-10-07;2022-10-14
+Dra. Ana;Ginecologista obstetra;Maternidade;971;Vitória Cardoso;1973-07-20;São Paulo;Feminino;2022-04-17;2022-05-14
+Dra. Fernanda;Ginecologista obstetra;Maternidade;972;Isabelly Araújo;1968-01-20;Piauí;Feminino;2023-10-10;2023-10-26
+Dra. Juliana;Ginecologista obstetra;Maternidade;974;Camila Peixoto;2005-01-02;Distrito Federal;Feminino;2022-02-21;2022-03-15
+Dr. Irineu;Ginecologista obstetra;Maternidade;975;Ana Carolina Almeida;1975-08-20;Tocantins;Feminino;2022-03-25;2022-04-19

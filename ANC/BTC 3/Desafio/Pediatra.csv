@@ -1,0 +1,195 @@
+Nome do médico;Especialidade;Motivo da licença;ID do colaborador;Nome do colaborador;Data de nascimento;Estado do colaborador;Sexo do colaborador;Início da licença;Término da licença
+Dra. Laura;Pediatra;Comum;3;Miguel Porto;1963-12-18;Espírito Santo;Masculino;2022-12-16;2023-01-12
+Dra. Vanessa;Pediatra;Comum;5;Francisco da Rosa;1960-10-13;Goiás;Masculino;2023-06-23;2023-07-15
+Dr. Roberto;Pediatra;Comum;18;Sarah Nunes;2000-02-16;Pará;Feminino;2023-07-03;2023-07-24
+Dr. Roberto;Pediatra;Comum;29;Benício Freitas;1991-02-18;Santa Catarina;Masculino;2022-06-14;2022-07-08
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;30;Clarice Alves;1998-02-27;Espírito Santo;Feminino;2023-01-25;2023-01-31
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;43;Benjamin Vieira;1989-12-07;Ceará;Masculino;2023-08-17;2023-09-11
+Dra. Vanessa;Pediatra;Comum;49;Nina Silveira;1966-07-01;Ceará;Feminino;2023-12-11;2024-01-06
+Dra. Laura;Pediatra;Comum;54;Enzo da Cruz;1999-08-02;Distrito Federal;Masculino;2022-12-06;2022-12-21
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;60;Pedro Miguel Campos;1987-10-04;Santa Catarina;Masculino;2022-05-28;2022-06-12
+Dra. Carolina;Pediatra;Comum;62;João Lucas Moreira;1954-08-08;Alagoas;Masculino;2023-07-19;2023-08-07
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;65;Rodrigo Cavalcanti;1984-01-07;Piauí;Masculino;2022-04-06;2022-04-07
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;66;Luiz Fernando Silveira;1981-03-06;Mato Grosso do Sul;Masculino;2022-05-04;2022-06-01
+Dr. Lessa;Pediatra;Comum;68;Vinicius Rodrigues;1999-01-08;Roraima;Masculino;2023-06-22;2023-06-26
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;71;Thiago Nogueira;1977-07-04;Mato Grosso do Sul;Masculino;2023-11-20;2023-11-29
+Dra. Vanessa;Pediatra;Comum;72;Diogo da Costa;1953-06-19;Distrito Federal;Masculino;2023-09-10;2023-10-09
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;74;Sarah Sales;1989-05-16;Maranhão;Feminino;2023-01-14;2023-01-18
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;76;Carlos Eduardo Pereira;1984-11-21;Piauí;Masculino;2023-03-25;2023-04-20
+Dr. Roberto;Pediatra;Comum;77;Renan Lopes;1961-03-13;Paraíba;Masculino;2022-05-07;2022-05-26
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;78;Nathan Nascimento;1986-09-05;Piauí;Masculino;2023-07-09;2023-08-06
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;82;Lucas Gabriel Moreira;1999-03-26;Bahia;Masculino;2023-04-28;2023-05-11
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;88;Bruno Melo;2003-12-29;Sergipe;Masculino;2022-02-10;2022-03-08
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;89;Joana Porto;1986-02-06;Sergipe;Feminino;2023-02-19;2023-03-10
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;92;Amanda da Rocha;1984-03-22;Maranhão;Feminino;2023-02-10;2023-02-21
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;94;Davi Luiz Cavalcanti;1958-11-28;Alagoas;Masculino;2023-08-11;2023-08-12
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;95;Renan Teixeira;1954-04-05;Acre;Masculino;2022-03-28;2022-04-19
+Dra. Vanessa;Pediatra;Comum;96;Ana Silva;2000-07-15;Mato Grosso do Sul;Feminino;2022-04-15;2022-04-23
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;103;João Pedro Jesus;1966-10-31;Rio Grande do Norte;Masculino;2022-02-12;2022-02-22
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;105;Kevin Carvalho;1959-05-03;Rondônia;Masculino;2022-11-27;2022-12-14
+Dra. Vanessa;Pediatra;Comum;116;Eduarda Gonçalves;1997-03-29;Ceará;Feminino;2022-07-22;2022-08-20
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;120;Joana Cavalcanti;1984-04-05;Bahia;Feminino;2022-06-08;2022-07-03
+Dra. Vanessa;Pediatra;Comum;141;Rafaela Lopes;1996-10-05;Rio Grande do Sul;Feminino;2022-12-08;2022-12-17
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;142;Thiago da Cunha;1970-03-28;Espírito Santo;Masculino;2023-03-12;2023-03-15
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;147;Diogo Duarte;1959-03-02;Paraíba;Masculino;2023-02-28;2023-03-15
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;151;Rodrigo Gomes;1985-06-26;Piauí;Masculino;2023-10-09;2023-10-12
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;152;Heloísa da Mata;1986-02-25;Goiás;Feminino;2022-12-05;2022-12-11
+Dra. Vanessa;Pediatra;Comum;153;Lucas Cavalcanti;1985-02-12;Minas Gerais;Masculino;2022-12-21;2022-12-25
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;166;Olivia Farias;1983-07-27;Pernambuco;Feminino;2023-05-07;2023-06-01
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;171;João Vitor Cavalcanti;1972-08-27;Rio Grande do Sul;Masculino;2023-11-01;2023-12-01
+Dr. Lessa;Pediatra;Comum;179;João Guilherme Barbosa;1961-08-18;Rondônia;Masculino;2023-10-20;2023-11-09
+Dr. Roberto;Pediatra;Comum;181;Luiz Otávio Sales;1975-08-23;Bahia;Masculino;2022-09-10;2022-09-17
+Dr. Lessa;Pediatra;Comum;186;Evelyn Campos;1963-03-31;Acre;Feminino;2022-02-06;2022-02-24
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;205;Bryan Gomes;1967-11-04;São Paulo;Masculino;2023-11-27;2023-12-13
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;207;Maria Luiza da Paz;1966-12-29;Tocantins;Feminino;2022-07-08;2022-07-16
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;208;Thiago Jesus;1975-04-19;Sergipe;Masculino;2022-08-03;2022-08-11
+Dra. Vanessa;Pediatra;Comum;211;Clara Peixoto;1974-04-06;Rio de Janeiro;Feminino;2023-10-20;2023-10-29
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;213;Danilo Barros;1978-09-21;Mato Grosso do Sul;Masculino;2023-06-24;2023-07-21
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;219;Julia da Paz;1981-10-05;Espírito Santo;Feminino;2022-11-09;2022-11-17
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;223;Juan Caldeira;1965-09-10;Roraima;Masculino;2022-05-04;2022-05-21
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;225;Matheus Pires;1979-06-16;Bahia;Masculino;2022-05-09;2022-05-16
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;236;Luiza Rocha;1993-06-17;Paraíba;Feminino;2023-08-11;2023-08-29
+Dra. Vanessa;Pediatra;Comum;241;Cauã Pinto;1952-07-22;Santa Catarina;Masculino;2022-02-28;2022-03-18
+Dr. Lessa;Pediatra;Comum;246;Laura Cardoso;1998-11-04;Tocantins;Feminino;2023-11-03;2023-11-14
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;248;Vitor Mendes;1991-11-17;Paraná;Masculino;2022-10-02;2022-10-25
+Dr. Roberto;Pediatra;Comum;249;Isaac da Mota;1962-09-05;Minas Gerais;Masculino;2023-11-11;2023-12-05
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;254;Bernardo Farias;1987-04-22;Rio Grande do Sul;Masculino;2022-06-16;2022-07-16
+Dra. Vanessa;Pediatra;Comum;257;Levi Peixoto;1988-02-17;Acre;Masculino;2023-10-25;2023-11-08
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;260;Amanda Ferreira;1982-06-25;Piauí;Feminino;2023-05-22;2023-06-15
+Dr. Lessa;Pediatra;Comum;268;Ian Nascimento;1954-06-26;Bahia;Masculino;2022-08-09;2022-08-27
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;269;Ana Lívia Moreira;1965-09-16;Rio de Janeiro;Feminino;2023-09-03;2023-09-06
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;270;Benjamin da Paz;1975-02-09;Mato Grosso;Masculino;2022-08-15;2022-08-25
+Dra. Carolina;Pediatra;Comum;282;Mariana Viana;1958-12-12;Rio Grande do Sul;Feminino;2022-04-01;2022-04-03
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;288;Enzo Lopes;1976-06-27;Distrito Federal;Masculino;2023-06-02;2023-06-28
+Dr. Roberto;Pediatra;Comum;290;Juliana Barros;1958-02-05;Roraima;Feminino;2022-01-02;2022-01-07
+Dra. Laura;Pediatra;Comum;291;Murilo da Rosa;1993-04-10;Espírito Santo;Masculino;2022-02-22;2022-03-10
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;295;Julia Barros;1996-10-16;Espírito Santo;Feminino;2023-09-08;2023-09-21
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;303;Gabriela da Luz;1957-11-06;Minas Gerais;Feminino;2022-08-21;2022-09-17
+Dra. Laura;Pediatra;Comum;304;Francisco Viana;1967-07-25;Ceará;Masculino;2022-07-28;2022-07-29
+Dr. Lessa;Pediatra;Comum;311;Paulo Novaes;2002-12-16;Tocantins;Masculino;2022-02-02;2022-02-21
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;317;Fernanda da Paz;1985-09-24;Rio Grande do Sul;Feminino;2023-10-18;2023-11-14
+Dr. Lessa;Pediatra;Comum;330;Giovanna Dias;1991-11-04;Distrito Federal;Feminino;2022-04-23;2022-05-13
+Dra. Laura;Pediatra;Comum;342;Pietra Peixoto;1952-10-26;Acre;Feminino;2022-06-04;2022-06-12
+Dr. Roberto;Pediatra;Comum;358;Igor Peixoto;1988-09-04;Rondônia;Masculino;2022-10-19;2022-11-16
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;362;Fernando Monteiro;1973-11-11;Mato Grosso do Sul;Masculino;2022-03-20;2022-03-31
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;364;Juan Vieira;1965-09-25;Roraima;Masculino;2022-10-15;2022-11-14
+Dra. Laura;Pediatra;Comum;394;Enzo Silveira;1957-01-21;Maranhão;Masculino;2023-05-25;2023-06-03
+Dr. Roberto;Pediatra;Comum;400;Otávio Monteiro;1991-08-07;Bahia;Masculino;2023-11-04;2023-11-10
+Dra. Carolina;Pediatra;Comum;401;Heitor Duarte;1963-01-25;Alagoas;Masculino;2022-11-07;2022-11-21
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;402;Pietra Cardoso;1982-12-01;Bahia;Feminino;2022-08-23;2022-09-06
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;406;Bianca Gomes;1979-02-19;Pernambuco;Feminino;2022-04-02;2022-04-07
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;408;Samuel Gomes;1994-02-02;Pará;Masculino;2022-11-21;2022-11-22
+Dra. Laura;Pediatra;Comum;412;Lívia Viana;1991-12-19;Amazonas;Feminino;2022-01-23;2022-02-21
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;413;Marcos Vinicius Novaes;2002-02-02;Rio de Janeiro;Masculino;2022-08-21;2022-08-29
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;416;João Felipe Moura;1960-01-22;Acre;Masculino;2022-10-01;2022-10-18
+Dr. Roberto;Pediatra;Comum;433;Alícia Correia;2001-04-09;Rondônia;Feminino;2023-05-20;2023-05-27
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;434;Ryan Cardoso;1979-12-09;Mato Grosso;Masculino;2023-12-20;2024-01-17
+Dra. Carolina;Pediatra;Comum;444;João Lucas Souza;1962-04-20;Sergipe;Masculino;2022-11-24;2022-12-03
+Dra. Carolina;Pediatra;Comum;456;Ian Araújo;1990-07-25;Rio de Janeiro;Masculino;2023-04-06;2023-04-09
+Dr. Lessa;Pediatra;Comum;467;Lara Campos;2002-07-15;São Paulo;Feminino;2022-10-23;2022-10-31
+Dra. Laura;Pediatra;Comum;470;Benício Peixoto;1979-11-21;Goiás;Masculino;2022-04-06;2022-04-08
+Dr. Roberto;Pediatra;Comum;477;Cecília Carvalho;1993-07-22;Pará;Feminino;2023-02-23;2023-03-06
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;481;Davi Luiz Almeida;1970-04-09;Distrito Federal;Masculino;2023-10-20;2023-11-14
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;483;Nicole Ribeiro;1981-03-29;Paraíba;Feminino;2022-12-06;2023-01-05
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;496;Maria Vitória Rocha;1971-05-13;Amazonas;Feminino;2022-11-21;2022-12-09
+Dr. Roberto;Pediatra;Comum;501;Maria Fernanda Moura;1970-07-16;Rio de Janeiro;Feminino;2023-10-22;2023-10-23
+Dr. Lessa;Pediatra;Comum;505;Luigi Rezende;1982-07-23;Amazonas;Masculino;2023-08-07;2023-08-31
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;507;Theo Nascimento;1999-03-29;Acre;Masculino;2022-01-04;2022-02-02
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;509;Levi Oliveira;1991-05-30;Rio Grande do Norte;Masculino;2023-05-11;2023-06-02
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;511;Marina Porto;1972-11-01;Alagoas;Feminino;2023-05-06;2023-05-17
+Dr. Lessa;Pediatra;Comum;512;Joaquim Cardoso;1961-12-21;Tocantins;Masculino;2022-08-14;2022-09-04
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;531;Eduardo Novaes;1982-07-03;Alagoas;Masculino;2023-06-01;2023-06-28
+Dra. Laura;Pediatra;Comum;536;Maria Julia Ramos;1956-08-24;Paraíba;Feminino;2023-05-13;2023-06-02
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;537;Joana da Mota;2001-06-22;Santa Catarina;Feminino;2022-11-02;2022-11-14
+Dra. Carolina;Pediatra;Comum;551;Emanuel da Cruz;1961-06-15;Rio Grande do Norte;Masculino;2022-06-25;2022-07-23
+Dr. Roberto;Pediatra;Comum;560;Sabrina das Neves;2002-08-15;Rio de Janeiro;Feminino;2023-10-02;2023-10-26
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;570;Ana Vitória Melo;1957-09-07;Roraima;Feminino;2023-10-23;2023-11-16
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;571;Nina Silveira;1996-06-28;Tocantins;Feminino;2022-07-21;2022-08-07
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;580;Joana das Neves;1982-02-14;Maranhão;Feminino;2023-05-11;2023-05-15
+Dr. Roberto;Pediatra;Comum;585;Ana Júlia Farias;1993-10-17;Ceará;Feminino;2022-03-28;2022-04-17
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;588;Enzo Gabriel Ferreira;1968-04-15;Sergipe;Masculino;2023-12-20;2024-01-12
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;590;Alexia Porto;1998-08-15;Ceará;Feminino;2023-09-07;2023-09-19
+Dra. Laura;Pediatra;Comum;591;Luiz Henrique das Neves;1998-10-11;Espírito Santo;Masculino;2022-10-11;2022-10-20
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;594;Otávio da Conceição;1995-07-08;Acre;Masculino;2023-10-01;2023-10-09
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;595;Luiz Miguel Cunha;1982-03-12;Ceará;Masculino;2023-03-14;2023-03-20
+Dr. Lessa;Pediatra;Comum;596;Luiz Felipe Azevedo;1952-11-07;Alagoas;Masculino;2022-08-21;2022-09-19
+Dra. Vanessa;Pediatra;Comum;598;João Miguel Freitas;1959-01-14;São Paulo;Masculino;2022-07-06;2022-07-11
+Dr. Roberto;Pediatra;Comum;602;Carolina Souza;1966-01-09;Roraima;Feminino;2023-02-22;2023-03-04
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;603;Maria Eduarda da Paz;2005-03-15;Paraná;Feminino;2023-05-27;2023-06-15
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;605;Sabrina das Neves;1972-09-27;Sergipe;Feminino;2022-08-22;2022-09-03
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;606;Yasmin Cardoso;1955-06-13;Mato Grosso do Sul;Feminino;2023-11-03;2023-11-14
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;611;Enzo Melo;1991-10-24;Paraná;Masculino;2023-08-22;2023-09-15
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;616;Laura Aragão;1982-11-13;Rio Grande do Sul;Feminino;2023-10-16;2023-11-01
+Dra. Carolina;Pediatra;Comum;620;Eduardo Melo;1965-11-17;Espírito Santo;Masculino;2023-08-18;2023-09-17
+Dra. Vanessa;Pediatra;Comum;626;João Pedro Correia;1965-08-02;Ceará;Masculino;2022-09-18;2022-10-11
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;633;Vitor Sales;1968-05-09;Santa Catarina;Masculino;2022-01-14;2022-02-13
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;639;Maria Mendes;1969-09-18;Distrito Federal;Feminino;2023-06-21;2023-06-30
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;645;Vitor Moura;1979-08-10;Goiás;Masculino;2023-03-09;2023-03-16
+Dra. Laura;Pediatra;Comum;651;Natália Gonçalves;1997-03-17;Santa Catarina;Feminino;2023-09-13;2023-10-09
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;660;Ana Carolina da Mota;1997-06-20;Rondônia;Feminino;2023-09-07;2023-09-25
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;662;Noah Porto;2000-12-10;Pará;Masculino;2022-05-03;2022-05-05
+Dra. Carolina;Pediatra;Comum;673;Luigi Cavalcanti;1994-11-02;Rondônia;Masculino;2022-11-20;2022-11-25
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;680;Rafael Santos;1988-09-27;Amazonas;Masculino;2023-02-06;2023-02-24
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;686;Ana Clara Nogueira;2000-06-30;Tocantins;Feminino;2023-03-03;2023-03-16
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;690;Enrico Aragão;1993-06-25;Ceará;Masculino;2023-08-15;2023-08-22
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;691;Leonardo Monteiro;1991-02-19;Rio de Janeiro;Masculino;2023-08-26;2023-09-17
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;698;Pedro Rodrigues;1961-07-04;Pernambuco;Masculino;2022-01-03;2022-01-23
+Dr. Lessa;Pediatra;Comum;703;Elisa Almeida;2001-01-09;São Paulo;Feminino;2023-12-26;2023-12-30
+Dr. Lessa;Pediatra;Comum;709;Enrico Rodrigues;1986-12-02;Distrito Federal;Masculino;2022-04-14;2022-05-11
+Dra. Vanessa;Pediatra;Comum;712;Yuri Duarte;1982-04-16;Minas Gerais;Masculino;2022-08-18;2022-08-30
+Dra. Carolina;Pediatra;Comum;718;Leandro Fogaça;1981-05-23;Amapá;Masculino;2022-12-28;2023-01-06
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;721;Stephany Monteiro;1967-04-08;Amapá;Feminino;2022-08-01;2022-08-27
+Dra. Vanessa;Pediatra;Comum;734;João Guilherme Alves;1977-05-15;Amapá;Masculino;2022-03-22;2022-04-12
+Dr. Roberto;Pediatra;Comum;745;Ana Caldeira;1971-04-04;Minas Gerais;Feminino;2023-03-20;2023-04-09
+Dra. Laura;Pediatra;Comum;747;Pietra Sales;2003-07-16;Pará;Feminino;2023-08-07;2023-09-03
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;758;André Lopes;1985-12-18;Distrito Federal;Masculino;2023-05-05;2023-05-15
+Dra. Laura;Pediatra;Comum;759;Paulo Barros;1992-07-28;Distrito Federal;Masculino;2022-03-06;2022-03-31
+Dra. Vanessa;Pediatra;Comum;764;Sarah Novaes;1986-10-30;Rondônia;Feminino;2023-02-08;2023-02-24
+Dra. Carolina;Pediatra;Comum;773;Thomas Gomes;1985-06-05;Bahia;Masculino;2022-07-04;2022-07-21
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;777;Brenda Souza;1981-01-17;Mato Grosso do Sul;Feminino;2023-02-17;2023-02-18
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;778;João Felipe Teixeira;1987-10-13;Tocantins;Masculino;2022-09-25;2022-10-18
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;782;Kaique Fernandes;1954-12-25;Paraná;Masculino;2023-09-26;2023-10-17
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;783;Carolina Gomes;1976-11-14;São Paulo;Feminino;2023-10-04;2023-10-21
+Dr. Roberto;Pediatra;Comum;787;Sarah da Cunha;1957-02-08;São Paulo;Feminino;2023-01-21;2023-02-10
+Dr. Roberto;Pediatra;Comum;793;Igor Vieira;1998-02-08;Sergipe;Masculino;2022-02-25;2022-03-12
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;795;Alexia Farias;1990-11-07;Tocantins;Feminino;2023-05-20;2023-06-07
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;796;João Vitor Farias;1997-10-08;Mato Grosso;Masculino;2023-09-23;2023-09-28
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;798;Vinicius Silveira;1968-05-28;Amapá;Masculino;2023-04-03;2023-04-15
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;812;Stella Duarte;1981-12-05;Ceará;Feminino;2022-04-15;2022-05-04
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;817;Lucca Campos;1957-04-27;Espírito Santo;Masculino;2023-07-01;2023-07-14
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;824;Erick Rezende;1967-04-05;Roraima;Masculino;2022-07-06;2022-07-10
+Dra. Laura;Pediatra;Comum;831;Vitor Cardoso;1989-06-21;Maranhão;Masculino;2022-07-25;2022-07-29
+Dra. Carolina;Pediatra;Comum;834;Lucca Melo;1993-08-03;Piauí;Masculino;2022-01-01;2022-01-09
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;837;Ana Vitória Ribeiro;1962-04-17;Maranhão;Feminino;2022-02-27;2022-03-21
+Dr. Roberto;Pediatra;Comum;860;Eloah Fernandes;1985-04-08;Maranhão;Feminino;2023-01-21;2023-01-30
+Dra. Carolina;Pediatra;Comum;863;Camila Dias;1992-10-31;Pará;Feminino;2022-08-03;2022-08-10
+Dra. Vanessa;Pediatra;Comum;864;João Guilherme da Cruz;2004-11-03;Rondônia;Masculino;2023-08-10;2023-09-06
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;865;Vitor Hugo da Cruz;2001-04-24;Amazonas;Masculino;2022-11-10;2022-11-12
+Dra. Vanessa;Pediatra;Comum;885;Rafaela Nogueira;1968-09-28;Maranhão;Feminino;2023-01-03;2023-01-12
+Dr. Roberto;Pediatra;Comum;888;Rodrigo Rocha;1993-10-27;Paraná;Masculino;2023-02-08;2023-02-17
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;889;Emanuelly Pires;1985-07-20;Tocantins;Feminino;2022-06-13;2022-06-21
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;890;Laura Peixoto;1962-01-29;Paraná;Feminino;2023-04-27;2023-05-25
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;892;Ana Vitória Ramos;1989-11-05;Espírito Santo;Feminino;2022-03-19;2022-03-26
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;893;Enzo Gabriel Porto;1984-09-07;Mato Grosso;Masculino;2023-05-19;2023-06-16
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;896;Ryan Gonçalves;1991-06-29;Rondônia;Masculino;2023-04-13;2023-05-03
+Dr. Lessa;Pediatra;Comum;911;Eduarda Araújo;1962-09-24;Rio Grande do Norte;Feminino;2022-11-17;2022-11-21
+Dra. Laura;Pediatra;Enfermidade de filhos pequenos;916;Augusto Correia;1978-04-05;Pará;Masculino;2022-05-02;2022-05-14
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;917;Pedro Lucas Sales;1969-01-16;Bahia;Masculino;2023-01-01;2023-01-19
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;921;Ana Beatriz Vieira;1973-03-03;Sergipe;Feminino;2023-07-13;2023-07-19
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;929;Pedro Moura;1957-12-14;Mato Grosso do Sul;Masculino;2022-08-01;2022-08-11
+Dra. Carolina;Pediatra;Comum;932;Calebe Oliveira;1997-11-07;Rio de Janeiro;Masculino;2023-04-15;2023-04-24
+Dr. Roberto;Pediatra;Comum;936;Olivia Alves;1953-10-17;Espírito Santo;Feminino;2023-06-06;2023-06-13
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;937;Lara Peixoto;1978-09-18;Distrito Federal;Feminino;2023-10-20;2023-11-03
+Dra. Laura;Pediatra;Comum;938;Kaique da Luz;1956-07-18;Amapá;Masculino;2022-09-11;2022-09-16
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;946;Mariane Viana;1958-05-05;Acre;Feminino;2022-07-02;2022-07-09
+Dra. Vanessa;Pediatra;Enfermidade de filhos pequenos;956;Manuela Azevedo;1953-08-31;Goiás;Feminino;2023-09-23;2023-09-30
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;957;Gabrielly Viana;1964-06-26;Rio Grande do Sul;Feminino;2023-05-21;2023-06-09
+Dr. Lessa;Pediatra;Comum;963;Raul Pires;1952-07-15;Paraná;Masculino;2022-05-10;2022-06-09
+Dra. Carolina;Pediatra;Enfermidade de filhos pequenos;964;Pedro Henrique Oliveira;1977-12-09;Bahia;Masculino;2022-02-24;2022-03-04
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;966;Davi Lucca Rezende;1998-03-06;Alagoas;Masculino;2022-05-10;2022-05-15
+Dr. Lessa;Pediatra;Enfermidade de filhos pequenos;976;Francisco da Conceição;1972-07-30;Mato Grosso do Sul;Masculino;2022-11-05;2022-11-28
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;977;Leandro Fernandes;1995-02-24;Acre;Masculino;2022-01-19;2022-02-08
+Dr. Lessa;Pediatra;Comum;981;Milena Campos;1963-04-24;Paraíba;Feminino;2023-05-26;2023-06-21
+Dra. Laura;Pediatra;Comum;987;Breno da Luz;1997-09-18;Espírito Santo;Masculino;2022-02-15;2022-03-04
+Dr. Roberto;Pediatra;Enfermidade de filhos pequenos;996;Rebeca Barros;1992-12-02;Goiás;Feminino;2023-05-16;2023-05-24
+Dr. Lessa;Pediatra;Comum;999;Catarina Caldeira;1962-12-06;Goiás;Feminino;2022-05-12;2022-05-22

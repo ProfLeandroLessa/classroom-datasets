@@ -1,0 +1,187 @@
+Nome do médico;Especialidade;Motivo da licença;ID do colaborador;Nome do colaborador;Data de nascimento;Estado do colaborador;Sexo do colaborador;Início da licença;Término da licença
+Dr. André;Traumatologista;Acidente de trajeto;1;Ana Vitória Fernandes;1955-07-03;Sergipe;Feminino;2023-12-10;2023-12-23
+Dra. Daniele;Traumatologista;Comum;19;Rafael Jesus;2001-07-20;Mato Grosso do Sul;Masculino;2022-09-25;2022-10-10
+Dr. Marcos;Traumatologista;Enfermidade de filhos pequenos;27;Juliana Costa;2004-09-20;Rondônia;Feminino;2022-03-22;2022-04-02
+Dr. Marcos;Traumatologista;Enfermidade de filhos pequenos;32;Bianca Carvalho;1958-03-04;Acre;Feminino;2022-07-17;2022-08-04
+Dr. Ricardo;Traumatologista;Acidente de trabalho;38;Vinicius da Cruz;1976-02-10;Maranhão;Masculino;2022-09-06;2022-09-29
+Dr. Ricardo;Traumatologista;Acidente de trajeto;42;Cauê das Neves;1955-07-17;Acre;Masculino;2023-04-04;2023-04-21
+Dr. Ricardo;Traumatologista;Acidente de trajeto;46;Joaquim da Mata;1969-07-12;Amazonas;Masculino;2023-03-26;2023-04-11
+Dr. Vinicius;Traumatologista;Acidente de trabalho;47;Bruna Pires;1997-03-07;Roraima;Feminino;2023-10-20;2023-11-08
+Dr. André;Traumatologista;Comum;53;Lucas Gabriel Silveira;1953-06-13;Acre;Masculino;2023-02-01;2023-02-16
+Dr. Ricardo;Traumatologista;Enfermidade de filhos pequenos;61;Sophia Nunes;2003-05-24;Santa Catarina;Feminino;2023-12-17;2023-12-26
+Dr. Vinicius;Traumatologista;Comum;69;Sophia Moreira;2004-04-11;Pará;Feminino;2022-03-28;2022-04-22
+Dr. Marcos;Traumatologista;Acidente de trabalho;73;Cecília Barros;1954-11-03;Rio Grande do Norte;Feminino;2022-06-27;2022-07-18
+Dr. André;Traumatologista;Enfermidade de filhos pequenos;97;João Pedro Martins;1972-10-19;Maranhão;Masculino;2022-01-10;2022-01-28
+Dr. Vinicius;Traumatologista;Acidente de trajeto;98;João Guilherme Melo;1995-01-04;Alagoas;Masculino;2022-12-21;2023-01-04
+Dr. Ricardo;Traumatologista;Enfermidade de filhos pequenos;101;Carolina Fogaça;1997-09-07;Mato Grosso;Feminino;2022-11-13;2022-11-26
+Dr. Marcos;Traumatologista;Comum;107;Isadora Duarte;1975-01-20;Distrito Federal;Feminino;2022-09-20;2022-10-05
+Dr. André;Traumatologista;Comum;108;Caio Pinto;1960-06-16;Santa Catarina;Masculino;2022-05-26;2022-06-12
+Dra. Daniele;Traumatologista;Acidente de trajeto;109;Daniela Porto;1994-01-19;Amazonas;Feminino;2023-07-23;2023-08-13
+Dra. Daniele;Traumatologista;Acidente de trajeto;119;Esther da Luz;1961-11-08;Mato Grosso do Sul;Feminino;2023-05-03;2023-05-22
+Dr. Marcos;Traumatologista;Enfermidade de filhos pequenos;126;Alice Costa;1956-09-10;Minas Gerais;Feminino;2023-07-01;2023-07-03
+Dra. Daniele;Traumatologista;Enfermidade de filhos pequenos;130;Marcos Vinicius Silva;1998-04-14;Piauí;Masculino;2023-05-13;2023-06-01
+Dr. André;Traumatologista;Acidente de trabalho;133;Ana Júlia Pires;1975-01-21;Rondônia;Feminino;2022-08-24;2022-09-01
+Dr. Ricardo;Traumatologista;Acidente de trabalho;135;Pedro Duarte;1990-07-08;Distrito Federal;Masculino;2023-10-19;2023-10-24
+Dr. Marcos;Traumatologista;Acidente de trabalho;144;Olivia Lopes;1957-06-19;Distrito Federal;Feminino;2023-01-08;2023-01-09
+Dr. Marcos;Traumatologista;Acidente de trabalho;149;Joaquim Rodrigues;1988-08-14;Alagoas;Masculino;2022-07-18;2022-07-22
+Dr. Vinicius;Traumatologista;Acidente de trajeto;154;Juliana Ribeiro;1973-10-08;Goiás;Feminino;2023-03-23;2023-03-30
+Dr. Marcos;Traumatologista;Acidente de trabalho;156;Gabrielly Rezende;1997-01-06;Bahia;Feminino;2022-03-13;2022-03-27
+Dra. Daniele;Traumatologista;Comum;157;Matheus Lopes;1988-01-15;Acre;Masculino;2022-03-26;2022-04-09
+Dr. Ricardo;Traumatologista;Acidente de trabalho;161;Caio Mendes;1990-08-05;Pará;Masculino;2022-12-23;2023-01-17
+Dr. Marcos;Traumatologista;Acidente de trajeto;164;Emanuel Cardoso;1978-11-27;Minas Gerais;Masculino;2022-07-13;2022-08-01
+Dr. André;Traumatologista;Acidente de trajeto;174;Alana da Cunha;2003-09-22;Pará;Feminino;2022-02-24;2022-03-05
+Dr. André;Traumatologista;Enfermidade de filhos pequenos;178;Letícia Ribeiro;1998-01-09;Acre;Feminino;2022-11-11;2022-12-10
+Dr. André;Traumatologista;Comum;183;Calebe Silveira;1981-10-04;Paraná;Masculino;2023-02-14;2023-02-28
+Dr. Marcos;Traumatologista;Comum;184;Maria Sophia Freitas;1953-12-20;Mato Grosso;Feminino;2023-11-07;2023-11-08
+Dra. Daniele;Traumatologista;Acidente de trabalho;198;Nicole Castro;1971-12-25;Mato Grosso do Sul;Feminino;2023-08-08;2023-08-16
+Dr. André;Traumatologista;Acidente de trajeto;212;Renan Farias;1987-12-01;Rio Grande do Sul;Masculino;2022-11-04;2022-11-11
+Dr. Ricardo;Traumatologista;Comum;216;Pedro Miguel Rocha;1996-04-19;Santa Catarina;Masculino;2023-06-23;2023-07-09
+Dr. Ricardo;Traumatologista;Comum;222;Francisco Mendes;1966-01-16;Amapá;Masculino;2022-09-25;2022-10-01
+Dra. Daniele;Traumatologista;Acidente de trabalho;228;Gustavo Henrique da Paz;1997-12-03;Piauí;Masculino;2023-06-28;2023-07-04
+Dr. André;Traumatologista;Acidente de trabalho;239;Maria Luiza Peixoto;1990-04-24;Piauí;Feminino;2023-11-19;2023-11-24
+Dr. Vinicius;Traumatologista;Acidente de trabalho;243;João Gabriel Pinto;1955-06-04;Goiás;Masculino;2023-01-17;2023-01-30
+Dra. Daniele;Traumatologista;Comum;252;Cauã Moraes;1980-05-28;Amazonas;Masculino;2023-10-20;2023-11-09
+Dr. André;Traumatologista;Acidente de trabalho;266;Thiago Barbosa;1959-09-24;Rio Grande do Norte;Masculino;2022-10-03;2022-10-04
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;277;Cauê Rodrigues;1996-06-07;Paraná;Masculino;2023-08-06;2023-08-22
+Dr. Vinicius;Traumatologista;Comum;278;Maria Clara das Neves;2000-08-26;Acre;Feminino;2022-01-17;2022-01-21
+Dr. Marcos;Traumatologista;Acidente de trajeto;287;Thomas Gomes;1974-07-31;Rio de Janeiro;Masculino;2022-01-09;2022-01-24
+Dr. Ricardo;Traumatologista;Comum;292;Raquel Ramos;1981-11-15;Distrito Federal;Feminino;2022-09-24;2022-10-11
+Dr. Marcos;Traumatologista;Enfermidade de filhos pequenos;297;Gustavo Henrique Mendes;1990-02-04;Distrito Federal;Masculino;2023-04-19;2023-04-29
+Dr. Marcos;Traumatologista;Acidente de trabalho;298;Amanda Rocha;1987-08-28;Acre;Feminino;2023-01-19;2023-01-22
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;300;Enzo Gabriel Teixeira;1957-02-08;Mato Grosso do Sul;Masculino;2023-12-23;2024-01-08
+Dra. Daniele;Traumatologista;Acidente de trabalho;336;Levi Fernandes;1968-01-05;Rio de Janeiro;Masculino;2022-08-25;2022-09-10
+Dr. Marcos;Traumatologista;Comum;339;Pedro Azevedo;1955-02-15;Piauí;Masculino;2023-07-19;2023-08-07
+Dr. Marcos;Traumatologista;Acidente de trajeto;354;Anthony da Cunha;1960-06-25;Paraná;Masculino;2023-04-20;2023-04-22
+Dr. Ricardo;Traumatologista;Acidente de trabalho;356;Ana Ribeiro;1989-11-18;Bahia;Feminino;2022-04-05;2022-04-07
+Dr. Ricardo;Traumatologista;Acidente de trabalho;370;Yasmin Rocha;1988-06-24;Mato Grosso;Feminino;2023-05-25;2023-06-11
+Dr. Vinicius;Traumatologista;Comum;372;Augusto Peixoto;1994-08-01;Paraná;Masculino;2023-02-01;2023-02-16
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;374;Luana Correia;1962-04-06;Paraíba;Feminino;2022-04-12;2022-04-20
+Dr. Marcos;Traumatologista;Acidente de trajeto;377;Joaquim Peixoto;1952-07-18;Rondônia;Masculino;2023-10-13;2023-10-14
+Dra. Daniele;Traumatologista;Enfermidade de filhos pequenos;384;Vinicius Caldeira;1974-09-04;Roraima;Masculino;2023-04-27;2023-05-08
+Dr. André;Traumatologista;Enfermidade de filhos pequenos;386;Calebe da Cunha;1990-09-17;Amazonas;Masculino;2022-03-20;2022-03-25
+Dra. Daniele;Traumatologista;Acidente de trajeto;415;Rafael Gomes;2000-04-13;Mato Grosso;Masculino;2022-08-27;2022-08-30
+Dr. André;Traumatologista;Comum;417;Alexandre Oliveira;1967-02-05;Distrito Federal;Masculino;2023-05-04;2023-05-31
+Dra. Daniele;Traumatologista;Enfermidade de filhos pequenos;419;Marcelo Araújo;1957-03-03;Sergipe;Masculino;2022-03-28;2022-04-09
+Dr. Marcos;Traumatologista;Comum;421;Eloah da Costa;1963-08-30;Espírito Santo;Feminino;2023-01-12;2023-02-06
+Dra. Daniele;Traumatologista;Acidente de trabalho;422;Carolina Oliveira;1953-11-17;Piauí;Feminino;2023-11-01;2023-11-08
+Dr. Marcos;Traumatologista;Comum;424;João Felipe Carvalho;1958-05-07;Alagoas;Masculino;2022-08-22;2022-09-03
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;429;Thales da Rosa;1974-12-26;Rio Grande do Sul;Masculino;2023-05-02;2023-05-11
+Dra. Daniele;Traumatologista;Acidente de trajeto;430;Nicolas Teixeira;1995-04-05;Espírito Santo;Masculino;2023-02-25;2023-03-12
+Dr. Ricardo;Traumatologista;Acidente de trabalho;432;Yago Pinto;1984-06-03;Rio Grande do Norte;Masculino;2023-07-28;2023-08-07
+Dr. André;Traumatologista;Acidente de trajeto;435;Guilherme Caldeira;1977-08-13;Roraima;Masculino;2022-10-06;2022-11-02
+Dr. Marcos;Traumatologista;Enfermidade de filhos pequenos;437;Ana Sophia Vieira;1987-04-04;Rondônia;Feminino;2022-03-03;2022-03-22
+Dra. Daniele;Traumatologista;Comum;451;Clarice Correia;1993-02-06;Mato Grosso do Sul;Feminino;2022-04-07;2022-04-26
+Dr. Ricardo;Traumatologista;Comum;452;Lorenzo Alves;1968-05-08;Rio Grande do Norte;Masculino;2023-01-24;2023-02-16
+Dr. Ricardo;Traumatologista;Comum;457;Kamilly Vieira;2002-12-04;Espírito Santo;Feminino;2022-01-06;2022-01-18
+Dr. Vinicius;Traumatologista;Acidente de trajeto;464;Cauã Freitas;1964-06-01;Pernambuco;Masculino;2022-04-18;2022-05-13
+Dr. Marcos;Traumatologista;Acidente de trajeto;475;Vicente da Luz;1990-06-17;Distrito Federal;Masculino;2023-04-27;2023-05-03
+Dr. André;Traumatologista;Acidente de trajeto;488;Miguel Souza;2003-07-07;Tocantins;Masculino;2023-06-04;2023-06-29
+Dr. Marcos;Traumatologista;Enfermidade de filhos pequenos;493;Vitória Moreira;1992-10-16;Paraíba;Feminino;2022-09-20;2022-09-26
+Dr. Marcos;Traumatologista;Acidente de trabalho;495;Maria Fernanda Souza;1999-10-19;Mato Grosso do Sul;Feminino;2023-04-28;2023-05-13
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;499;Nina Nascimento;1988-12-18;Pernambuco;Feminino;2022-05-05;2022-05-29
+Dr. Ricardo;Traumatologista;Comum;504;Nathan Dias;1990-10-02;Paraíba;Masculino;2023-05-01;2023-05-28
+Dr. Marcos;Traumatologista;Comum;510;Maria Julia Ramos;1958-05-05;Amazonas;Feminino;2022-03-09;2022-03-15
+Dr. André;Traumatologista;Comum;515;João Felipe Caldeira;1977-01-23;Santa Catarina;Masculino;2022-11-06;2022-11-13
+Dr. Ricardo;Traumatologista;Enfermidade de filhos pequenos;518;Maria Alice Dias;1989-11-03;Pernambuco;Feminino;2023-03-18;2023-04-05
+Dr. Ricardo;Traumatologista;Enfermidade de filhos pequenos;520;Benjamin Silva;1980-09-06;Minas Gerais;Masculino;2022-09-20;2022-10-15
+Dr. Ricardo;Traumatologista;Enfermidade de filhos pequenos;527;Luiz Henrique Silveira;1976-06-14;Rio de Janeiro;Masculino;2022-07-17;2022-07-29
+Dra. Daniele;Traumatologista;Comum;529;Davi Lucas Carvalho;1972-12-14;Santa Catarina;Masculino;2023-02-13;2023-03-10
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;533;Yasmin Viana;1969-12-24;Roraima;Feminino;2022-02-18;2022-03-11
+Dra. Daniele;Traumatologista;Comum;534;Renan Fogaça;1960-09-24;Tocantins;Masculino;2023-11-24;2023-12-12
+Dra. Daniele;Traumatologista;Acidente de trajeto;539;Alexia Moreira;1960-01-02;São Paulo;Feminino;2023-07-02;2023-07-25
+Dr. André;Traumatologista;Acidente de trajeto;540;João Gabriel Martins;1966-09-18;Amapá;Masculino;2022-06-22;2022-07-20
+Dr. André;Traumatologista;Acidente de trabalho;543;André Campos;1958-05-21;Paraná;Masculino;2022-12-12;2023-01-07
+Dra. Daniele;Traumatologista;Comum;549;Maria Cardoso;1961-02-17;Maranhão;Feminino;2022-09-13;2022-10-01
+Dr. Vinicius;Traumatologista;Comum;555;Pedro Miguel Correia;1955-07-20;São Paulo;Masculino;2022-10-09;2022-10-26
+Dr. Ricardo;Traumatologista;Acidente de trajeto;561;Calebe Moraes;1987-03-07;Amazonas;Masculino;2023-07-23;2023-07-31
+Dr. Ricardo;Traumatologista;Comum;564;Daniel Porto;1976-04-20;Rio Grande do Sul;Masculino;2023-02-21;2023-03-06
+Dr. Ricardo;Traumatologista;Comum;565;Brenda da Rocha;1983-09-29;Minas Gerais;Feminino;2022-10-22;2022-11-21
+Dr. André;Traumatologista;Acidente de trajeto;572;Nathan Ferreira;1975-12-18;Mato Grosso do Sul;Masculino;2023-12-11;2023-12-19
+Dr. Marcos;Traumatologista;Acidente de trajeto;573;Juliana da Rocha;1953-11-07;Rio Grande do Norte;Feminino;2022-05-18;2022-06-14
+Dr. André;Traumatologista;Comum;579;Anthony Moraes;1966-03-09;Mato Grosso do Sul;Masculino;2023-09-13;2023-09-15
+Dr. Vinicius;Traumatologista;Acidente de trabalho;593;Júlia Martins;1956-06-11;Bahia;Feminino;2023-09-05;2023-09-22
+Dr. Vinicius;Traumatologista;Acidente de trajeto;601;Ana Beatriz Viana;1983-03-25;Rio Grande do Norte;Feminino;2023-02-22;2023-03-09
+Dr. Marcos;Traumatologista;Comum;610;Bernardo Oliveira;1954-09-03;Distrito Federal;Masculino;2023-09-25;2023-09-26
+Dr. Ricardo;Traumatologista;Comum;618;Mirella da Mata;1975-08-24;Espírito Santo;Feminino;2023-07-01;2023-07-04
+Dr. André;Traumatologista;Comum;621;Ana Luiza Castro;1955-07-22;Paraíba;Feminino;2023-02-03;2023-02-16
+Dr. Vinicius;Traumatologista;Acidente de trabalho;622;Cauã Gomes;2004-09-22;Amapá;Masculino;2022-04-13;2022-04-17
+Dr. André;Traumatologista;Enfermidade de filhos pequenos;624;Breno Cunha;2000-05-17;Paraíba;Masculino;2023-09-07;2023-09-29
+Dra. Daniele;Traumatologista;Acidente de trabalho;628;João Miguel Fernandes;1987-06-25;São Paulo;Masculino;2023-12-15;2024-01-05
+Dr. André;Traumatologista;Acidente de trajeto;640;Theo Ribeiro;1972-12-02;Acre;Masculino;2022-08-14;2022-08-26
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;647;Yuri Moura;1979-06-14;Rio Grande do Sul;Masculino;2022-11-28;2022-12-17
+Dr. Marcos;Traumatologista;Acidente de trabalho;652;Leonardo Almeida;1982-08-16;Acre;Masculino;2022-08-17;2022-09-08
+Dr. André;Traumatologista;Acidente de trabalho;657;Emanuelly Nunes;1986-01-05;Distrito Federal;Feminino;2023-12-02;2023-12-20
+Dr. Ricardo;Traumatologista;Acidente de trajeto;661;Lara Vieira;1954-08-29;Mato Grosso do Sul;Feminino;2022-03-01;2022-03-09
+Dr. Ricardo;Traumatologista;Enfermidade de filhos pequenos;663;Maria Eduarda Caldeira;1954-11-26;Piauí;Feminino;2022-04-08;2022-04-26
+Dr. Ricardo;Traumatologista;Enfermidade de filhos pequenos;666;Marina Ferreira;1988-01-21;Amazonas;Feminino;2023-02-24;2023-03-10
+Dr. André;Traumatologista;Acidente de trabalho;669;Ana Júlia Pereira;1996-03-25;Amapá;Feminino;2022-09-22;2022-10-05
+Dra. Daniele;Traumatologista;Enfermidade de filhos pequenos;671;Kamilly Almeida;1996-06-18;Maranhão;Feminino;2023-06-08;2023-07-03
+Dra. Daniele;Traumatologista;Acidente de trabalho;676;Sarah Novaes;2004-04-21;Sergipe;Feminino;2023-04-04;2023-04-13
+Dra. Daniele;Traumatologista;Comum;677;Alana Cardoso;1967-03-06;Goiás;Feminino;2022-09-18;2022-09-29
+Dra. Daniele;Traumatologista;Enfermidade de filhos pequenos;681;Diogo Novaes;1994-01-28;Piauí;Masculino;2023-05-25;2023-06-23
+Dr. André;Traumatologista;Acidente de trajeto;687;Bárbara Rocha;1967-02-23;Paraíba;Feminino;2022-11-22;2022-11-30
+Dr. Marcos;Traumatologista;Acidente de trabalho;693;Caroline Caldeira;1953-08-27;Mato Grosso;Feminino;2022-07-02;2022-07-27
+Dra. Daniele;Traumatologista;Comum;694;Laura Vieira;1964-04-03;São Paulo;Feminino;2022-05-26;2022-06-13
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;697;Gabriela Nogueira;1958-02-05;Mato Grosso do Sul;Feminino;2022-10-23;2022-11-19
+Dr. Ricardo;Traumatologista;Acidente de trajeto;701;Cecília das Neves;1967-09-21;Goiás;Feminino;2022-09-22;2022-10-15
+Dr. Marcos;Traumatologista;Comum;702;Igor Porto;1983-06-29;Maranhão;Masculino;2022-09-16;2022-09-26
+Dr. Ricardo;Traumatologista;Acidente de trabalho;713;Paulo Santos;1976-04-14;Rondônia;Masculino;2022-07-28;2022-08-27
+Dra. Daniele;Traumatologista;Acidente de trajeto;714;Carlos Eduardo Araújo;1991-08-20;Pernambuco;Masculino;2023-03-28;2023-04-22
+Dr. Vinicius;Traumatologista;Comum;719;Luiz Otávio Peixoto;1962-01-20;Paraná;Masculino;2023-03-11;2023-03-13
+Dr. Ricardo;Traumatologista;Acidente de trajeto;720;Bruna Nascimento;1972-09-13;Rio Grande do Sul;Feminino;2022-08-13;2022-08-17
+Dr. Vinicius;Traumatologista;Comum;723;Lorena Moreira;1987-03-21;Paraíba;Feminino;2022-10-27;2022-11-21
+Dr. Marcos;Traumatologista;Acidente de trajeto;733;Daniel Fernandes;1952-09-23;Mato Grosso do Sul;Masculino;2022-07-04;2022-07-09
+Dr. Ricardo;Traumatologista;Acidente de trabalho;741;Ana Luiza Nunes;1989-09-10;Minas Gerais;Feminino;2022-11-06;2022-11-25
+Dr. Vinicius;Traumatologista;Comum;742;Nicole Rezende;1958-09-10;Bahia;Feminino;2022-02-06;2022-02-23
+Dr. André;Traumatologista;Comum;772;Calebe Nogueira;1989-12-15;Mato Grosso do Sul;Masculino;2023-09-13;2023-09-22
+Dr. Vinicius;Traumatologista;Acidente de trajeto;776;Isabella Ribeiro;1972-01-29;Pernambuco;Feminino;2023-12-17;2023-12-25
+Dr. Marcos;Traumatologista;Acidente de trajeto;779;Kamilly Azevedo;1965-03-12;Rio Grande do Sul;Feminino;2023-06-18;2023-07-17
+Dra. Daniele;Traumatologista;Acidente de trajeto;785;João Gabriel Campos;1981-05-11;Acre;Masculino;2023-10-14;2023-11-10
+Dr. Marcos;Traumatologista;Acidente de trajeto;786;Gabriel da Rocha;1991-04-02;Mato Grosso;Masculino;2022-01-12;2022-01-20
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;788;Lorenzo Cardoso;1984-12-08;Mato Grosso do Sul;Masculino;2023-08-24;2023-08-28
+Dr. Marcos;Traumatologista;Acidente de trabalho;801;Maria Vitória Rocha;1993-11-10;Rio Grande do Sul;Feminino;2023-08-09;2023-08-14
+Dr. André;Traumatologista;Acidente de trabalho;805;Amanda Nascimento;1980-04-07;Mato Grosso do Sul;Feminino;2022-03-22;2022-04-18
+Dr. Ricardo;Traumatologista;Comum;806;Joaquim Martins;1958-03-06;Rio de Janeiro;Masculino;2022-02-23;2022-03-06
+Dr. André;Traumatologista;Acidente de trabalho;807;Rafaela Ribeiro;1992-10-25;Roraima;Feminino;2022-01-23;2022-02-02
+Dr. Ricardo;Traumatologista;Enfermidade de filhos pequenos;808;Ana Júlia Fogaça;1982-02-05;Rondônia;Feminino;2022-01-20;2022-01-30
+Dr. Marcos;Traumatologista;Enfermidade de filhos pequenos;811;Heloísa Moreira;1954-09-27;Acre;Feminino;2023-08-02;2023-08-04
+Dra. Daniele;Traumatologista;Comum;816;Luana Costa;1987-04-13;Rio de Janeiro;Feminino;2023-10-22;2023-10-24
+Dra. Daniele;Traumatologista;Comum;822;João Guilherme da Mota;2001-06-10;Minas Gerais;Masculino;2022-08-16;2022-08-17
+Dr. Ricardo;Traumatologista;Acidente de trabalho;830;Gabrielly Martins;1989-12-22;Santa Catarina;Feminino;2023-03-21;2023-03-26
+Dr. André;Traumatologista;Acidente de trajeto;832;Giovanna Barbosa;2000-06-15;Alagoas;Feminino;2022-12-19;2023-01-11
+Dr. Marcos;Traumatologista;Comum;833;Marina Cardoso;1995-03-21;Amapá;Feminino;2023-12-04;2023-12-29
+Dra. Daniele;Traumatologista;Comum;838;Enrico Azevedo;1969-10-13;Tocantins;Masculino;2022-05-07;2022-05-12
+Dr. Marcos;Traumatologista;Enfermidade de filhos pequenos;845;Henrique Ferreira;1973-02-01;Paraná;Masculino;2023-08-26;2023-09-18
+Dr. Vinicius;Traumatologista;Acidente de trabalho;846;Gustavo Henrique Silveira;1961-07-22;Santa Catarina;Masculino;2023-06-23;2023-07-19
+Dr. Marcos;Traumatologista;Enfermidade de filhos pequenos;848;Manuela Barros;2003-09-17;Pará;Feminino;2022-10-23;2022-10-28
+Dra. Daniele;Traumatologista;Comum;850;Beatriz da Costa;1993-06-01;Acre;Feminino;2023-01-01;2023-01-30
+Dr. Marcos;Traumatologista;Acidente de trajeto;862;Ryan Rezende;1999-01-30;Tocantins;Masculino;2022-10-28;2022-11-13
+Dr. André;Traumatologista;Enfermidade de filhos pequenos;866;Emanuella Aragão;2002-12-06;Espírito Santo;Feminino;2022-05-24;2022-05-29
+Dr. Ricardo;Traumatologista;Acidente de trajeto;879;Luiza Aragão;2003-01-31;São Paulo;Feminino;2023-05-03;2023-05-29
+Dr. Ricardo;Traumatologista;Enfermidade de filhos pequenos;880;Maria Clara Moreira;1976-02-20;Alagoas;Feminino;2022-05-27;2022-06-24
+Dra. Daniele;Traumatologista;Enfermidade de filhos pequenos;891;Pedro Miguel Porto;1995-12-22;Rondônia;Masculino;2023-03-12;2023-04-11
+Dr. Marcos;Traumatologista;Comum;894;Amanda Silveira;1963-11-21;Alagoas;Feminino;2022-02-13;2022-02-26
+Dr. Ricardo;Traumatologista;Acidente de trabalho;900;João Lucas Melo;1959-05-15;Tocantins;Masculino;2022-05-10;2022-05-16
+Dr. Marcos;Traumatologista;Comum;901;Alice Lopes;2003-11-19;Alagoas;Feminino;2022-03-19;2022-04-09
+Dr. Ricardo;Traumatologista;Enfermidade de filhos pequenos;902;Rafael da Rocha;1967-06-16;Piauí;Masculino;2022-07-16;2022-08-03
+Dr. Ricardo;Traumatologista;Comum;904;Matheus Viana;1985-02-12;Mato Grosso do Sul;Masculino;2023-01-07;2023-02-03
+Dr. André;Traumatologista;Acidente de trajeto;905;Ana Julia Ribeiro;1963-03-12;Alagoas;Feminino;2022-11-28;2022-11-30
+Dra. Daniele;Traumatologista;Enfermidade de filhos pequenos;906;Enrico Lopes;2004-03-22;Ceará;Masculino;2022-01-25;2022-01-31
+Dr. Marcos;Traumatologista;Acidente de trabalho;912;Ana Clara Rezende;1999-04-08;Espírito Santo;Feminino;2023-12-12;2024-01-01
+Dr. Vinicius;Traumatologista;Acidente de trabalho;915;Pietra Costa;1964-10-08;Distrito Federal;Feminino;2023-05-27;2023-06-14
+Dra. Daniele;Traumatologista;Acidente de trajeto;919;Cauã Nunes;1957-08-24;Tocantins;Masculino;2023-11-28;2023-12-02
+Dra. Daniele;Traumatologista;Comum;922;Davi Lucas das Neves;1986-04-02;Espírito Santo;Masculino;2023-07-03;2023-07-28
+Dr. Ricardo;Traumatologista;Comum;924;Agatha Farias;1981-08-30;Tocantins;Feminino;2023-08-14;2023-09-02
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;928;Marcela Ribeiro;1956-01-10;Bahia;Feminino;2022-08-25;2022-09-12
+Dra. Daniele;Traumatologista;Acidente de trabalho;931;Lucca Oliveira;1972-09-16;Minas Gerais;Masculino;2023-01-18;2023-01-20
+Dra. Daniele;Traumatologista;Enfermidade de filhos pequenos;941;Catarina Sales;1985-01-29;Rio Grande do Sul;Feminino;2023-11-17;2023-11-27
+Dra. Daniele;Traumatologista;Acidente de trabalho;943;Ana Carolina da Luz;1999-05-16;Roraima;Feminino;2023-10-10;2023-10-20
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;948;Esther Novaes;1994-01-29;Rio Grande do Norte;Feminino;2023-11-26;2023-12-08
+Dr. André;Traumatologista;Acidente de trajeto;951;Marina Ribeiro;1983-04-01;Pará;Feminino;2023-07-21;2023-08-15
+Dra. Daniele;Traumatologista;Enfermidade de filhos pequenos;960;Isis Nogueira;1995-11-25;Mato Grosso do Sul;Feminino;2023-12-02;2023-12-18
+Dr. Vinicius;Traumatologista;Acidente de trabalho;967;Theo Silva;1973-12-21;Rio Grande do Norte;Masculino;2023-04-06;2023-05-02
+Dr. Ricardo;Traumatologista;Acidente de trabalho;979;Caio da Paz;1956-02-01;Roraima;Masculino;2023-05-22;2023-06-15
+Dr. Ricardo;Traumatologista;Acidente de trajeto;985;Júlia Vieira;1961-02-16;Paraíba;Feminino;2023-06-01;2023-06-28
+Dr. Vinicius;Traumatologista;Enfermidade de filhos pequenos;986;Alícia Ribeiro;1997-05-19;Mato Grosso;Feminino;2022-04-08;2022-04-21
+Dr. Ricardo;Traumatologista;Acidente de trajeto;992;Caio da Cruz;1978-04-28;Piauí;Masculino;2023-12-10;2023-12-28
+Dr. Ricardo;Traumatologista;Comum;993;Natália da Conceição;1966-08-31;Amapá;Feminino;2022-02-08;2022-03-10
